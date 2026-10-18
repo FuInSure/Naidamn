@@ -1,0 +1,688 @@
+[
+  {
+    "subject": "ds",
+    "title": "1.2.3 本节试题精选",
+    "listedPage": 18,
+    "page": 15,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "5.2.3 本节试题精选",
+    "listedPage": 145,
+    "page": 138,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "5.2.4 答案与解析",
+    "listedPage": 147,
+    "page": 139,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.1 图的基本概念",
+    "listedPage": 207,
+    "page": 206,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.1.1 图的定义",
+    "listedPage": 207,
+    "page": 206,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.1.2 本节试题精选",
+    "listedPage": 210,
+    "page": 209,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.1.3 答案与解析",
+    "listedPage": 212,
+    "page": 211,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2 图的存储及基本操作",
+    "listedPage": 214,
+    "page": 213,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.1 邻接矩阵法",
+    "listedPage": 214,
+    "page": 213,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.3 十字链表",
+    "listedPage": 217,
+    "page": 216,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.4 邻接多重表",
+    "listedPage": 218,
+    "page": 217,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.5 图的基本操作",
+    "listedPage": 219,
+    "page": 218,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.6 本节试题精选",
+    "listedPage": 219,
+    "page": 218,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.2.7 答案与解析",
+    "listedPage": 223,
+    "page": 222,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3 图的遍历",
+    "listedPage": 227,
+    "page": 226,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3.1 广度优先搜索",
+    "listedPage": 227,
+    "page": 226,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3.2 深度优先搜索",
+    "listedPage": 230,
+    "page": 229,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3.3 图的遍历与图的连通性",
+    "listedPage": 231,
+    "page": 230,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3.4 本节试题精选",
+    "listedPage": 231,
+    "page": 230,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.3.5 答案与解析",
+    "listedPage": 234,
+    "page": 233,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4 图的应用",
+    "listedPage": 239,
+    "page": 238,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.1 最小生成树",
+    "listedPage": 239,
+    "page": 238,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.2 最短路径",
+    "listedPage": 241,
+    "page": 240,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.3 有向无环图描述表达式",
+    "listedPage": 245,
+    "page": 244,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.4 拓扑排序",
+    "listedPage": 245,
+    "page": 244,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.5 关键路径",
+    "listedPage": 247,
+    "page": 246,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.6 本节试题精选",
+    "listedPage": 250,
+    "page": 249,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "6.4.7 答案与解析",
+    "listedPage": 259,
+    "page": 258,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.1 查找的基本概念",
+    "listedPage": 277,
+    "page": 276,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2 顺序查找和折半查找",
+    "listedPage": 278,
+    "page": 277,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2.1 顺序查找",
+    "listedPage": 278,
+    "page": 277,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2.2 折半查找",
+    "listedPage": 280,
+    "page": 279,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2.3 分块查找",
+    "listedPage": 281,
+    "page": 280,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2.4 本节试题精选",
+    "listedPage": 282,
+    "page": 281,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.2.5 答案与解析",
+    "listedPage": 285,
+    "page": 284,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3 树形查找",
+    "listedPage": 292,
+    "page": 290,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3.1 二叉排序树（BST）",
+    "listedPage": 292,
+    "page": 290,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3.2 平衡二叉树",
+    "listedPage": 295,
+    "page": 294,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3.3 红黑树",
+    "listedPage": 299,
+    "page": 298,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3.4 本节试题精选",
+    "listedPage": 304,
+    "page": 303,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.3.5 答案与解析",
+    "listedPage": 308,
+    "page": 307,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.4 B树 和B+树",
+    "listedPage": 318,
+    "page": 316,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.4.1 B树及其基本操作",
+    "listedPage": 318,
+    "page": 317,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.4.2 B+树的基本概念",
+    "listedPage": 321,
+    "page": 320,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.4.3 本节试题精选",
+    "listedPage": 322,
+    "page": 321,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.4.4 答案与解析",
+    "listedPage": 325,
+    "page": 323,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5 散列（Hash）表",
+    "listedPage": 331,
+    "page": 329,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.1 散列表的基本概念",
+    "listedPage": 331,
+    "page": 329,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.2 散列函数的构造方法",
+    "listedPage": 331,
+    "page": 330,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.3 处理冲突的方法",
+    "listedPage": 332,
+    "page": 330,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.4 散列查找及性能分析的应用",
+    "listedPage": 334,
+    "page": 332,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.5 本节试题精选",
+    "listedPage": 335,
+    "page": 333,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "7.5.6 答案与解析",
+    "listedPage": 338,
+    "page": 336,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.1 排序的基本概念",
+    "listedPage": 346,
+    "page": 343,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.1.1 排序的定义",
+    "listedPage": 346,
+    "page": 343,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.1.2 本节试题精选",
+    "listedPage": 347,
+    "page": 344,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.1.3 答案与解析",
+    "listedPage": 347,
+    "page": 344,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2 插入排序",
+    "listedPage": 348,
+    "page": 345,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2.1 直接插入排序",
+    "listedPage": 348,
+    "page": 345,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2.2 折半插入排序",
+    "listedPage": 349,
+    "page": 346,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2.3 希尔排序",
+    "listedPage": 350,
+    "page": 343,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2.4 本节试题精选",
+    "listedPage": 351,
+    "page": 348,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.2.5 答案与解析",
+    "listedPage": 353,
+    "page": 350,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.3 交换排序",
+    "listedPage": 355,
+    "page": 352,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.3.1 冒泡排序",
+    "listedPage": 355,
+    "page": 349,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.3.2 快速排序",
+    "listedPage": 356,
+    "page": 353,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.3.3 本节试题精选",
+    "listedPage": 359,
+    "page": 356,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.3.4 答案与解析",
+    "listedPage": 361,
+    "page": 369,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.4 选择排序",
+    "listedPage": 366,
+    "page": 363,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.4.1 简单选择排序",
+    "listedPage": 366,
+    "page": 363,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.4.2 堆排序",
+    "listedPage": 366,
+    "page": 363,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.4.3 本节试题精选",
+    "listedPage": 369,
+    "page": 379,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.4.4 答案与解析",
+    "listedPage": 372,
+    "page": 369,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.5 归并排序、基数排序和计数排序",
+    "listedPage": 378,
+    "page": 375,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.5.1 归并排序",
+    "listedPage": 378,
+    "page": 366,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.5.2 基数排序",
+    "listedPage": 380,
+    "page": 377,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "*8.5.3 计数排序",
+    "listedPage": 381,
+    "page": 378,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.5.4 本节试题精选",
+    "listedPage": 382,
+    "page": 379,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.5.5 答案与解析",
+    "listedPage": 385,
+    "page": 382,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.6 各种内部排序算法的比较及应用",
+    "listedPage": 388,
+    "page": 385,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.6.1 内部排序算法的比较",
+    "listedPage": 388,
+    "page": 385,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.6.2 内部排序算法的应用",
+    "listedPage": 389,
+    "page": 386,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.6.3 本节试题精选",
+    "listedPage": 389,
+    "page": 397,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.6.4 答案与解析",
+    "listedPage": 392,
+    "page": 389,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7 外部排序",
+    "listedPage": 395,
+    "page": 392,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.1 外部排序的基本概念",
+    "listedPage": 395,
+    "page": 392,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.2 外部排序的方法",
+    "listedPage": 396,
+    "page": 393,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.3 多路平衡归并与败者树",
+    "listedPage": 397,
+    "page": 394,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.4 置换-选择排序（生成初始归并段）",
+    "listedPage": 398,
+    "page": 395,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.6 本节试题精选",
+    "listedPage": 400,
+    "page": 397,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "8.7.7 答案与解析",
+    "listedPage": 401,
+    "page": 398,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "ds",
+    "title": "第6章 图",
+    "listedPage": 207,
+    "page": 206,
+    "basis": "corrected first section on chapter opening page"
+  },
+  {
+    "subject": "ds",
+    "title": "第7章 查找",
+    "listedPage": 277,
+    "page": 276,
+    "basis": "corrected first section on chapter opening page"
+  },
+  {
+    "subject": "ds",
+    "title": "第8章 排序",
+    "listedPage": 346,
+    "page": 343,
+    "basis": "corrected first section on chapter opening page"
+  },
+  {
+    "subject": "co",
+    "title": "1.2.2 计算机硬件",
+    "listedPage": 14,
+    "page": 15,
+    "basis": "visually checked original pages 14 and 15"
+  },
+  {
+    "subject": "os",
+    "title": "3.2.4 页面置换算法",
+    "listedPage": 229,
+    "page": 240,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "net",
+    "title": "3.6.5 本节习题精选",
+    "listedPage": 112,
+    "page": 127,
+    "basis": "existing heading audit"
+  },
+  {
+    "subject": "net",
+    "title": "3.6.6 答案与解析",
+    "listedPage": 118,
+    "page": 128,
+    "basis": "existing heading audit"
+  }
+]

@@ -1,0 +1,3506 @@
+[
+  {
+    "title": "1.1  数据结构的基本概念",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1 数据结构的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.1  基本概念和术语",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1. 1 基本概念和术语",
+    "numberMatched": true
+  },
+  {
+    "title": "2．数据元素",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "2，数据元素",
+    "numberMatched": true
+  },
+  {
+    "title": "3．数据对象",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "3，数据对象",
+    "numberMatched": true
+  },
+  {
+    "title": "4．数据类型",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "4，数据类型",
+    "numberMatched": true
+  },
+  {
+    "title": "5．数据结构",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "5 ． 数据结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.2  数据结构三要素",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 1. 2 数据结构三要素",
+    "numberMatched": true
+  },
+  {
+    "title": "1．数据的逻辑结构",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 数据的逻辑结构",
+    "numberMatched": true
+  },
+  {
+    "title": "2．数据的存储结构",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "2 ． 数据的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．数据的运算",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "3，数据的运算",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.3  本节试题精选",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "1. 1. 3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.1.4  答案与解析",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "1. 1. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2  算法和算法评价",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "1. 2 算法和算法评价",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.1  算法的基本概念",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "1. 2，1 算法的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.2  算法效率的度量",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "1. 2 · 2 算法效率的度量",
+    "numberMatched": true
+  },
+  {
+    "title": "1．时间复杂度",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "1. 时间复杂度",
+    "numberMatched": true
+  },
+  {
+    "title": "2．空间复杂度",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.32,
+    "text": "2 ． 空间复杂度",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.3  本节试题精选",
+    "bookmarkPage": 18,
+    "page": 15,
+    "score": 0.988,
+    "text": "1. 1. 3 本节试题精选",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2.4  答案与解析",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 1.32,
+    "text": "1. 2. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 23,
+    "page": 23,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1．循环主体中的变量参与循环条件的判断",
+    "bookmarkPage": 23,
+    "page": 23,
+    "score": 1.32,
+    "text": "1. 循环主体中的变量参与循环条件的判断",
+    "numberMatched": true
+  },
+  {
+    "title": "2．循环主体中的变量与循环条件无关",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 1.32,
+    "text": "2 ． 循环主体中的变量与循环条件无关",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1  线性表的定义和基本操作",
+    "bookmarkPage": 25,
+    "page": 25,
+    "score": 1.32,
+    "text": "2，1 线性表的定义和基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.1  线性表的定义",
+    "bookmarkPage": 25,
+    "page": 25,
+    "score": 1.32,
+    "text": "2. 1. 1 线性表的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.2  线性表的基本操作",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 1.32,
+    "text": "2. 1. 2 线性表的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.3  本节试题精选",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 1.32,
+    "text": "2. 1. 3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.1.4  答案与解析",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 1.32,
+    "text": "2，1. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2  线性表的顺序表示",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "2，2 线性表的顺序表示",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.1  顺序表的定义",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "221 顺序表的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.2  顺序表上基本操作的实现",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "222 顺序表上基本操作的实现",
+    "numberMatched": true
+  },
+  {
+    "title": "1．顺序表的初始化",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 顺序表的初始化",
+    "numberMatched": true
+  },
+  {
+    "title": "2．插入操作",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "2 ． 插入操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3．删除操作",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "3 ． 删除操作",
+    "numberMatched": true
+  },
+  {
+    "title": "4．按值查找（顺序查找）",
+    "bookmarkPage": 30,
+    "page": 30,
+    "score": 1.32,
+    "text": "4 ． 按值查找（顺序查找）",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.3  本节试题精选",
+    "bookmarkPage": 30,
+    "page": 30,
+    "score": 1.32,
+    "text": "223 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 30,
+    "page": 30,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 32,
+    "page": 32,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2.4  答案与解析",
+    "bookmarkPage": 33,
+    "page": 33,
+    "score": 1.32,
+    "text": "2. 2. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 33,
+    "page": 33,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 34,
+    "page": 34,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3  线性表的链式表示",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "2 · 3 线性表的链式表示",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.1  单链表的定义",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "2. 3. 1 单链表的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.2  单链表上基本操作的实现",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "2. 3. 2 单链表上基本操作的实现",
+    "numberMatched": true
+  },
+  {
+    "title": "1．单链表的初始化",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "1，单链表的初始化",
+    "numberMatched": true
+  },
+  {
+    "title": "2．求表长操作",
+    "bookmarkPage": 44,
+    "page": 44,
+    "score": 1.32,
+    "text": "2，求表长操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3．按序号查找结点",
+    "bookmarkPage": 44,
+    "page": 44,
+    "score": 1.32,
+    "text": "3 ． 按序号查找结点",
+    "numberMatched": true
+  },
+  {
+    "title": "4．按值查找表结点",
+    "bookmarkPage": 44,
+    "page": 44,
+    "score": 1.32,
+    "text": "4 ． 按值查找表结点",
+    "numberMatched": true
+  },
+  {
+    "title": "5．插入结点操作",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.32,
+    "text": "5，插入结点操作",
+    "numberMatched": true
+  },
+  {
+    "title": "6．删除结点操作",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.32,
+    "text": "6 ． 删除结点操作",
+    "numberMatched": true
+  },
+  {
+    "title": "7．采用头插法建立单链表",
+    "bookmarkPage": 46,
+    "page": 46,
+    "score": 1.32,
+    "text": "7，采用头插法建立单链表",
+    "numberMatched": true
+  },
+  {
+    "title": "8．采用尾插法建立单链表",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "8，采用尾插法建立单链表",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.3  双链表",
+    "bookmarkPage": 48,
+    "page": 48,
+    "score": 1.32,
+    "text": "2. 3. 3 双链表",
+    "numberMatched": true
+  },
+  {
+    "title": "1．双链表的插入操作",
+    "bookmarkPage": 48,
+    "page": 48,
+    "score": 1.32,
+    "text": "1. 双链表的插入操作",
+    "numberMatched": true
+  },
+  {
+    "title": "2．双链表的删除操作",
+    "bookmarkPage": 49,
+    "page": 49,
+    "score": 1.32,
+    "text": "2，双链表的删除操作",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.4  循环链表",
+    "bookmarkPage": 49,
+    "page": 49,
+    "score": 1.32,
+    "text": "2. 3. 4 循环链表",
+    "numberMatched": true
+  },
+  {
+    "title": "1．循环单链表",
+    "bookmarkPage": 49,
+    "page": 49,
+    "score": 1.209,
+    "text": "1. 环单链表",
+    "numberMatched": true
+  },
+  {
+    "title": "2．循环双链表",
+    "bookmarkPage": 49,
+    "page": 49,
+    "score": 1.32,
+    "text": "2，循环双链表",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.5  静态链表",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2. 3 · 5 静态链表",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.6  顺序表和链表的比较",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2. 3. 6 顺序表和链表的比较",
+    "numberMatched": true
+  },
+  {
+    "title": "1．存取（读/写）方式",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "1. 存取（读 / 写）方式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．逻辑结构与物理结构",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2 ． 逻辑结构与物理结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．查找、插入和删除操作",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "3，查找、插入和删除操作",
+    "numberMatched": true
+  },
+  {
+    "title": "4．空间分配",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "4 ． 空间分配",
+    "numberMatched": true
+  },
+  {
+    "title": "1．基于存储的考虑",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "1. 基于存储的考虑",
+    "numberMatched": true
+  },
+  {
+    "title": "2．基于运算的考虑",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "2 ． 基于运算的考虑",
+    "numberMatched": true
+  },
+  {
+    "title": "3．基于环境的考虑",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "3 ． 基于环境的考虑",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.7  本节试题精选",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "2. 3. 7 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 55,
+    "page": 55,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3.8  答案与解析",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.32,
+    "text": "2. 3 · 8 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 61,
+    "page": 61,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.1  栈",
+    "bookmarkPage": 75,
+    "page": 75,
+    "score": 1.32,
+    "text": "3 · 1 栈",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.1  栈的基本概念",
+    "bookmarkPage": 75,
+    "page": 75,
+    "score": 1.32,
+    "text": "3 · 1. 1 栈的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．栈的定义",
+    "bookmarkPage": 75,
+    "page": 75,
+    "score": 1.32,
+    "text": "1. 栈的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．栈的基本操作",
+    "bookmarkPage": 76,
+    "page": 76,
+    "score": 1.32,
+    "text": "2，栈的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.2  栈的顺序存储结构",
+    "bookmarkPage": 76,
+    "page": 76,
+    "score": 1.32,
+    "text": "3 · 1. 2 栈的顺序存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．顺序栈的实现",
+    "bookmarkPage": 76,
+    "page": 76,
+    "score": 1.32,
+    "text": "1. 顺序栈的实现",
+    "numberMatched": true
+  },
+  {
+    "title": "2．顺序栈的基本操作",
+    "bookmarkPage": 77,
+    "page": 77,
+    "score": 1.32,
+    "text": "2 ． 顺序栈的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3．共享栈",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "3 ． 共享栈",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.3  栈的链式存储结构",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "3. 1. 3 栈的链式存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.4  本节试题精选",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 1.32,
+    "text": "3. 1. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.1.5  答案与解析",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 1.32,
+    "text": "3. 1. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 85,
+    "page": 85,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2  队列",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "3 · 2 队列",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.1  队列的基本概念",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "321 队列的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．队列的定义",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "1. 队列的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．队列常见的基本操作",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "2 ． 队列常见的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.2  队列的顺序存储结构",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "322 队列的顺序存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．队列的顺序存储",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "1. 队列的顺序存储",
+    "numberMatched": true
+  },
+  {
+    "title": "2．循环队列",
+    "bookmarkPage": 89,
+    "page": 89,
+    "score": 1.32,
+    "text": "2 ． 循环队列",
+    "numberMatched": true
+  },
+  {
+    "title": "3．循环队列的操作（基于牺牲一个单元法）",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 1.258,
+    "text": "3 ． 循环火列的操作（基于牺牲一个单元法）",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.3  队列的链式存储结构",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 0.9,
+    "text": "3 之 3 队列的链式存储结构",
+    "numberMatched": false
+  },
+  {
+    "title": "1．队列的链式存储",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 1.32,
+    "text": "1. 队列的链式存储",
+    "numberMatched": true
+  },
+  {
+    "title": "2．链式队列的基本操作",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 1.32,
+    "text": "2 ． 链式队列的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.4  双端队列",
+    "bookmarkPage": 92,
+    "page": 92,
+    "score": 1.32,
+    "text": "324 双端队列",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.5  本节试题精选",
+    "bookmarkPage": 94,
+    "page": 94,
+    "score": 1.32,
+    "text": "325 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 94,
+    "page": 94,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 96,
+    "page": 96,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2.6  答案与解析",
+    "bookmarkPage": 96,
+    "page": 96,
+    "score": 1.32,
+    "text": "326 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 96,
+    "page": 96,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 99,
+    "page": 99,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.3  栈和队列的应用",
+    "bookmarkPage": 102,
+    "page": 102,
+    "score": 1.32,
+    "text": "3 · 3 栈和队列的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.1  栈在括号匹配中的应用",
+    "bookmarkPage": 102,
+    "page": 102,
+    "score": 1.32,
+    "text": "3. 3，1 栈在括号匹配中的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.2  栈在表达式求值中的应用",
+    "bookmarkPage": 102,
+    "page": 102,
+    "score": 1.32,
+    "text": "3，3，2 栈在表达式求值中的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "1．算术表达式",
+    "bookmarkPage": 102,
+    "page": 102,
+    "score": 1.32,
+    "text": "1. 算术表达式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．中缀表达式转后缀表达式",
+    "bookmarkPage": 103,
+    "page": 103,
+    "score": 1.32,
+    "text": "2，中缀表达式转后缀表达式",
+    "numberMatched": true
+  },
+  {
+    "title": "3．后缀表达式求值",
+    "bookmarkPage": 104,
+    "page": 104,
+    "score": 1.177,
+    "text": "3 ． 后缓表达式求值",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.3  栈在递归中的应用",
+    "bookmarkPage": 104,
+    "page": 104,
+    "score": 1.32,
+    "text": "3，3，3 栈在递归中的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.4  队列在层次遍历中的应用",
+    "bookmarkPage": 105,
+    "page": 105,
+    "score": 1.32,
+    "text": "3，3. 4 队列在层次遍历中的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.5  队列在计算机系统中的应用",
+    "bookmarkPage": 106,
+    "page": 106,
+    "score": 1.32,
+    "text": "3. 3，5 队列在计算机系统中的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.6  本节试题精选",
+    "bookmarkPage": 106,
+    "page": 106,
+    "score": 1.32,
+    "text": "3. 3. 6 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 106,
+    "page": 106,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 108,
+    "page": 108,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.3.7  答案与解析",
+    "bookmarkPage": 108,
+    "page": 108,
+    "score": 1.32,
+    "text": "3，3 · 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 108,
+    "page": 108,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.4  数组和特殊矩阵",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 1.32,
+    "text": "3 · 4 数组和特殊矩阵",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.1  数组的定义",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 1.32,
+    "text": "3，4 · 1 数组的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.2  数组的存储结构",
+    "bookmarkPage": 113,
+    "page": 113,
+    "score": 1.32,
+    "text": "342 数组的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.3  特殊矩阵的压缩存储",
+    "bookmarkPage": 113,
+    "page": 113,
+    "score": 1.32,
+    "text": "3，4，3 特殊矩阵的压缩存储",
+    "numberMatched": true
+  },
+  {
+    "title": "1．对称矩阵",
+    "bookmarkPage": 113,
+    "page": 113,
+    "score": 1.32,
+    "text": "1. 对称矩阵",
+    "numberMatched": true
+  },
+  {
+    "title": "2．三角矩阵",
+    "bookmarkPage": 114,
+    "page": 114,
+    "score": 1.32,
+    "text": "2 ． 三角矩阵",
+    "numberMatched": true
+  },
+  {
+    "title": "3．三对角矩阵",
+    "bookmarkPage": 115,
+    "page": 115,
+    "score": 1.32,
+    "text": "3 ． 三对角矩阵",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.4  稀疏矩阵",
+    "bookmarkPage": 115,
+    "page": 115,
+    "score": 1.32,
+    "text": "3 · 4 · 4 稀疏矩阵",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.5  本节试题精选",
+    "bookmarkPage": 116,
+    "page": 116,
+    "score": 1.32,
+    "text": "3. 4. 5 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 116,
+    "page": 116,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.4.6  答案与解析",
+    "bookmarkPage": 117,
+    "page": 117,
+    "score": 1.32,
+    "text": "346 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 117,
+    "page": 117,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "*4.1  串的定义和实现",
+    "bookmarkPage": 121,
+    "page": 121,
+    "score": 1.32,
+    "text": "* 4 · 1 串的定义和实现",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.1  串的定义",
+    "bookmarkPage": 121,
+    "page": 121,
+    "score": 1.32,
+    "text": "4. 1. 1 串的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.2  串的基本操作",
+    "bookmarkPage": 122,
+    "page": 122,
+    "score": 1.32,
+    "text": "4. 1. 2 串的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.3  串的存储结构",
+    "bookmarkPage": 122,
+    "page": 122,
+    "score": 1.32,
+    "text": "4，1. 3 串的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．定长顺序存储表示",
+    "bookmarkPage": 122,
+    "page": 122,
+    "score": 1.32,
+    "text": "1. 定长顺序存储表示",
+    "numberMatched": true
+  },
+  {
+    "title": "2．堆分配存储表示",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 1.32,
+    "text": "2 ． 堆分配存储表示",
+    "numberMatched": true
+  },
+  {
+    "title": "3．块链存储表示",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 1.32,
+    "text": "3 ． 块链存储表示",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2  串的模式匹配",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 1.32,
+    "text": "4，2 串的模式匹配",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.1  简单的模式匹配算法",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 1.32,
+    "text": "4. 2. 1 简单的模式匹配算法",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.2  串的模式匹配算法——KMP算法",
+    "bookmarkPage": 124,
+    "page": 124,
+    "score": 1.249,
+    "text": "422 串的模式匹配算法一一 KMP 算法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．KMP算法的原理",
+    "bookmarkPage": 125,
+    "page": 125,
+    "score": 1.32,
+    "text": "1. KMP 算法的原理",
+    "numberMatched": true
+  },
+  {
+    "title": "2．next数组的手算方法",
+    "bookmarkPage": 126,
+    "page": 126,
+    "score": 1.32,
+    "text": "2 ． next 数组的手算方法",
+    "numberMatched": true
+  },
+  {
+    "title": "*3．next数组的推理公式",
+    "bookmarkPage": 127,
+    "page": 127,
+    "score": 1.32,
+    "text": "* 3 ． next 数组的推理公式",
+    "numberMatched": true
+  },
+  {
+    "title": "4．KMP算法的实现",
+    "bookmarkPage": 128,
+    "page": 128,
+    "score": 1.32,
+    "text": "4，KMP 算法的实现",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.3  KMP算法的进一步优化",
+    "bookmarkPage": 129,
+    "page": 129,
+    "score": 1.32,
+    "text": "4. 2. 3 KMP 算法的进一步优化",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.4  本节试题精选",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 1.32,
+    "text": "424 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.2.5  答案与解析",
+    "bookmarkPage": 131,
+    "page": 131,
+    "score": 1.32,
+    "text": "425 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 131,
+    "page": 131,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 133,
+    "page": 133,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.1  树的基本概念",
+    "bookmarkPage": 136,
+    "page": 136,
+    "score": 1.32,
+    "text": "5 · 1 树的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.1  树的定义",
+    "bookmarkPage": 136,
+    "page": 136,
+    "score": 1.32,
+    "text": "5，1. 1 树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.2  基本术语",
+    "bookmarkPage": 137,
+    "page": 137,
+    "score": 1.32,
+    "text": "5 · 1. 2 基本术语",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.3  树的性质",
+    "bookmarkPage": 138,
+    "page": 138,
+    "score": 1.32,
+    "text": "5，1. 3 树的性质",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.4  本节试题精选",
+    "bookmarkPage": 138,
+    "page": 138,
+    "score": 1.32,
+    "text": "5. 1. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 138,
+    "page": 138,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.1.5  答案与解析",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 1.32,
+    "text": "5，1. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2  二叉树的概念",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 1.32,
+    "text": "5 · 2 二叉树的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.1  二叉树的定义及其主要特性",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 1.32,
+    "text": "5，2，1 二叉树的定义及其主要特性",
+    "numberMatched": true
+  },
+  {
+    "title": "1．二叉树的定义",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 1.32,
+    "text": "1. 二叉树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．几种特殊的二叉树",
+    "bookmarkPage": 142,
+    "page": 142,
+    "score": 1.32,
+    "text": "2 ． 几种特殊的二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "3．二叉树的性质",
+    "bookmarkPage": 142,
+    "page": 142,
+    "score": 1.32,
+    "text": "3 ． 二叉树的性质",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.2  二叉树的存储结构",
+    "bookmarkPage": 143,
+    "page": 143,
+    "score": 1.32,
+    "text": "5，2，2 二叉树的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．顺序存储结构",
+    "bookmarkPage": 143,
+    "page": 143,
+    "score": 1.32,
+    "text": "1. 顺序存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "2．链式存储结构",
+    "bookmarkPage": 144,
+    "page": 144,
+    "score": 1.32,
+    "text": "2 ． 链式存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.3  本节试题精选",
+    "bookmarkPage": 145,
+    "page": 138,
+    "score": 0.972,
+    "text": "5. 1. 4 本节试题精选",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 145,
+    "page": 138,
+    "score": 0.881,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 147,
+    "page": 139,
+    "score": 0.877,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2.4  答案与解析",
+    "bookmarkPage": 147,
+    "page": 139,
+    "score": 0.968,
+    "text": "5，1. 5 答案与解析",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 147,
+    "page": 147,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 150,
+    "page": 150,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3  二叉树的遍历和线索二叉树",
+    "bookmarkPage": 152,
+    "page": 152,
+    "score": 1.32,
+    "text": "5 · 3 二叉树的遍历和线索二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.1  二叉树的遍历",
+    "bookmarkPage": 152,
+    "page": 152,
+    "score": 1.32,
+    "text": "5 · 3 · 1 二叉树的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "1．先序遍历（PreOrder）",
+    "bookmarkPage": 152,
+    "page": 152,
+    "score": 1.32,
+    "text": "1. 先序遍历（PreOrder）",
+    "numberMatched": true
+  },
+  {
+    "title": "2．中序遍历（InOrder）",
+    "bookmarkPage": 153,
+    "page": 153,
+    "score": 1.32,
+    "text": "2 ． 中序遍历 (InOrder)",
+    "numberMatched": true
+  },
+  {
+    "title": "3．后序遍历（PostOrder）",
+    "bookmarkPage": 153,
+    "page": 153,
+    "score": 1.32,
+    "text": "3，后序遍历（PostOrder）",
+    "numberMatched": true
+  },
+  {
+    "title": "4．层次遍历",
+    "bookmarkPage": 153,
+    "page": 153,
+    "score": 1.32,
+    "text": "4 ． 层次遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "5．由遍历序列构造二叉树",
+    "bookmarkPage": 154,
+    "page": 154,
+    "score": 1.32,
+    "text": "5 ． 由遍历序列构造二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.2  线索二叉树",
+    "bookmarkPage": 155,
+    "page": 155,
+    "score": 1.32,
+    "text": "5 · 3 · 2 线索二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "1．线索二叉树的基本概念",
+    "bookmarkPage": 155,
+    "page": 155,
+    "score": 1.32,
+    "text": "1. 线索二叉树的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．中序线索二叉树的构造",
+    "bookmarkPage": 156,
+    "page": 156,
+    "score": 1.32,
+    "text": "2 ． 中序线索二叉树的构造",
+    "numberMatched": true
+  },
+  {
+    "title": "3．中序线索二叉树的遍历",
+    "bookmarkPage": 157,
+    "page": 157,
+    "score": 1.32,
+    "text": "3 ． 中序线索二叉树的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "4．先序线索二叉树和后序线索二叉树",
+    "bookmarkPage": 158,
+    "page": 158,
+    "score": 1.32,
+    "text": "4，先序线索二叉树和后序线索二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.3  本节试题精选",
+    "bookmarkPage": 158,
+    "page": 158,
+    "score": 1.32,
+    "text": "5，3 · 3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 158,
+    "page": 158,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3.4  答案与解析",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "5. 3，4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 170,
+    "page": 170,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.4  树、森林",
+    "bookmarkPage": 180,
+    "page": 180,
+    "score": 1.32,
+    "text": "5 · 4 树、森林",
+    "numberMatched": true
+  },
+  {
+    "title": "5.4.1  树的存储结构",
+    "bookmarkPage": 180,
+    "page": 180,
+    "score": 1.32,
+    "text": "5. 4 · 1 树的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．双亲表示法",
+    "bookmarkPage": 180,
+    "page": 180,
+    "score": 1.32,
+    "text": "1. 双亲表示法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．孩子表示法",
+    "bookmarkPage": 181,
+    "page": 181,
+    "score": 1.32,
+    "text": "2 ． 孩子表示法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．孩子兄弟表示法",
+    "bookmarkPage": 181,
+    "page": 181,
+    "score": 1.32,
+    "text": "3 ． 孩子兄弟表示法",
+    "numberMatched": true
+  },
+  {
+    "title": "5.4.2  树、森林与二叉树的转换",
+    "bookmarkPage": 182,
+    "page": 182,
+    "score": 1.32,
+    "text": "542 树、森林与二叉树的转换",
+    "numberMatched": true
+  },
+  {
+    "title": "1．树转换为二叉树",
+    "bookmarkPage": 182,
+    "page": 182,
+    "score": 1.32,
+    "text": "1. 树转换为二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "2．森林转换为二叉树",
+    "bookmarkPage": 182,
+    "page": 182,
+    "score": 1.32,
+    "text": "2 ． 森林转换为二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "3．二叉树转换为森林",
+    "bookmarkPage": 183,
+    "page": 183,
+    "score": 1.32,
+    "text": "3 ． 二叉树转换为森林",
+    "numberMatched": true
+  },
+  {
+    "title": "5.4.3  树和森林的遍历",
+    "bookmarkPage": 183,
+    "page": 183,
+    "score": 1.32,
+    "text": "5，4，3 树和森林的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "1．树的遍历",
+    "bookmarkPage": 183,
+    "page": 183,
+    "score": 1.32,
+    "text": "1. 树的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "2．森林的遍历",
+    "bookmarkPage": 183,
+    "page": 183,
+    "score": 1.32,
+    "text": "2 ． 森林的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "5.4.4  本节试题精选",
+    "bookmarkPage": 184,
+    "page": 184,
+    "score": 1.32,
+    "text": "5. 4. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 184,
+    "page": 184,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 186,
+    "page": 186,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.4.5  答案与解析",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 1.32,
+    "text": "5，4，5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 191,
+    "page": 191,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.5  树与二叉树的应用",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "5 · 5 树与二叉树的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "5.5.1  哈夫曼树和哈夫曼编码",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "5. 5. 1 哈夫曼树和哈夫曼编码",
+    "numberMatched": true
+  },
+  {
+    "title": "1．哈夫曼树的定义",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "1. 哈夫曼树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．哈夫曼树的构造",
+    "bookmarkPage": 193,
+    "page": 193,
+    "score": 1.32,
+    "text": "2 ． 哈夫曼树的构造",
+    "numberMatched": true
+  },
+  {
+    "title": "3．哈夫曼编码",
+    "bookmarkPage": 194,
+    "page": 194,
+    "score": 1.32,
+    "text": "3，哈夫曼编码",
+    "numberMatched": true
+  },
+  {
+    "title": "5.5.2  并查集",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "5. 5. 2 并查集",
+    "numberMatched": true
+  },
+  {
+    "title": "1．并查集的概念",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "1. 并查集的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．并查集的存储结构",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "2 ． 并查集的存储结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．并查集的基本实现",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "3 ． 并查集的基本实现",
+    "numberMatched": true
+  },
+  {
+    "title": "4．并查集实现的优化",
+    "bookmarkPage": 196,
+    "page": 196,
+    "score": 1.32,
+    "text": "4 ． 并查集实现的优化",
+    "numberMatched": true
+  },
+  {
+    "title": "5.5.3  本节试题精选",
+    "bookmarkPage": 197,
+    "page": 197,
+    "score": 1.32,
+    "text": "5. 5. 3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 197,
+    "page": 197,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.5.4  答案与解析",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 1.32,
+    "text": "5. 5. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 204,
+    "page": 203,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.1　图的基本概念",
+    "bookmarkPage": 207,
+    "page": 206,
+    "score": 1.316,
+    "text": "6 · 1 图的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1.1　图的定义",
+    "bookmarkPage": 207,
+    "page": 206,
+    "score": 1.316,
+    "text": "6. 1. 1 图的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "1．有向图",
+    "bookmarkPage": 208,
+    "page": 207,
+    "score": 1.316,
+    "text": "1. 有向图",
+    "numberMatched": true
+  },
+  {
+    "title": "2．无向图",
+    "bookmarkPage": 208,
+    "page": 207,
+    "score": 1.316,
+    "text": "2 ． 无向图",
+    "numberMatched": true
+  },
+  {
+    "title": "3．简单图、多重图",
+    "bookmarkPage": 208,
+    "page": 207,
+    "score": 1.316,
+    "text": "3，简单图、多重图",
+    "numberMatched": true
+  },
+  {
+    "title": "4．顶点的度、入度和出度",
+    "bookmarkPage": 208,
+    "page": 207,
+    "score": 1.316,
+    "text": "4 ． 顶点的度、入度和出度",
+    "numberMatched": true
+  },
+  {
+    "title": "5．路径、路径长度和回路",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "5，路径、路径长度和回路",
+    "numberMatched": true
+  },
+  {
+    "title": "6．简单路径、简单回路",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "6 ． 简单路径、简单回路",
+    "numberMatched": true
+  },
+  {
+    "title": "7．距离",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "7 ． 距离",
+    "numberMatched": true
+  },
+  {
+    "title": "8．子图",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "8 ． 子图",
+    "numberMatched": true
+  },
+  {
+    "title": "9．连通、连通图和连通分量",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "9 ． 连通、连通图和连通分量",
+    "numberMatched": true
+  },
+  {
+    "title": "10．强连通图、强连通分量",
+    "bookmarkPage": 209,
+    "page": 208,
+    "score": 1.316,
+    "text": "10 ． 强连通图、强连通分量",
+    "numberMatched": true
+  },
+  {
+    "title": "11．生成树、生成森林",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "11. 生成树、生成森林",
+    "numberMatched": true
+  },
+  {
+    "title": "12．边的权、网和带权路径长度",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "12 ． 边的权、网和带权路径长度",
+    "numberMatched": true
+  },
+  {
+    "title": "13．完全图（也称简单完全图）",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "13 ． 完全图（也称简单完全图）",
+    "numberMatched": true
+  },
+  {
+    "title": "14．稠密图、稀疏图",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "14 ． 稠密图、稀疏图",
+    "numberMatched": true
+  },
+  {
+    "title": "15．有向树",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "15，有向树",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1.2　本节试题精选",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 1.316,
+    "text": "6. 1. 2 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 210,
+    "page": 209,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 212,
+    "page": 211,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.1.3　答案与解析",
+    "bookmarkPage": 212,
+    "page": 211,
+    "score": 1.316,
+    "text": "6，1. 3 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 212,
+    "page": 211,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 214,
+    "page": 213,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.2　图的存储及基本操作",
+    "bookmarkPage": 214,
+    "page": 213,
+    "score": 1.316,
+    "text": "6 · 2 图的存储及基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.1　邻接矩阵法",
+    "bookmarkPage": 214,
+    "page": 213,
+    "score": 1.316,
+    "text": "6. 2. 1 邻接矩阵法",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.3　十字链表",
+    "bookmarkPage": 217,
+    "page": 216,
+    "score": 1.316,
+    "text": "623 十字链表",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.4　邻接多重表",
+    "bookmarkPage": 218,
+    "page": 217,
+    "score": 1.316,
+    "text": "6，2，4 邻接多重表",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.5　图的基本操作",
+    "bookmarkPage": 219,
+    "page": 218,
+    "score": 1.316,
+    "text": "625 图的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.6　本节试题精选",
+    "bookmarkPage": 219,
+    "page": 218,
+    "score": 1.316,
+    "text": "626 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 219,
+    "page": 218,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 221,
+    "page": 220,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.2.7　答案与解析",
+    "bookmarkPage": 223,
+    "page": 222,
+    "score": 1.316,
+    "text": "6. 2. 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 223,
+    "page": 222,
+    "score": 0.905,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 225,
+    "page": 224,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.3　图的遍历",
+    "bookmarkPage": 227,
+    "page": 226,
+    "score": 1.316,
+    "text": "6 · 3 图的遍历",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.1　广度优先搜索",
+    "bookmarkPage": 227,
+    "page": 226,
+    "score": 1.316,
+    "text": "6. 3. 1 广度优先搜索",
+    "numberMatched": true
+  },
+  {
+    "title": "1．BFS算法的性能分析",
+    "bookmarkPage": 229,
+    "page": 228,
+    "score": 1.316,
+    "text": "1. BFS 算法的性能分析",
+    "numberMatched": true
+  },
+  {
+    "title": "2．BFS算法求解单源最短路径问题",
+    "bookmarkPage": 229,
+    "page": 228,
+    "score": 1.316,
+    "text": "2 ． BFS 算法求解单源最短路径问题",
+    "numberMatched": true
+  },
+  {
+    "title": "3．广度优先生成树",
+    "bookmarkPage": 229,
+    "page": 228,
+    "score": 1.316,
+    "text": "3 ． 广度优先生成树",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.2　深度优先搜索",
+    "bookmarkPage": 230,
+    "page": 229,
+    "score": 1.316,
+    "text": "6 · 3 · 2 深度优先搜索",
+    "numberMatched": true
+  },
+  {
+    "title": "1．DFS算法的性能分析",
+    "bookmarkPage": 231,
+    "page": 230,
+    "score": 1.316,
+    "text": "1. DFS 算法的性能分析",
+    "numberMatched": true
+  },
+  {
+    "title": "2．深度优先的生成树和生成森林",
+    "bookmarkPage": 231,
+    "page": 230,
+    "score": 1.316,
+    "text": "2 ． 深度优先的生成树和生成森林",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.3　图的遍历与图的连通性",
+    "bookmarkPage": 231,
+    "page": 230,
+    "score": 1.316,
+    "text": "6，3，3 图的遍历与图的连通性",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.4　本节试题精选",
+    "bookmarkPage": 231,
+    "page": 230,
+    "score": 1.316,
+    "text": "6. 3. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 231,
+    "page": 230,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 233,
+    "page": 232,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.3.5　答案与解析",
+    "bookmarkPage": 234,
+    "page": 233,
+    "score": 1.316,
+    "text": "6 · 3. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 234,
+    "page": 233,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 236,
+    "page": 235,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.4　图的应用",
+    "bookmarkPage": 239,
+    "page": 238,
+    "score": 1.316,
+    "text": "6 · 4 图的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.1　最小生成树",
+    "bookmarkPage": 239,
+    "page": 238,
+    "score": 1.316,
+    "text": "6 · 4. 1 最小生成树",
+    "numberMatched": true
+  },
+  {
+    "title": "1．Prim算法",
+    "bookmarkPage": 240,
+    "page": 239,
+    "score": 0.919,
+    "text": "I. Prim 算法",
+    "numberMatched": false
+  },
+  {
+    "title": "2．Kruskal算法",
+    "bookmarkPage": 240,
+    "page": 239,
+    "score": 1.316,
+    "text": "2 ． Kruskal 算法",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.2　最短路径",
+    "bookmarkPage": 241,
+    "page": 240,
+    "score": 1.316,
+    "text": "642 最短路径",
+    "numberMatched": true
+  },
+  {
+    "title": "1．Dijkstra算法求单源最短路径问题",
+    "bookmarkPage": 242,
+    "page": 241,
+    "score": 1.316,
+    "text": "1，D ij kstra 算法求单源最短路径问题",
+    "numberMatched": true
+  },
+  {
+    "title": "2．Floyd算法求各顶点之间最短路径问题",
+    "bookmarkPage": 243,
+    "page": 242,
+    "score": 1.316,
+    "text": "2 ． Floyd 算法求各顶点之间最短路径问题",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.3　有向无环图描述表达式",
+    "bookmarkPage": 245,
+    "page": 244,
+    "score": 1.316,
+    "text": "6. 4. 3 有向无环图描述表达式",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.4　拓扑排序",
+    "bookmarkPage": 245,
+    "page": 244,
+    "score": 1.316,
+    "text": "644 拓扑排序",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.5　关键路径",
+    "bookmarkPage": 247,
+    "page": 246,
+    "score": 1.316,
+    "text": "6，4，5 关键路径",
+    "numberMatched": true
+  },
+  {
+    "title": "1．事件vk的最早发生时间ve(k)",
+    "bookmarkPage": 248,
+    "page": 247,
+    "score": 1.239,
+    "text": "1 ． 事件的最早发生时间 ve(k)",
+    "numberMatched": true
+  },
+  {
+    "title": "2．事件vk的最迟发生时间vl(k)",
+    "bookmarkPage": 248,
+    "page": 247,
+    "score": 1.196,
+    "text": "2 ． 事件的最迟发生时间 vÅk)",
+    "numberMatched": true
+  },
+  {
+    "title": "3．活动ai的最早开始时间e(i)",
+    "bookmarkPage": 248,
+    "page": 247,
+    "score": 1.134,
+    "text": "3 ． 活动的最早开始时间）",
+    "numberMatched": true
+  },
+  {
+    "title": "4．活动ai的最迟开始时间l(i)",
+    "bookmarkPage": 249,
+    "page": 248,
+    "score": 1.233,
+    "text": "4 ． 活动的最迟开始时间 l(i)",
+    "numberMatched": true
+  },
+  {
+    "title": "5．一个活动ai的最迟开始时间l(i)与其最早开始时间e(i)的差额：",
+    "bookmarkPage": 249,
+    "page": 248,
+    "score": 1.239,
+    "text": "5 ． 一个活动的最迟开始时间 l(i) 与其最早开始时间 @）的差额：",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.6　本节试题精选",
+    "bookmarkPage": 250,
+    "page": 249,
+    "score": 1.316,
+    "text": "646 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 250,
+    "page": 249,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 256,
+    "page": 255,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.4.7　答案与解析",
+    "bookmarkPage": 259,
+    "page": 258,
+    "score": 1.316,
+    "text": "647 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 259,
+    "page": 258,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 266,
+    "page": 265,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.1  查找的基本概念",
+    "bookmarkPage": 277,
+    "page": 276,
+    "score": 1.316,
+    "text": "7 · 1 查找的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "7.2  顺序查找和折半查找",
+    "bookmarkPage": 278,
+    "page": 277,
+    "score": 1.316,
+    "text": "7 · 2 顺序查找和折半查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.2.1  顺序查找",
+    "bookmarkPage": 278,
+    "page": 277,
+    "score": 1.316,
+    "text": "721 顺序查找",
+    "numberMatched": true
+  },
+  {
+    "title": "1．一般线性表的顺序查找",
+    "bookmarkPage": 278,
+    "page": 277,
+    "score": 1.316,
+    "text": "1. 一般线性表的顺序查找",
+    "numberMatched": true
+  },
+  {
+    "title": "2．有序线性表的顺序查找",
+    "bookmarkPage": 279,
+    "page": 278,
+    "score": 1.316,
+    "text": "2 ． 有序线性表的顺序查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.2.2  折半查找",
+    "bookmarkPage": 280,
+    "page": 279,
+    "score": 1.316,
+    "text": "7，2. 2 折半查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.2.3  分块查找",
+    "bookmarkPage": 281,
+    "page": 280,
+    "score": 1.316,
+    "text": "7，2 · 3 分块查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.2.4  本节试题精选",
+    "bookmarkPage": 282,
+    "page": 281,
+    "score": 1.316,
+    "text": "7，2. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 282,
+    "page": 281,
+    "score": 0.905,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 284,
+    "page": 283,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.2.5  答案与解析",
+    "bookmarkPage": 285,
+    "page": 284,
+    "score": 1.316,
+    "text": "725 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 285,
+    "page": 284,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 289,
+    "page": 288,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.3  树形查找",
+    "bookmarkPage": 292,
+    "page": 290,
+    "score": 1.312,
+    "text": "7 · 3 树形查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.3.1  二叉排序树（BST）",
+    "bookmarkPage": 292,
+    "page": 290,
+    "score": 1.312,
+    "text": "7，3 · 1 二叉排序树 (BST)",
+    "numberMatched": true
+  },
+  {
+    "title": "1．二叉排序树的定义",
+    "bookmarkPage": 292,
+    "page": 291,
+    "score": 1.316,
+    "text": "1. 二叉排序树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．二叉排序树的查找",
+    "bookmarkPage": 292,
+    "page": 291,
+    "score": 1.316,
+    "text": "2 ． 二叉排序树的查找",
+    "numberMatched": true
+  },
+  {
+    "title": "3．二叉排序树的插入",
+    "bookmarkPage": 292,
+    "page": 291,
+    "score": 1.316,
+    "text": "3，二叉排序树的插入",
+    "numberMatched": true
+  },
+  {
+    "title": "4．二叉排序树的构造",
+    "bookmarkPage": 293,
+    "page": 292,
+    "score": 1.316,
+    "text": "4 ． 二叉排序树的构造",
+    "numberMatched": true
+  },
+  {
+    "title": "5．二叉排序树的删除",
+    "bookmarkPage": 293,
+    "page": 292,
+    "score": 1.316,
+    "text": "5 ． 二叉排序树的删除",
+    "numberMatched": true
+  },
+  {
+    "title": "6．二叉排序树的查找效率分析",
+    "bookmarkPage": 294,
+    "page": 293,
+    "score": 1.316,
+    "text": "6 ． 二叉排序树的查找效率分析",
+    "numberMatched": true
+  },
+  {
+    "title": "7.3.2  平衡二叉树",
+    "bookmarkPage": 295,
+    "page": 294,
+    "score": 1.316,
+    "text": "7. 3. 2 平衡二叉树",
+    "numberMatched": true
+  },
+  {
+    "title": "1．平衡二叉树的定义",
+    "bookmarkPage": 295,
+    "page": 294,
+    "score": 1.316,
+    "text": "1. 平衡二叉树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．平衡二叉树的插入",
+    "bookmarkPage": 296,
+    "page": 294,
+    "score": 1.187,
+    "text": "2 ． 平衡二义树的插入",
+    "numberMatched": true
+  },
+  {
+    "title": "3．平衡二叉树的删除",
+    "bookmarkPage": 298,
+    "page": 297,
+    "score": 1.316,
+    "text": "3 ． 平衡二叉树的删除",
+    "numberMatched": true
+  },
+  {
+    "title": "4．平衡二叉树的查找",
+    "bookmarkPage": 299,
+    "page": 297,
+    "score": 1.187,
+    "text": "4，平衡二义树的查找",
+    "numberMatched": true
+  },
+  {
+    "title": "7.3.3  红黑树",
+    "bookmarkPage": 299,
+    "page": 298,
+    "score": 1.316,
+    "text": "7. 3. 3 红黑树",
+    "numberMatched": true
+  },
+  {
+    "title": "1．红黑树的定义",
+    "bookmarkPage": 299,
+    "page": 298,
+    "score": 1.316,
+    "text": "1. 红黑树的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．红黑树的插入",
+    "bookmarkPage": 300,
+    "page": 299,
+    "score": 1.316,
+    "text": "2 ． 红黑树的插入",
+    "numberMatched": true
+  },
+  {
+    "title": "*3．红黑树的删除",
+    "bookmarkPage": 302,
+    "page": 300,
+    "score": 1.312,
+    "text": "* 3 ． 红黑树的删除",
+    "numberMatched": true
+  },
+  {
+    "title": "7.3.4  本节试题精选",
+    "bookmarkPage": 304,
+    "page": 303,
+    "score": 1.316,
+    "text": "73. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 308,
+    "page": 306,
+    "score": 0.901,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.3.5  答案与解析",
+    "bookmarkPage": 308,
+    "page": 307,
+    "score": 1.316,
+    "text": "7，3，5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 308,
+    "page": 307,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 314,
+    "page": 313,
+    "score": 0.905,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.4  B树 和B+树",
+    "bookmarkPage": 318,
+    "page": 316,
+    "score": 1.312,
+    "text": "7 · 4 B 树 ． 和 B+ 树",
+    "numberMatched": true
+  },
+  {
+    "title": "7.4.1  B树及其基本操作",
+    "bookmarkPage": 318,
+    "page": 317,
+    "score": 1.316,
+    "text": "7，4. 1 B 树及其基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "1．B树的查找",
+    "bookmarkPage": 319,
+    "page": 317,
+    "score": 1.312,
+    "text": "1. B 树的查找",
+    "numberMatched": true
+  },
+  {
+    "title": "2．B树的高度（磁盘存取次数）",
+    "bookmarkPage": 319,
+    "page": 318,
+    "score": 1.316,
+    "text": "2 ． B 树的高度（磁盘存取次数）",
+    "numberMatched": true
+  },
+  {
+    "title": "3．B树的插入",
+    "bookmarkPage": 320,
+    "page": 318,
+    "score": 1.312,
+    "text": "3 ． B 树的插入",
+    "numberMatched": true
+  },
+  {
+    "title": "4．B树的删除",
+    "bookmarkPage": 320,
+    "page": 319,
+    "score": 1.316,
+    "text": "4，B 树的删除",
+    "numberMatched": true
+  },
+  {
+    "title": "7.4.2  B+树的基本概念",
+    "bookmarkPage": 321,
+    "page": 320,
+    "score": 1.316,
+    "text": "742 B + 树的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "7.4.3  本节试题精选",
+    "bookmarkPage": 322,
+    "page": 321,
+    "score": 1.316,
+    "text": "7，4，3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 322,
+    "page": 321,
+    "score": 0.905,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 325,
+    "page": 323,
+    "score": 0.901,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.4.4  答案与解析",
+    "bookmarkPage": 325,
+    "page": 323,
+    "score": 1.312,
+    "text": "744 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 325,
+    "page": 323,
+    "score": 0.901,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 329,
+    "page": 327,
+    "score": 0.901,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.5  散列（Hash）表",
+    "bookmarkPage": 331,
+    "page": 329,
+    "score": 1.312,
+    "text": "7 · 5 散列 (Hash) 表",
+    "numberMatched": true
+  },
+  {
+    "title": "7.5.1  散列表的基本概念",
+    "bookmarkPage": 331,
+    "page": 329,
+    "score": 1.312,
+    "text": "7，5. 1 散列表的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "7.5.2  散列函数的构造方法",
+    "bookmarkPage": 331,
+    "page": 330,
+    "score": 1.316,
+    "text": "7，5 · 2 散列函数的构造方法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．直接定址法",
+    "bookmarkPage": 332,
+    "page": 330,
+    "score": 1.312,
+    "text": "1. 直接定址法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．除留余数法",
+    "bookmarkPage": 332,
+    "page": 330,
+    "score": 1.312,
+    "text": "2 ． 除留余数法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．数字分析法",
+    "bookmarkPage": 332,
+    "page": 330,
+    "score": 1.312,
+    "text": "3 ． 数字分析法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．平方取中法",
+    "bookmarkPage": 332,
+    "page": 330,
+    "score": 1.312,
+    "text": "4 ． 平方取中法",
+    "numberMatched": true
+  },
+  {
+    "title": "7.5.3  处理冲突的方法",
+    "bookmarkPage": 332,
+    "page": 330,
+    "score": 1.312,
+    "text": "7. 5 · 3 处理冲突的方法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．开放定址法",
+    "bookmarkPage": 333,
+    "page": 331,
+    "score": 1.312,
+    "text": "1. 开放定址法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．拉链法（链接法，chaining）",
+    "bookmarkPage": 333,
+    "page": 331,
+    "score": 1.312,
+    "text": "2 ． 拉链法（链接法，chaining)",
+    "numberMatched": true
+  },
+  {
+    "title": "7.5.4  散列查找及性能分析的应用",
+    "bookmarkPage": 334,
+    "page": 332,
+    "score": 1.312,
+    "text": "7，5，4 散列查找及性能分析的应用",
+    "numberMatched": true
+  },
+  {
+    "title": "7.5.5  本节试题精选",
+    "bookmarkPage": 335,
+    "page": 333,
+    "score": 1.312,
+    "text": "7，5，5 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 335,
+    "page": 333,
+    "score": 0.901,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 337,
+    "page": 335,
+    "score": 0.901,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "7.5.6  答案与解析",
+    "bookmarkPage": 338,
+    "page": 336,
+    "score": 1.312,
+    "text": "7. 5. 6 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 338,
+    "page": 336,
+    "score": 0.901,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 341,
+    "page": 339,
+    "score": 0.901,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.1  排序的基本概念",
+    "bookmarkPage": 346,
+    "page": 343,
+    "score": 1.308,
+    "text": "8 · 1 排序的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "8.1.1  排序的定义",
+    "bookmarkPage": 346,
+    "page": 343,
+    "score": 1.308,
+    "text": "8，1. 1 排序的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "8.1.2  本节试题精选",
+    "bookmarkPage": 347,
+    "page": 344,
+    "score": 1.308,
+    "text": "8 · 1. 2 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 347,
+    "page": 344,
+    "score": 0.988,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.1.3  答案与解析",
+    "bookmarkPage": 347,
+    "page": 344,
+    "score": 1.308,
+    "text": "8，1. 3 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 347,
+    "page": 344,
+    "score": 0.988,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.2  插入排序",
+    "bookmarkPage": 348,
+    "page": 345,
+    "score": 1.308,
+    "text": "8 · 2 插入排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.2.1  直接插入排序",
+    "bookmarkPage": 348,
+    "page": 345,
+    "score": 1.308,
+    "text": "8. 2. 1 直接插入排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.2.2  折半插入排序",
+    "bookmarkPage": 349,
+    "page": 346,
+    "score": 1.308,
+    "text": "822 折半插入排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.2.3  希尔排序",
+    "bookmarkPage": 350,
+    "page": 343,
+    "score": 0.972,
+    "text": "希尔排序",
+    "numberMatched": false
+  },
+  {
+    "title": "8.2.4  本节试题精选",
+    "bookmarkPage": 351,
+    "page": 348,
+    "score": 1.308,
+    "text": "824 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 351,
+    "page": 348,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 352,
+    "page": 349,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.2.5  答案与解析",
+    "bookmarkPage": 353,
+    "page": 350,
+    "score": 1.308,
+    "text": "8，2，5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 353,
+    "page": 350,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 354,
+    "page": 351,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.3  交换排序",
+    "bookmarkPage": 355,
+    "page": 352,
+    "score": 1.308,
+    "text": "8 · 3 交换排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.3.1  冒泡排序",
+    "bookmarkPage": 355,
+    "page": 349,
+    "score": 0.976,
+    "text": "冒泡排序",
+    "numberMatched": false
+  },
+  {
+    "title": "8.3.2  快速排序",
+    "bookmarkPage": 356,
+    "page": 353,
+    "score": 1.308,
+    "text": "8. 3. 2 快速排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.3.3  本节试题精选",
+    "bookmarkPage": 359,
+    "page": 356,
+    "score": 1.308,
+    "text": "8. 3. 3 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 359,
+    "page": 358,
+    "score": 0.905,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 360,
+    "page": 360,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.3.4  答案与解析",
+    "bookmarkPage": 361,
+    "page": 369,
+    "score": 0.968,
+    "text": "8 · 4 · 4 答案与解析",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 361,
+    "page": 358,
+    "score": 0.897,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 363,
+    "page": 360,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.4  选择排序",
+    "bookmarkPage": 366,
+    "page": 363,
+    "score": 1.308,
+    "text": "8 · 4 选择排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.4.1  简单选择排序",
+    "bookmarkPage": 366,
+    "page": 363,
+    "score": 1.308,
+    "text": "8，4，1 简单选择排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.4.2  堆排序",
+    "bookmarkPage": 366,
+    "page": 363,
+    "score": 1.308,
+    "text": "8. 4. 2 堆排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.4.3  本节试题精选",
+    "bookmarkPage": 369,
+    "page": 379,
+    "score": 0.96,
+    "text": "8. 5. 4 本节试题精选",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 369,
+    "page": 366,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 371,
+    "page": 368,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.4.4  答案与解析",
+    "bookmarkPage": 372,
+    "page": 369,
+    "score": 1.308,
+    "text": "8 · 4 · 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 372,
+    "page": 369,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 375,
+    "page": 372,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.5  归并排序、基数排序和计数排序",
+    "bookmarkPage": 378,
+    "page": 375,
+    "score": 1.308,
+    "text": "8 · 5 归并排序、基数排序和计数排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.5.1  归并排序",
+    "bookmarkPage": 378,
+    "page": 366,
+    "score": 0.952,
+    "text": "归并排序",
+    "numberMatched": false
+  },
+  {
+    "title": "8.5.2  基数排序",
+    "bookmarkPage": 380,
+    "page": 377,
+    "score": 1.308,
+    "text": "8. 5. 2 基数排序",
+    "numberMatched": true
+  },
+  {
+    "title": "*8.5.3  计数排序",
+    "bookmarkPage": 381,
+    "page": 378,
+    "score": 1.308,
+    "text": "* 8，5，3 计数排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.5.4  本节试题精选",
+    "bookmarkPage": 382,
+    "page": 379,
+    "score": 1.308,
+    "text": "8. 5. 4 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 384,
+    "page": 381,
+    "score": 0.897,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.5.5  答案与解析",
+    "bookmarkPage": 385,
+    "page": 382,
+    "score": 1.308,
+    "text": "8. 5. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 385,
+    "page": 382,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 387,
+    "page": 384,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.6  各种内部排序算法的比较及应用",
+    "bookmarkPage": 388,
+    "page": 385,
+    "score": 0.954,
+    "text": "& 6 各种内部排序算法的比较及应用",
+    "numberMatched": false
+  },
+  {
+    "title": "8.6.1  内部排序算法的比较",
+    "bookmarkPage": 388,
+    "page": 385,
+    "score": 0.888,
+    "text": "8 五 1 内部排序算法的比较",
+    "numberMatched": false
+  },
+  {
+    "title": "8.6.2  内部排序算法的应用",
+    "bookmarkPage": 389,
+    "page": 386,
+    "score": 0.888,
+    "text": "8 五 2 内部排序算法的应用",
+    "numberMatched": false
+  },
+  {
+    "title": "1．选取排序算法需要考虑的因素",
+    "bookmarkPage": 389,
+    "page": 386,
+    "score": 1.308,
+    "text": "1. 选取排序算法需要考虑的因素",
+    "numberMatched": true
+  },
+  {
+    "title": "2．排序算法选型小结",
+    "bookmarkPage": 389,
+    "page": 386,
+    "score": 1.308,
+    "text": "2 ． 排序算法选型小结",
+    "numberMatched": true
+  },
+  {
+    "title": "8.6.3  本节试题精选",
+    "bookmarkPage": 389,
+    "page": 397,
+    "score": 0.968,
+    "text": "8，7，6 本节试题精选",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 389,
+    "page": 397,
+    "score": 0.877,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 392,
+    "page": 389,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.6.4  答案与解析",
+    "bookmarkPage": 392,
+    "page": 389,
+    "score": 1.308,
+    "text": "8. 6. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 392,
+    "page": 389,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 394,
+    "page": 391,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.7  外部排序",
+    "bookmarkPage": 395,
+    "page": 392,
+    "score": 1.308,
+    "text": "8 · 7 外部排序",
+    "numberMatched": true
+  },
+  {
+    "title": "8.7.1  外部排序的基本概念",
+    "bookmarkPage": 395,
+    "page": 392,
+    "score": 1.308,
+    "text": "8. 7，1 外部排序的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "8.7.2  外部排序的方法",
+    "bookmarkPage": 396,
+    "page": 393,
+    "score": 1.308,
+    "text": "8. 7. 2 外部排序的方法",
+    "numberMatched": true
+  },
+  {
+    "title": "8.7.3  多路平衡归并与败者树",
+    "bookmarkPage": 397,
+    "page": 394,
+    "score": 0.897,
+    "text": "& 7. 3 多路平衡归并与败者树",
+    "numberMatched": false
+  },
+  {
+    "title": "8.7.4  置换-选择排序（生成初始归并段）",
+    "bookmarkPage": 398,
+    "page": 395,
+    "score": 1.271,
+    "text": "8 · 7，4 置换一选择排序（生成初始归并段）",
+    "numberMatched": true
+  },
+  {
+    "title": "8.7.6  本节试题精选",
+    "bookmarkPage": 400,
+    "page": 397,
+    "score": 1.308,
+    "text": "8，7，6 本节试题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 400,
+    "page": 397,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 401,
+    "page": 398,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "8.7.7  答案与解析",
+    "bookmarkPage": 401,
+    "page": 398,
+    "score": 1.308,
+    "text": "8，7，7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 401,
+    "page": 398,
+    "score": 0.897,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 403,
+    "page": 400,
+    "score": 0.897,
+    "text": "综合应用题",
+    "numberMatched": false
+  }
+]

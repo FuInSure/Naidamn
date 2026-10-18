@@ -1,0 +1,3242 @@
+[
+  {
+    "title": "1.1  操作系统的基本概念",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1 操作系统的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.1  操作系统的概念",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1. 1 操作系统的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.2  操作系统的功能和目标",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 1. 2 操作系统的功能和目标",
+    "numberMatched": true
+  },
+  {
+    "title": "1．操作系统作为计算机系统资源的管理者",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.261,
+    "text": "1. 操作系统作为计算机系统資源的管理者",
+    "numberMatched": true
+  },
+  {
+    "title": "2．操作系统作为用户与计算机硬件系统之间的接口",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "2，操作系统作为用户与计算机硬件系统之间的接口",
+    "numberMatched": true
+  },
+  {
+    "title": "3．操作系统实现了对计算机资源的扩充",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.258,
+    "text": "3 ． 操作系统实现了对计算机資源的扩充",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.3  操作系统的特征",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "1. 1. 3 操作系统的特征",
+    "numberMatched": true
+  },
+  {
+    "title": "1．并发（Concurrency）",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 0.963,
+    "text": "I. 并发 (Concurrency)",
+    "numberMatched": false
+  },
+  {
+    "title": "2．共享（Sharing）",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "2，共享 (Sharing)",
+    "numberMatched": true
+  },
+  {
+    "title": "3．虚拟（Virtual）",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "3 · 虚拟（Virtual)",
+    "numberMatched": true
+  },
+  {
+    "title": "4．异步（Asynchronism）",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "4 ． 异步 (Asynchronism)",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.4  本节习题精选",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "1. 1. 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.1.5  答案与解析",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.32,
+    "text": "1. 1. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2  操作系统发展历程",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "1. 2 操作系统发展历程",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.1  手工操作阶段（未配置操作系统）",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "1，2，1 手工操作阶段（未配置操作系统）",
+    "numberMatched": true
+  },
+  {
+    "title": "1．人工操作方式",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "1. 人工操作方式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．脱机I/O方式",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "2 ． 脱机 I/O 方式",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.2  批处理阶段（操作系统开始出现）",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "1. 2. 2 批处理阶段（操作系统开始出现）",
+    "numberMatched": true
+  },
+  {
+    "title": "2．多道批处理系统",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 1.177,
+    "text": "2 ． 多道扯处理系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.3  分时操作系统",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 1.32,
+    "text": "1. 2，3 分时操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.4  实时操作系统",
+    "bookmarkPage": 20,
+    "page": 20,
+    "score": 1.32,
+    "text": "1. 2. 4 实时操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.5  网络操作系统和分布式系统",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "1. 2，5 网络操作系统和分布式系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.6  微机操作系统",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "1. 2 · 6 微机操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1．单用户单任务操作系统",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "1. 单用户单任务操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "2．单用户多任务操作系统",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "2 ． 单用户多任务操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "3．多用户多任务操作系统",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "3 ． 多用户多任务操作系统",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.7  本节习题精选",
+    "bookmarkPage": 22,
+    "page": 22,
+    "score": 1.32,
+    "text": "1. 2 · 7 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 22,
+    "page": 22,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2.8  答案与解析",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 1.32,
+    "text": "1. 2. 8 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.3  操作系统的运行环境",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "1. 3 操作系统的运行环境",
+    "numberMatched": true
+  },
+  {
+    "title": "1.3.1  操作系统内核",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "1. 3. 1 操作系统内核",
+    "numberMatched": true
+  },
+  {
+    "title": "1．支撑功能",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "1，支撑功能",
+    "numberMatched": true
+  },
+  {
+    "title": "2．系统资源管理功能",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.195,
+    "text": "2，系统資源管理功能",
+    "numberMatched": true
+  },
+  {
+    "title": "1.3.2  处理机的双重工作模式",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 3. 2 处理机的双重工作模式",
+    "numberMatched": true
+  },
+  {
+    "title": "1.3.3  中断和异常的概念",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 3 · 3 中断和异常的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．中断和异常的定义",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 中断和异常的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．中断和异常的分类",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "2 ． 中断和异常的分类",
+    "numberMatched": true
+  },
+  {
+    "title": "3．中断和异常的处理过程",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "3 ． 中断和异常的处理过程",
+    "numberMatched": true
+  },
+  {
+    "title": "1.3.4  系统调用",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "1. 3，4 系统调用",
+    "numberMatched": true
+  },
+  {
+    "title": "1.3.5  本节习题精选",
+    "bookmarkPage": 31,
+    "page": 31,
+    "score": 1.32,
+    "text": "1. 3. 5 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 31,
+    "page": 31,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.3.6  答案与解析",
+    "bookmarkPage": 34,
+    "page": 34,
+    "score": 1.32,
+    "text": "1. 3 · 6 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 34,
+    "page": 34,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.4  操作系统结构",
+    "bookmarkPage": 38,
+    "page": 38,
+    "score": 1.32,
+    "text": "1. 4 操作系统结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．分层法",
+    "bookmarkPage": 38,
+    "page": 38,
+    "score": 1.32,
+    "text": "1. 分层法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．模块化",
+    "bookmarkPage": 38,
+    "page": 38,
+    "score": 1.32,
+    "text": "2 · 模块化",
+    "numberMatched": true
+  },
+  {
+    "title": "3．宏内核",
+    "bookmarkPage": 39,
+    "page": 39,
+    "score": 1.32,
+    "text": "3 ． 宏内核",
+    "numberMatched": true
+  },
+  {
+    "title": "4．微内核",
+    "bookmarkPage": 39,
+    "page": 39,
+    "score": 1.32,
+    "text": "4 ． 微内核",
+    "numberMatched": true
+  },
+  {
+    "title": "5．外核",
+    "bookmarkPage": 40,
+    "page": 40,
+    "score": 1.32,
+    "text": "5 · 外核",
+    "numberMatched": true
+  },
+  {
+    "title": "1.5  操作系统引导",
+    "bookmarkPage": 41,
+    "page": 41,
+    "score": 1.32,
+    "text": "1. 5 操作系统引导",
+    "numberMatched": true
+  },
+  {
+    "title": "1.6  虚拟机",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "1 · 6 虚拟机",
+    "numberMatched": true
+  },
+  {
+    "title": "1.6.1  虚拟机的基本概念",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "1. 6 · 1 虚拟机的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．第一类虚拟机管理程序",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "1. 第一类虚拟机管理程序",
+    "numberMatched": true
+  },
+  {
+    "title": "2．第二类虚拟机管理程序",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "2，第二类虚拟机管理程序",
+    "numberMatched": true
+  },
+  {
+    "title": "1.6.2  本节习题精选",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "1. 6. 2 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.6.3  答案与解析",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.32,
+    "text": "1. 6. 3 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.7  本章疑难点",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "1. 7 本章疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．并行性与并发性的区别和联系",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "1 ． 并行性与并发性的区别和联系",
+    "numberMatched": true
+  },
+  {
+    "title": "2．特权指令与非特权指令",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "2 ． 特权指令与非特权指令",
+    "numberMatched": true
+  },
+  {
+    "title": "3．访管指令与访管中断",
+    "bookmarkPage": 48,
+    "page": 48,
+    "score": 1.32,
+    "text": "3 ． 访管指令与访管中断",
+    "numberMatched": true
+  },
+  {
+    "title": "4．定义微内核结构OS的四个方面",
+    "bookmarkPage": 48,
+    "page": 48,
+    "score": 1.32,
+    "text": "4 ． 定义微内核结构 OS 的四个方面",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1  进程与线程简介",
+    "bookmarkPage": 49,
+    "page": 49,
+    "score": 1.32,
+    "text": "2 · 1 进程与线程简介",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.1  进程的概念和特征",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2 · 1. 1 进程的概念和特征",
+    "numberMatched": true
+  },
+  {
+    "title": "1．进程的概念",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "1. 进程的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．进程的特征",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2，进程的特征",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.2  进程的组成",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2，1. 2 进程的组成",
+    "numberMatched": true
+  },
+  {
+    "title": "1．进程控制块",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "1. 进程控制块",
+    "numberMatched": true
+  },
+  {
+    "title": "2．程序段",
+    "bookmarkPage": 51,
+    "page": 51,
+    "score": 1.32,
+    "text": "2 ． 程序段",
+    "numberMatched": true
+  },
+  {
+    "title": "3．数据段",
+    "bookmarkPage": 52,
+    "page": 52,
+    "score": 1.32,
+    "text": "3 ． 数据段",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.3  进程的内存映像",
+    "bookmarkPage": 52,
+    "page": 52,
+    "score": 1.32,
+    "text": "2，1. 3 进程的内存映像",
+    "numberMatched": true
+  },
+  {
+    "title": "2．数据段",
+    "bookmarkPage": 52,
+    "page": 52,
+    "score": 1.32,
+    "text": "2 · 数据段",
+    "numberMatched": true
+  },
+  {
+    "title": "3．进程控制块（PCB）",
+    "bookmarkPage": 52,
+    "page": 52,
+    "score": 1.32,
+    "text": "3，进程控制块（PCB）",
+    "numberMatched": true
+  },
+  {
+    "title": "6．共享库的存储映射区",
+    "bookmarkPage": 52,
+    "page": 52,
+    "score": 1.32,
+    "text": "6，共享库的存储映射区",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.4  进程的状态与转换",
+    "bookmarkPage": 53,
+    "page": 53,
+    "score": 1.32,
+    "text": "2，1. 4 进程的状态与转换",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.5  进程控制",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "2，1. 5 进程控制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．进程的创建",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "1. 进程的创建",
+    "numberMatched": true
+  },
+  {
+    "title": "2．进程的终止",
+    "bookmarkPage": 55,
+    "page": 55,
+    "score": 1.32,
+    "text": "2 ． 进程的终止",
+    "numberMatched": true
+  },
+  {
+    "title": "3．进程的阻塞和唤醒",
+    "bookmarkPage": 55,
+    "page": 55,
+    "score": 1.195,
+    "text": "3 ． 进程的阻塞和喚醒",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.6  进程的通信",
+    "bookmarkPage": 55,
+    "page": 55,
+    "score": 1.32,
+    "text": "2 · 1. 6 进程的通信",
+    "numberMatched": true
+  },
+  {
+    "title": "1．共享存储",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.32,
+    "text": "1. 共享存储",
+    "numberMatched": true
+  },
+  {
+    "title": "2．消息传递",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.32,
+    "text": "2 ． 消息传递",
+    "numberMatched": true
+  },
+  {
+    "title": "3．管道通信",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.32,
+    "text": "3，管道通信",
+    "numberMatched": true
+  },
+  {
+    "title": "4．信号",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.32,
+    "text": "4 ． 信号",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.7  线程和多线程模型",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.32,
+    "text": "2 · 1. 7 线程和多线程模型",
+    "numberMatched": true
+  },
+  {
+    "title": "1．线程的基本概念",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.32,
+    "text": "1. 线程的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．线程与进程的比较",
+    "bookmarkPage": 58,
+    "page": 58,
+    "score": 1.32,
+    "text": "2，线程与进程的比较",
+    "numberMatched": true
+  },
+  {
+    "title": "3．线程的状态与生命周期",
+    "bookmarkPage": 59,
+    "page": 59,
+    "score": 1.32,
+    "text": "3，线程的状态与生命周期",
+    "numberMatched": true
+  },
+  {
+    "title": "4．线程控制块",
+    "bookmarkPage": 59,
+    "page": 59,
+    "score": 1.32,
+    "text": "4 · 线程控制块",
+    "numberMatched": true
+  },
+  {
+    "title": "5．线程的实现方式",
+    "bookmarkPage": 59,
+    "page": 59,
+    "score": 1.32,
+    "text": "5 ． 线程的实现方式",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.8  本节小结",
+    "bookmarkPage": 62,
+    "page": 62,
+    "score": 1.32,
+    "text": "2，1. 8 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.9  本节习题精选",
+    "bookmarkPage": 63,
+    "page": 63,
+    "score": 1.32,
+    "text": "2 · 1. 9 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 63,
+    "page": 63,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 69,
+    "page": 69,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 70,
+    "page": 70,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2  CPU调度",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "2 · 2 CPU 调度",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.1  调度的概念",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "2. 2，1 调度的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．调度的基本概念",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "1. 调度的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．调度的层次",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "2 ． 调度的层次",
+    "numberMatched": true
+  },
+  {
+    "title": "3．三级调度的联系",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 1.177,
+    "text": "3 · 三圾调度的联系",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.2  进程调度",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 1.32,
+    "text": "2，2，2 进程调度",
+    "numberMatched": true
+  },
+  {
+    "title": "1. 进程调度任务",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 1.32,
+    "text": "1. 进程调度任务",
+    "numberMatched": true
+  },
+  {
+    "title": "2．调度程序（调度器）",
+    "bookmarkPage": 80,
+    "page": 80,
+    "score": 1.32,
+    "text": "2 · 调度程序（调度器）",
+    "numberMatched": true
+  },
+  {
+    "title": "3．调度的时机、切换与过程",
+    "bookmarkPage": 80,
+    "page": 80,
+    "score": 1.32,
+    "text": "3 ． 调度的时机、切换与过程",
+    "numberMatched": true
+  },
+  {
+    "title": "4．进程调度的方式",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 1.32,
+    "text": "4 ． 进程调度的方式",
+    "numberMatched": true
+  },
+  {
+    "title": "5．闲逛进程",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 1.32,
+    "text": "5 ． 闲逛进程",
+    "numberMatched": true
+  },
+  {
+    "title": "6．两种线程的调度",
+    "bookmarkPage": 81,
+    "page": 81,
+    "score": 1.32,
+    "text": "6 ． 两种线程的调度",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.3  调度的目标",
+    "bookmarkPage": 82,
+    "page": 82,
+    "score": 1.32,
+    "text": "2，2，3 调度的目标",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.4  进程切换",
+    "bookmarkPage": 82,
+    "page": 82,
+    "score": 1.32,
+    "text": "224 进程切换",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.5  CPU调度算法",
+    "bookmarkPage": 83,
+    "page": 83,
+    "score": 1.32,
+    "text": "2，2. 5 CPU 调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．先来先服务（FCFS）调度算法",
+    "bookmarkPage": 83,
+    "page": 83,
+    "score": 1.32,
+    "text": "1. 先来先服务 (FCFS) 调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．短作业优先（SJF）调度算法",
+    "bookmarkPage": 84,
+    "page": 84,
+    "score": 1.277,
+    "text": "2，作业优先 (SJF) 调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．高响应比优先调度算法",
+    "bookmarkPage": 85,
+    "page": 85,
+    "score": 1.32,
+    "text": "3 ． 高响应比优先调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．优先级调度算法",
+    "bookmarkPage": 85,
+    "page": 85,
+    "score": 1.32,
+    "text": "4，优先级调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "5．时间片轮转（RR）调度算法",
+    "bookmarkPage": 86,
+    "page": 86,
+    "score": 1.32,
+    "text": "5，时间片轮转 (RR) 调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "6．多级队列调度算法",
+    "bookmarkPage": 87,
+    "page": 87,
+    "score": 1.32,
+    "text": "6 · 多级队列调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "7．多级反馈队列调度算法（融合了前几种算法的优点）",
+    "bookmarkPage": 87,
+    "page": 87,
+    "score": 1.272,
+    "text": "7 ． 多级反馈火列调度算法（融合了前几种算法的优点）",
+    "numberMatched": true
+  },
+  {
+    "title": "8．基于公平原则的调度算法",
+    "bookmarkPage": 88,
+    "page": 88,
+    "score": 1.32,
+    "text": "8 ． 基于公平原则的调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.6  多处理机调度",
+    "bookmarkPage": 89,
+    "page": 89,
+    "score": 1.0,
+    "text": "多处理机调度",
+    "numberMatched": false
+  },
+  {
+    "title": "1．亲和性和负载平衡",
+    "bookmarkPage": 89,
+    "page": 89,
+    "score": 1.32,
+    "text": "1. 亲和性和负载平衡",
+    "numberMatched": true
+  },
+  {
+    "title": "2．多处理机调度方案",
+    "bookmarkPage": 89,
+    "page": 89,
+    "score": 1.32,
+    "text": "2 ． 多处理机调度方案",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.7  本节小结",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 1.32,
+    "text": "227 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.8  本节习题精选",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 1.32,
+    "text": "2 · 2 · 8 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 96,
+    "page": 96,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2.9  答案与解析",
+    "bookmarkPage": 99,
+    "page": 99,
+    "score": 1.32,
+    "text": "229 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 99,
+    "page": 99,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 106,
+    "page": 106,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3  同步与互斥",
+    "bookmarkPage": 111,
+    "page": 111,
+    "score": 1.32,
+    "text": "2 · 3 同步与互斥",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.1  同步与互斥的基本概念",
+    "bookmarkPage": 111,
+    "page": 111,
+    "score": 1.32,
+    "text": "2，3，1 同步与互斥的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．临界资源",
+    "bookmarkPage": 111,
+    "page": 111,
+    "score": 1.07,
+    "text": "1. 临界資源",
+    "numberMatched": true
+  },
+  {
+    "title": "2．同步（直接制约关系）",
+    "bookmarkPage": 111,
+    "page": 111,
+    "score": 1.32,
+    "text": "2 ． 同步（直接制约关系）",
+    "numberMatched": true
+  },
+  {
+    "title": "3．互斥（间接制约关系）",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 1.32,
+    "text": "3 ． 互斥（间接制约关系）",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.2  实现临界区互斥的基本方法",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 1.32,
+    "text": "2，3，2 实现临界区互斥的基本方法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．软件实现方法",
+    "bookmarkPage": 112,
+    "page": 112,
+    "score": 1.32,
+    "text": "1. 软件实现方法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．硬件实现方法",
+    "bookmarkPage": 114,
+    "page": 114,
+    "score": 1.32,
+    "text": "2 · 硬件实现方法",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.3  互斥锁",
+    "bookmarkPage": 115,
+    "page": 115,
+    "score": 1.32,
+    "text": "2. 3. 3 互斥锁",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.4  信号量",
+    "bookmarkPage": 116,
+    "page": 116,
+    "score": 0.987,
+    "text": "2，3，4 佶号量",
+    "numberMatched": true
+  },
+  {
+    "title": "1．整型信号量",
+    "bookmarkPage": 116,
+    "page": 116,
+    "score": 1.32,
+    "text": "1. 整型信号量",
+    "numberMatched": true
+  },
+  {
+    "title": "2．记录型信号量",
+    "bookmarkPage": 116,
+    "page": 116,
+    "score": 1.32,
+    "text": "2 · 记录型信号量",
+    "numberMatched": true
+  },
+  {
+    "title": "3．利用信号量实现进程互斥",
+    "bookmarkPage": 117,
+    "page": 117,
+    "score": 1.32,
+    "text": "3 ． 利用信号量实现进程互斥",
+    "numberMatched": true
+  },
+  {
+    "title": "4．利用信号量实现同步",
+    "bookmarkPage": 117,
+    "page": 117,
+    "score": 1.32,
+    "text": "4，利用信号量实现同步",
+    "numberMatched": true
+  },
+  {
+    "title": "5．利用信号量实现前驱关系",
+    "bookmarkPage": 118,
+    "page": 118,
+    "score": 1.32,
+    "text": "5 · 利用信号量实现前驱关系",
+    "numberMatched": true
+  },
+  {
+    "title": "6．分析进程同步和互斥问题的方法步骤",
+    "bookmarkPage": 119,
+    "page": 119,
+    "score": 1.32,
+    "text": "6 ． 分析进程同步和互斥问题的方法步骤",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.5  经典同步问题",
+    "bookmarkPage": 119,
+    "page": 119,
+    "score": 1.32,
+    "text": "2，3，5 经典同步问题",
+    "numberMatched": true
+  },
+  {
+    "title": "1．生产者-消费者问题",
+    "bookmarkPage": 119,
+    "page": 119,
+    "score": 1.261,
+    "text": "1. 生产者一消费者问题",
+    "numberMatched": true
+  },
+  {
+    "title": "2．读者-写者问题",
+    "bookmarkPage": 121,
+    "page": 121,
+    "score": 1.243,
+    "text": "2“读者一写者问题",
+    "numberMatched": true
+  },
+  {
+    "title": "3．哲学家进餐问题",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 1.32,
+    "text": "3 ． 哲学家进餐问题",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.6  管程",
+    "bookmarkPage": 124,
+    "page": 124,
+    "score": 1.32,
+    "text": "2，3，6 管程",
+    "numberMatched": true
+  },
+  {
+    "title": "1．管程的定义",
+    "bookmarkPage": 124,
+    "page": 124,
+    "score": 1.32,
+    "text": "1. 管程的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．条件变量",
+    "bookmarkPage": 125,
+    "page": 125,
+    "score": 1.32,
+    "text": "2 ． 条件变量",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.7  本节小结",
+    "bookmarkPage": 126,
+    "page": 126,
+    "score": 1.32,
+    "text": "2 · 3 · 7 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.8  本节习题精选",
+    "bookmarkPage": 126,
+    "page": 126,
+    "score": 1.32,
+    "text": "2. 3. 8 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 126,
+    "page": 126,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 133,
+    "page": 133,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3.9  答案与解析",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 1.32,
+    "text": "2. 3，9 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 144,
+    "page": 144,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.4  死锁",
+    "bookmarkPage": 161,
+    "page": 161,
+    "score": 1.32,
+    "text": "2 · 4 死锁",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.1  死锁的概念",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 1.32,
+    "text": "2. 4. 1 死锁的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．死锁的定义",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 1.32,
+    "text": "1. 死锁的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．死锁与饥饿",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 1.32,
+    "text": "2，死锁与饥饿",
+    "numberMatched": true
+  },
+  {
+    "title": "3．死锁产生的原因",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 1.32,
+    "text": "3，死锁产生的原因",
+    "numberMatched": true
+  },
+  {
+    "title": "4．死锁产生的必要条件",
+    "bookmarkPage": 163,
+    "page": 163,
+    "score": 1.32,
+    "text": "4 ． 死锁产生的必要条件",
+    "numberMatched": true
+  },
+  {
+    "title": "5．死锁的处理策略",
+    "bookmarkPage": 163,
+    "page": 163,
+    "score": 1.177,
+    "text": "5 ． 死锁的处理簾略",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.2  死锁预防",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "242 死锁预防",
+    "numberMatched": true
+  },
+  {
+    "title": "1．破坏互斥条件",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "1. 破坏互斥条件",
+    "numberMatched": true
+  },
+  {
+    "title": "2．破坏不可剥夺条件",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "2 · 破坏不可剥夺条件",
+    "numberMatched": true
+  },
+  {
+    "title": "3．破坏请求并保持条件",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "3，破坏请求并保持条件",
+    "numberMatched": true
+  },
+  {
+    "title": "4．破坏循环等待条件",
+    "bookmarkPage": 164,
+    "page": 164,
+    "score": 1.32,
+    "text": "4，破坏循环等待条件",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.3  死锁避免",
+    "bookmarkPage": 165,
+    "page": 165,
+    "score": 1.32,
+    "text": "2. 4. 3 死锁避免",
+    "numberMatched": true
+  },
+  {
+    "title": "1．系统安全状态",
+    "bookmarkPage": 165,
+    "page": 165,
+    "score": 1.32,
+    "text": "1. 系统安全状态",
+    "numberMatched": true
+  },
+  {
+    "title": "2．利用银行家算法避免死锁",
+    "bookmarkPage": 165,
+    "page": 165,
+    "score": 1.32,
+    "text": "2 ． 利用银行家算法避免死锁",
+    "numberMatched": true
+  },
+  {
+    "title": "3．安全性算法举例",
+    "bookmarkPage": 167,
+    "page": 167,
+    "score": 1.32,
+    "text": "3 ． 安全性算法举例",
+    "numberMatched": true
+  },
+  {
+    "title": "4．银行家算法举例",
+    "bookmarkPage": 168,
+    "page": 168,
+    "score": 1.32,
+    "text": "4 · 银行家算法举例",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.4  死锁检测与解除",
+    "bookmarkPage": 169,
+    "page": 169,
+    "score": 1.32,
+    "text": "2，4，4 死锁检测与解除",
+    "numberMatched": true
+  },
+  {
+    "title": "1．死锁检测",
+    "bookmarkPage": 169,
+    "page": 169,
+    "score": 1.32,
+    "text": "1. 死锁检测",
+    "numberMatched": true
+  },
+  {
+    "title": "2．死锁解除",
+    "bookmarkPage": 170,
+    "page": 170,
+    "score": 1.32,
+    "text": "2 · 死锁解除",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.5  本节小结",
+    "bookmarkPage": 170,
+    "page": 170,
+    "score": 1.32,
+    "text": "2，4 · 5 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "2.4.6  本节习题精选",
+    "bookmarkPage": 170,
+    "page": 170,
+    "score": 1.32,
+    "text": "246 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 170,
+    "page": 170,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 176,
+    "page": 176,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.4.7  答案与解析",
+    "bookmarkPage": 177,
+    "page": 177,
+    "score": 1.32,
+    "text": "247 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 177,
+    "page": 177,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 184,
+    "page": 184,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.5  本章疑难点",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 1.32,
+    "text": "2 · 5 本章疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．进程与程序的区别与联系",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 1.32,
+    "text": "1. 进程与程序的区别与联系",
+    "numberMatched": true
+  },
+  {
+    "title": "2．银行家算法的工作原理",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 1.32,
+    "text": "2，银行家算法的工作原理",
+    "numberMatched": true
+  },
+  {
+    "title": "3．进程同步、互斥的区别和联系",
+    "bookmarkPage": 187,
+    "page": 187,
+    "score": 1.32,
+    "text": "3，进程同步、互斥的区别和联系",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1  内存管理概念",
+    "bookmarkPage": 188,
+    "page": 188,
+    "score": 1.32,
+    "text": "3 · 1 内存管理概念",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.1  内存管理的基本原理和要求",
+    "bookmarkPage": 188,
+    "page": 188,
+    "score": 1.32,
+    "text": "3，1. 1 内存管理的基本原理和要求",
+    "numberMatched": true
+  },
+  {
+    "title": "1．程序的链接与装入",
+    "bookmarkPage": 189,
+    "page": 189,
+    "score": 1.32,
+    "text": "1. 程序的链接与装入",
+    "numberMatched": true
+  },
+  {
+    "title": "2．逻辑地址与物理地址",
+    "bookmarkPage": 189,
+    "page": 189,
+    "score": 1.32,
+    "text": "2 ． 逻辑地址与物理地址",
+    "numberMatched": true
+  },
+  {
+    "title": "3．程序的链接",
+    "bookmarkPage": 190,
+    "page": 190,
+    "score": 1.32,
+    "text": "3 · 程序的链接",
+    "numberMatched": true
+  },
+  {
+    "title": "4．程序的装入",
+    "bookmarkPage": 190,
+    "page": 190,
+    "score": 1.32,
+    "text": "4 · 程序的装入",
+    "numberMatched": true
+  },
+  {
+    "title": "5．内存保护",
+    "bookmarkPage": 191,
+    "page": 191,
+    "score": 1.32,
+    "text": "5 ． 内存保护",
+    "numberMatched": true
+  },
+  {
+    "title": "6．内存共享",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "6，内存共享",
+    "numberMatched": true
+  },
+  {
+    "title": "7．内存分配与回收",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "7 ． 内存分配与回收",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.2  连续分配管理方式",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "3. 1. 2 连续分配管理方式",
+    "numberMatched": true
+  },
+  {
+    "title": "1．单一连续分配",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "1. 单一连续分配",
+    "numberMatched": true
+  },
+  {
+    "title": "2．固定分区分配",
+    "bookmarkPage": 192,
+    "page": 192,
+    "score": 1.32,
+    "text": "2 ． 固定分区分配",
+    "numberMatched": true
+  },
+  {
+    "title": "3．动态分区分配",
+    "bookmarkPage": 193,
+    "page": 193,
+    "score": 1.32,
+    "text": "3 ． 动态分区分配",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.3  基本分页存储管理",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "3 · 1. 3 基本分页存储管理",
+    "numberMatched": true
+  },
+  {
+    "title": "1．分页存储的几个基本概念",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "1. 分页存储的几个基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "2．基本地址变换机构",
+    "bookmarkPage": 196,
+    "page": 196,
+    "score": 1.32,
+    "text": "2，基本地址变换机构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．具有快表的地址变换机构",
+    "bookmarkPage": 197,
+    "page": 197,
+    "score": 1.32,
+    "text": "3 ． 具有快表的地址变换机构",
+    "numberMatched": true
+  },
+  {
+    "title": "4．两级页表",
+    "bookmarkPage": 198,
+    "page": 198,
+    "score": 1.32,
+    "text": "4 · 两级页表",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.4  基本分段存储管理",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 1.32,
+    "text": "3. 1. 4 基本分段存储管理",
+    "numberMatched": true
+  },
+  {
+    "title": "1．分段",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 1.32,
+    "text": "1. 分段",
+    "numberMatched": true
+  },
+  {
+    "title": "2．段表",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.32,
+    "text": "2 ． 段表",
+    "numberMatched": true
+  },
+  {
+    "title": "3．地址变换机构",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.32,
+    "text": "3，地址变换机构",
+    "numberMatched": true
+  },
+  {
+    "title": "4．分页和分段的对比",
+    "bookmarkPage": 201,
+    "page": 201,
+    "score": 1.32,
+    "text": "4 ． 分页和分段的对比",
+    "numberMatched": true
+  },
+  {
+    "title": "5．段的共享与保护",
+    "bookmarkPage": 201,
+    "page": 201,
+    "score": 1.32,
+    "text": "5 ． 段的共享与保护",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.5  段页式存储管理",
+    "bookmarkPage": 202,
+    "page": 202,
+    "score": 1.32,
+    "text": "3. 1. 5 段页式存储管理",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.6  本节小结",
+    "bookmarkPage": 203,
+    "page": 203,
+    "score": 1.32,
+    "text": "3. 1. 6 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.7  本节习题精选",
+    "bookmarkPage": 203,
+    "page": 203,
+    "score": 1.32,
+    "text": "3. 1. 7 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 203,
+    "page": 203,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 210,
+    "page": 210,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.1.8  答案与解析",
+    "bookmarkPage": 212,
+    "page": 212,
+    "score": 1.32,
+    "text": "3. 1. 8 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 212,
+    "page": 212,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 220,
+    "page": 220,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2  虚拟内存管理",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "3 · 2 虚拟内存管理",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.1  虚拟内存的基本概念",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "3 · 2 · 1 虚拟内存的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．传统存储管理方式的特征",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "1. 传统存储管理方式的特征",
+    "numberMatched": true
+  },
+  {
+    "title": "2．局部性原理",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "2 · 局部性原理",
+    "numberMatched": true
+  },
+  {
+    "title": "3．虚拟存储器的定义和特征",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "3，虚拟存储器的定义和特征",
+    "numberMatched": true
+  },
+  {
+    "title": "4．虚拟内存技术的实现",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.32,
+    "text": "4 ． 虚拟内存技术的实现",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.2  请求分页管理方式",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.32,
+    "text": "3，2，2 请求分页管理方式",
+    "numberMatched": true
+  },
+  {
+    "title": "1．页表机制",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.32,
+    "text": "1. 页表机制",
+    "numberMatched": true
+  },
+  {
+    "title": "2．缺页中断机构",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "2 ． 缺页中断机构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．地址变换机构",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "3，地址变换机构",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.3  页框分配",
+    "bookmarkPage": 227,
+    "page": 227,
+    "score": 1.32,
+    "text": "3，2，3 页框分配",
+    "numberMatched": true
+  },
+  {
+    "title": "1．最小页框数与驻留集",
+    "bookmarkPage": 227,
+    "page": 227,
+    "score": 1.209,
+    "text": "1. 最小页框数与駐留集",
+    "numberMatched": true
+  },
+  {
+    "title": "2．内存分配策略",
+    "bookmarkPage": 227,
+    "page": 227,
+    "score": 1.32,
+    "text": "2 ． 内存分配策略",
+    "numberMatched": true
+  },
+  {
+    "title": "3．页框调入算法",
+    "bookmarkPage": 228,
+    "page": 228,
+    "score": 1.32,
+    "text": "3，页框调入算法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．调入页面的时机",
+    "bookmarkPage": 228,
+    "page": 228,
+    "score": 1.32,
+    "text": "4 · 调入页面的时机",
+    "numberMatched": true
+  },
+  {
+    "title": "5．从何处调入页面",
+    "bookmarkPage": 229,
+    "page": 229,
+    "score": 1.32,
+    "text": "5 ． 从何处调入页面",
+    "numberMatched": true
+  },
+  {
+    "title": "6．如何调入页面",
+    "bookmarkPage": 229,
+    "page": 229,
+    "score": 1.32,
+    "text": "6 ． 如何调入页面",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.4  页面置换算法",
+    "bookmarkPage": 229,
+    "page": 240,
+    "score": 0.864,
+    "text": "31.A. 页面置换算法",
+    "numberMatched": false
+  },
+  {
+    "title": "*3.2.5  抖动和工作集",
+    "bookmarkPage": 232,
+    "page": 232,
+    "score": 1.32,
+    "text": "* 3 · 2 · 5 抖动和工作集",
+    "numberMatched": true
+  },
+  {
+    "title": "1．抖动",
+    "bookmarkPage": 232,
+    "page": 232,
+    "score": 1.32,
+    "text": "1，抖动",
+    "numberMatched": true
+  },
+  {
+    "title": "2．工作集",
+    "bookmarkPage": 233,
+    "page": 233,
+    "score": 1.32,
+    "text": "2 ． 工作集",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.6  页框回收",
+    "bookmarkPage": 233,
+    "page": 233,
+    "score": 1.32,
+    "text": "3 · 2. 6 页框回收",
+    "numberMatched": true
+  },
+  {
+    "title": "1．页面缓冲算法",
+    "bookmarkPage": 233,
+    "page": 233,
+    "score": 1.32,
+    "text": "1. 页面缓冲算法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．页框回收",
+    "bookmarkPage": 234,
+    "page": 234,
+    "score": 1.32,
+    "text": "2 ． 页框回收",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.7  内存映射文件",
+    "bookmarkPage": 234,
+    "page": 234,
+    "score": 1.32,
+    "text": "327 内存映射文件",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.8  虚拟存储器性能影响因素",
+    "bookmarkPage": 235,
+    "page": 235,
+    "score": 1.32,
+    "text": "3. 2，8 虚拟存储器性能影响因素",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.9  地址翻译的示例",
+    "bookmarkPage": 235,
+    "page": 235,
+    "score": 1.32,
+    "text": "3，2，9 地址翻译的示例",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.11  本节习题精选",
+    "bookmarkPage": 238,
+    "page": 238,
+    "score": 1.32,
+    "text": "3 · 2. 11 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 238,
+    "page": 238,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 244,
+    "page": 244,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2.12  答案与解析",
+    "bookmarkPage": 249,
+    "page": 249,
+    "score": 1.32,
+    "text": "3，2，12 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 249,
+    "page": 249,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 255,
+    "page": 255,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.3  本章疑难点",
+    "bookmarkPage": 262,
+    "page": 262,
+    "score": 1.32,
+    "text": "3 · 3 本章疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1  文件系统基础",
+    "bookmarkPage": 263,
+    "page": 263,
+    "score": 1.32,
+    "text": "4 · 1 文件系统基础",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.1  文件的基本概念",
+    "bookmarkPage": 263,
+    "page": 263,
+    "score": 1.32,
+    "text": "4. 1. 1 文件的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．文件的定义",
+    "bookmarkPage": 264,
+    "page": 264,
+    "score": 1.32,
+    "text": "1. 文件的定义",
+    "numberMatched": true
+  },
+  {
+    "title": "2．文件的属性",
+    "bookmarkPage": 264,
+    "page": 264,
+    "score": 1.32,
+    "text": "2 ． 文件的属性",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.2  文件系统结构",
+    "bookmarkPage": 265,
+    "page": 265,
+    "score": 1.32,
+    "text": "4. 1. 2 文件系统结构",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.3  文件的逻辑结构",
+    "bookmarkPage": 265,
+    "page": 265,
+    "score": 1.32,
+    "text": "4. 1. 3 文件的逻辑结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．无结构文件",
+    "bookmarkPage": 266,
+    "page": 266,
+    "score": 1.32,
+    "text": "1. 无结构文件",
+    "numberMatched": true
+  },
+  {
+    "title": "2．有结构文件",
+    "bookmarkPage": 266,
+    "page": 266,
+    "score": 1.32,
+    "text": "2 ． 有结构文件",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.4  本节小结",
+    "bookmarkPage": 267,
+    "page": 267,
+    "score": 1.32,
+    "text": "4 · 1. 4 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.5  本节习题精选",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 1.32,
+    "text": "4. 1. 5 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.1.6  答案与解析",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 1.32,
+    "text": "4 · 1. 6 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.2  目录与文件",
+    "bookmarkPage": 269,
+    "page": 269,
+    "score": 1.32,
+    "text": "4 · 2 目录与文件",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.1  目录的基本概念",
+    "bookmarkPage": 269,
+    "page": 269,
+    "score": 1.32,
+    "text": "4. 2. 1 目录的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.2  文件控制块和索引节点",
+    "bookmarkPage": 269,
+    "page": 269,
+    "score": 1.32,
+    "text": "422 文件控制块和索引节点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．文件控制块",
+    "bookmarkPage": 269,
+    "page": 269,
+    "score": 1.32,
+    "text": "1，文件控制块",
+    "numberMatched": true
+  },
+  {
+    "title": "2．索引节点",
+    "bookmarkPage": 269,
+    "page": 269,
+    "score": 1.32,
+    "text": "2，索引节点",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.3  目录结构",
+    "bookmarkPage": 270,
+    "page": 270,
+    "score": 1.32,
+    "text": "423 目录结构",
+    "numberMatched": true
+  },
+  {
+    "title": "*2．两级目录结构",
+    "bookmarkPage": 271,
+    "page": 271,
+    "score": 1.32,
+    "text": "* 2 · 两级目录结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．树形目录结构",
+    "bookmarkPage": 271,
+    "page": 271,
+    "score": 1.32,
+    "text": "3 ． 树形目录结构",
+    "numberMatched": true
+  },
+  {
+    "title": "*4．无环图目录结构",
+    "bookmarkPage": 272,
+    "page": 272,
+    "score": 1.32,
+    "text": "* 4 ． 无环图目录结构",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.4  目录的操作",
+    "bookmarkPage": 272,
+    "page": 272,
+    "score": 1.32,
+    "text": "424 目录的操作",
+    "numberMatched": true
+  },
+  {
+    "title": "*4.2.5  目录实现",
+    "bookmarkPage": 273,
+    "page": 273,
+    "score": 1.32,
+    "text": "* 4. 2. 5 目录实现",
+    "numberMatched": true
+  },
+  {
+    "title": "1．线性列表",
+    "bookmarkPage": 273,
+    "page": 273,
+    "score": 1.32,
+    "text": "1. 线性列表",
+    "numberMatched": true
+  },
+  {
+    "title": "2．哈希表",
+    "bookmarkPage": 273,
+    "page": 273,
+    "score": 1.32,
+    "text": "2，哈希表",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.6  文件的物理结构",
+    "bookmarkPage": 273,
+    "page": 273,
+    "score": 1.32,
+    "text": "4. 2. 6 文件的物理结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．连续分配",
+    "bookmarkPage": 273,
+    "page": 273,
+    "score": 1.32,
+    "text": "1. 连续分配",
+    "numberMatched": true
+  },
+  {
+    "title": "2．链接分配",
+    "bookmarkPage": 274,
+    "page": 274,
+    "score": 1.32,
+    "text": "2 ． 链接分配",
+    "numberMatched": true
+  },
+  {
+    "title": "3．索引分配",
+    "bookmarkPage": 275,
+    "page": 275,
+    "score": 1.32,
+    "text": "3 ． 索引分配",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.7  文件的操作",
+    "bookmarkPage": 278,
+    "page": 278,
+    "score": 1.32,
+    "text": "4. 2. 7 文件的操作",
+    "numberMatched": true
+  },
+  {
+    "title": "1．文件的基本操作",
+    "bookmarkPage": 278,
+    "page": 278,
+    "score": 1.32,
+    "text": "1. 文件的基本操作",
+    "numberMatched": true
+  },
+  {
+    "title": "2．文件的打开与关闭",
+    "bookmarkPage": 278,
+    "page": 278,
+    "score": 1.32,
+    "text": "2 ． 文件的打开与关闭",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.8  文件共享",
+    "bookmarkPage": 280,
+    "page": 280,
+    "score": 1.32,
+    "text": "428 文件共享",
+    "numberMatched": true
+  },
+  {
+    "title": "1．基于索引节点的共享方式（硬链接）",
+    "bookmarkPage": 280,
+    "page": 280,
+    "score": 1.32,
+    "text": "1. 基于索引节点的共享方式（硬链接）",
+    "numberMatched": true
+  },
+  {
+    "title": "2．利用符号链实现文件共享（软链接）",
+    "bookmarkPage": 281,
+    "page": 281,
+    "score": 1.32,
+    "text": "2 ． 利用符号链实现文件共享（软链接）",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.9  文件保护",
+    "bookmarkPage": 281,
+    "page": 281,
+    "score": 1.32,
+    "text": "4，2. 9 文件保护",
+    "numberMatched": true
+  },
+  {
+    "title": "1．访问类型",
+    "bookmarkPage": 282,
+    "page": 282,
+    "score": 1.32,
+    "text": "1. 访问类型",
+    "numberMatched": true
+  },
+  {
+    "title": "2．访问控制",
+    "bookmarkPage": 282,
+    "page": 282,
+    "score": 1.32,
+    "text": "2 ． 访问控制",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.10  本节小结",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 1.32,
+    "text": "4. 2. 10 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.11  本节习题精选",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 1.32,
+    "text": "4，2，11 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 289,
+    "page": 289,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.2.12  答案与解析",
+    "bookmarkPage": 294,
+    "page": 294,
+    "score": 1.32,
+    "text": "4212 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 294,
+    "page": 294,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 301,
+    "page": 301,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.3  文件系统",
+    "bookmarkPage": 306,
+    "page": 306,
+    "score": 1.32,
+    "text": "4 · 3 文件系统",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.1  文件系统布局",
+    "bookmarkPage": 306,
+    "page": 306,
+    "score": 1.32,
+    "text": "4，3 · 1 文件系统布局",
+    "numberMatched": true
+  },
+  {
+    "title": "1．文件系统在磁盘中的结构",
+    "bookmarkPage": 306,
+    "page": 306,
+    "score": 1.32,
+    "text": "1. 文件系统在磁盘中的结构",
+    "numberMatched": true
+  },
+  {
+    "title": "2．文件系统在内存中的结构",
+    "bookmarkPage": 307,
+    "page": 307,
+    "score": 1.32,
+    "text": "2，文件系统在内存中的结构",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.2  文件存储空间管理",
+    "bookmarkPage": 307,
+    "page": 307,
+    "score": 1.32,
+    "text": "4，3. 2 文件存储空间管理",
+    "numberMatched": true
+  },
+  {
+    "title": "2．空闲链表法",
+    "bookmarkPage": 307,
+    "page": 307,
+    "score": 1.32,
+    "text": "2 ． 空闲链表法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．位示图法",
+    "bookmarkPage": 308,
+    "page": 308,
+    "score": 1.32,
+    "text": "3 ． 位示图法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．成组链接法",
+    "bookmarkPage": 309,
+    "page": 309,
+    "score": 1.32,
+    "text": "4 ． 成组链接法",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.3  虚拟文件系统",
+    "bookmarkPage": 310,
+    "page": 310,
+    "score": 1.32,
+    "text": "4，3，3 虚拟文件系统",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.4  文件系统挂载",
+    "bookmarkPage": 311,
+    "page": 311,
+    "score": 1.32,
+    "text": "4. 3 · 4 文件系统挂载",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.5  本节小结",
+    "bookmarkPage": 312,
+    "page": 312,
+    "score": 1.32,
+    "text": "4 · 3 · 5 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.6  本节习题精选",
+    "bookmarkPage": 312,
+    "page": 312,
+    "score": 1.32,
+    "text": "4 · 3 · 6 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 312,
+    "page": 312,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 313,
+    "page": 313,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.3.7  答案与解析",
+    "bookmarkPage": 314,
+    "page": 314,
+    "score": 1.32,
+    "text": "4. 3. 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 314,
+    "page": 314,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 316,
+    "page": 316,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.4  本章疑难点",
+    "bookmarkPage": 316,
+    "page": 316,
+    "score": 1.32,
+    "text": "4 · 4 本章疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．文件的物理分配方式的比较",
+    "bookmarkPage": 316,
+    "page": 316,
+    "score": 1.32,
+    "text": "1. 文件的物理分配方式的比较",
+    "numberMatched": true
+  },
+  {
+    "title": "2．文件打开的过程描述",
+    "bookmarkPage": 316,
+    "page": 316,
+    "score": 1.32,
+    "text": "2，文件打开的过程描述",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1  I/O管理概述",
+    "bookmarkPage": 317,
+    "page": 317,
+    "score": 1.153,
+    "text": "5. 1 1/O 管理概述",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.1  I/O设备",
+    "bookmarkPage": 317,
+    "page": 317,
+    "score": 1.07,
+    "text": "5 · 1. 1 1/O 设备",
+    "numberMatched": true
+  },
+  {
+    "title": "1．设备的分类",
+    "bookmarkPage": 317,
+    "page": 317,
+    "score": 1.32,
+    "text": "1. 设备的分类",
+    "numberMatched": true
+  },
+  {
+    "title": "2．I/O接口",
+    "bookmarkPage": 318,
+    "page": 318,
+    "score": 1.32,
+    "text": "2 ． I/O 接口",
+    "numberMatched": true
+  },
+  {
+    "title": "3．I/O接口的类型",
+    "bookmarkPage": 319,
+    "page": 319,
+    "score": 1.32,
+    "text": "3，I/O 接口的类型",
+    "numberMatched": true
+  },
+  {
+    "title": "4．I/O端口",
+    "bookmarkPage": 319,
+    "page": 319,
+    "score": 1.32,
+    "text": "4 ． I/O 端口",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.2  I/O控制方式",
+    "bookmarkPage": 320,
+    "page": 320,
+    "score": 0.987,
+    "text": "5. 1. 2 1/0 控制方式",
+    "numberMatched": true
+  },
+  {
+    "title": "1．程序直接控制方式",
+    "bookmarkPage": 320,
+    "page": 320,
+    "score": 1.32,
+    "text": "1. 程序直接控制方式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．中断驱动方式",
+    "bookmarkPage": 320,
+    "page": 320,
+    "score": 1.32,
+    "text": "2 · 中断驱动方式",
+    "numberMatched": true
+  },
+  {
+    "title": "3．DMA方式",
+    "bookmarkPage": 321,
+    "page": 321,
+    "score": 1.32,
+    "text": "3 ． DMA 方式",
+    "numberMatched": true
+  },
+  {
+    "title": "*4．通道控制方式",
+    "bookmarkPage": 322,
+    "page": 322,
+    "score": 1.32,
+    "text": "* 4 ． 通道控制方式",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.3  I/O软件层次结构",
+    "bookmarkPage": 322,
+    "page": 322,
+    "score": 1.195,
+    "text": "5，1. 3 1/O 软件层次结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1．用户层软件",
+    "bookmarkPage": 323,
+    "page": 323,
+    "score": 1.32,
+    "text": "1. 用户层软件",
+    "numberMatched": true
+  },
+  {
+    "title": "2．设备独立性软件",
+    "bookmarkPage": 323,
+    "page": 323,
+    "score": 1.32,
+    "text": "2 ． 设备独立性软件",
+    "numberMatched": true
+  },
+  {
+    "title": "3．设备驱动程序",
+    "bookmarkPage": 323,
+    "page": 323,
+    "score": 1.32,
+    "text": "3 · 设备驱动程序",
+    "numberMatched": true
+  },
+  {
+    "title": "4．中断处理程序",
+    "bookmarkPage": 323,
+    "page": 323,
+    "score": 1.32,
+    "text": "4 ． 中断处理程序",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.4  应用程序I/O接口",
+    "bookmarkPage": 325,
+    "page": 325,
+    "score": 1.195,
+    "text": "5，1. 4 应用程序 I / 0 接口",
+    "numberMatched": true
+  },
+  {
+    "title": "1．I/O接口的分类",
+    "bookmarkPage": 325,
+    "page": 325,
+    "score": 1.177,
+    "text": "1. I / 0 接口的分类",
+    "numberMatched": true
+  },
+  {
+    "title": "2．阻塞I/O和非阻塞I/O",
+    "bookmarkPage": 326,
+    "page": 326,
+    "score": 1.162,
+    "text": "2 ． 阻塞 I/O 和非阻塞 ] / 0",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.5  本节小结",
+    "bookmarkPage": 326,
+    "page": 326,
+    "score": 1.32,
+    "text": "5，1. 5 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.6  本节习题精选",
+    "bookmarkPage": 326,
+    "page": 326,
+    "score": 1.32,
+    "text": "5，1. 6 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 326,
+    "page": 326,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 329,
+    "page": 329,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.1.7  答案与解析",
+    "bookmarkPage": 329,
+    "page": 329,
+    "score": 1.32,
+    "text": "5，1. 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 329,
+    "page": 329,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 331,
+    "page": 331,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2  设备独立性软件",
+    "bookmarkPage": 332,
+    "page": 332,
+    "score": 1.32,
+    "text": "5 · 2 设备独立性软件",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.1  设备独立性软件",
+    "bookmarkPage": 332,
+    "page": 332,
+    "score": 1.32,
+    "text": "521 设备独立性软件",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.2  高速缓存与缓冲区",
+    "bookmarkPage": 332,
+    "page": 332,
+    "score": 1.32,
+    "text": "5，2，2 高速缓存与缓冲区",
+    "numberMatched": true
+  },
+  {
+    "title": "1．磁盘高速缓存（Disk Cache）",
+    "bookmarkPage": 332,
+    "page": 332,
+    "score": 1.32,
+    "text": "1. 磁盘高速缓存 (Disk Cache)",
+    "numberMatched": true
+  },
+  {
+    "title": "2．缓冲区（Buffer）",
+    "bookmarkPage": 333,
+    "page": 333,
+    "score": 1.32,
+    "text": "2 ． 缓冲区 (Buffer)",
+    "numberMatched": true
+  },
+  {
+    "title": "3．高速缓存与缓冲区的对比",
+    "bookmarkPage": 335,
+    "page": 335,
+    "score": 1.32,
+    "text": "3 ． 高速缓存与缓冲区的对比",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.3  设备分配与回收",
+    "bookmarkPage": 336,
+    "page": 336,
+    "score": 1.32,
+    "text": "523 设备分配与回收",
+    "numberMatched": true
+  },
+  {
+    "title": "1．设备分配概述",
+    "bookmarkPage": 336,
+    "page": 336,
+    "score": 1.32,
+    "text": "1. 设备分配概述",
+    "numberMatched": true
+  },
+  {
+    "title": "2．设备分配的数据结构",
+    "bookmarkPage": 336,
+    "page": 336,
+    "score": 1.32,
+    "text": "2 · 设备分配的数据结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3．设备分配时应考虑的因素",
+    "bookmarkPage": 337,
+    "page": 337,
+    "score": 1.32,
+    "text": "3 ． 设备分配时应考虑的因素",
+    "numberMatched": true
+  },
+  {
+    "title": "4．设备分配的步骤",
+    "bookmarkPage": 337,
+    "page": 337,
+    "score": 1.32,
+    "text": "4 ． 设备分配的步骤",
+    "numberMatched": true
+  },
+  {
+    "title": "5．逻辑设备名到物理设备名的映射",
+    "bookmarkPage": 337,
+    "page": 337,
+    "score": 1.32,
+    "text": "5 ． 逻辑设备名到物理设备名的映射",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.4  SPOOLing技术（假脱机技术）",
+    "bookmarkPage": 338,
+    "page": 338,
+    "score": 1.32,
+    "text": "524 SPOOLing 技术（假脱机技术）",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.5  设备驱动程序接口",
+    "bookmarkPage": 339,
+    "page": 339,
+    "score": 1.32,
+    "text": "5，2. 5 设备驱动程序接口",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.6  I/O操作举例",
+    "bookmarkPage": 340,
+    "page": 340,
+    "score": 1.153,
+    "text": "526 1/O 操作举例",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.7  本节小结",
+    "bookmarkPage": 341,
+    "page": 341,
+    "score": 1.32,
+    "text": "5. 2 · 7 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.8  本节习题精选",
+    "bookmarkPage": 341,
+    "page": 341,
+    "score": 1.32,
+    "text": "528 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 341,
+    "page": 341,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 345,
+    "page": 345,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2.9  答案与解析",
+    "bookmarkPage": 346,
+    "page": 346,
+    "score": 1.32,
+    "text": "5，2 · 9 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 346,
+    "page": 346,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 351,
+    "page": 351,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3  磁盘和固态硬盘",
+    "bookmarkPage": 352,
+    "page": 352,
+    "score": 1.32,
+    "text": "5 · 3 磁盘和固态硬盘",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.1  磁盘",
+    "bookmarkPage": 352,
+    "page": 352,
+    "score": 1.32,
+    "text": "5，3，1 磁盘",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.2  磁盘的管理",
+    "bookmarkPage": 353,
+    "page": 353,
+    "score": 1.32,
+    "text": "5，3，2 磁盘的管理",
+    "numberMatched": true
+  },
+  {
+    "title": "1．磁盘初始化",
+    "bookmarkPage": 353,
+    "page": 353,
+    "score": 1.32,
+    "text": "1 ． 磁盘初始化",
+    "numberMatched": true
+  },
+  {
+    "title": "2．分区",
+    "bookmarkPage": 353,
+    "page": 353,
+    "score": 1.32,
+    "text": "2 ． 分区",
+    "numberMatched": true
+  },
+  {
+    "title": "3．引导块",
+    "bookmarkPage": 354,
+    "page": 354,
+    "score": 1.32,
+    "text": "3，引导块",
+    "numberMatched": true
+  },
+  {
+    "title": "4．坏块",
+    "bookmarkPage": 354,
+    "page": 354,
+    "score": 1.32,
+    "text": "4 ． 坏块",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.3  磁盘调度算法",
+    "bookmarkPage": 354,
+    "page": 354,
+    "score": 1.32,
+    "text": "5. 3. 3 磁盘调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．磁盘的存取时间",
+    "bookmarkPage": 354,
+    "page": 354,
+    "score": 1.32,
+    "text": "1. 磁盘的存取时间",
+    "numberMatched": true
+  },
+  {
+    "title": "2．磁盘调度算法",
+    "bookmarkPage": 355,
+    "page": 355,
+    "score": 1.32,
+    "text": "2 ． 磁盘调度算法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．减少延迟时间的方法",
+    "bookmarkPage": 357,
+    "page": 357,
+    "score": 1.32,
+    "text": "3 ． 减少延迟时间的方法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．提高磁盘I/O速度的方法",
+    "bookmarkPage": 358,
+    "page": 358,
+    "score": 1.177,
+    "text": "4 ． 提高磁盘 ] / 0 速度的方法",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.4  固态硬盘",
+    "bookmarkPage": 358,
+    "page": 358,
+    "score": 1.32,
+    "text": "5. 3. 4 固态硬盘",
+    "numberMatched": true
+  },
+  {
+    "title": "1．固态硬盘的特性",
+    "bookmarkPage": 358,
+    "page": 358,
+    "score": 1.32,
+    "text": "1. 固态硬盘的特性",
+    "numberMatched": true
+  },
+  {
+    "title": "2．磨损均衡（Wear Leveling）",
+    "bookmarkPage": 359,
+    "page": 359,
+    "score": 1.223,
+    "text": "2 ． 磨损均衡（Wear Levehng)",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.5  本节小结",
+    "bookmarkPage": 359,
+    "page": 359,
+    "score": 1.32,
+    "text": "5. 3. 5 本节小结",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.6  本节习题精选",
+    "bookmarkPage": 360,
+    "page": 360,
+    "score": 1.32,
+    "text": "5，3，6 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 360,
+    "page": 360,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 363,
+    "page": 363,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3.7  答案与解析",
+    "bookmarkPage": 364,
+    "page": 364,
+    "score": 1.32,
+    "text": "5 · 3 · 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 364,
+    "page": 364,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 368,
+    "page": 368,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.4  本章疑难点",
+    "bookmarkPage": 371,
+    "page": 371,
+    "score": 1.32,
+    "text": "5. 4 本章疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．如何改进设备分配策略，以提高其灵活性和成功率？",
+    "bookmarkPage": 371,
+    "page": 371,
+    "score": 1.32,
+    "text": "1. 如何改进设备分配策略，以提高其灵活性和成功率 ？",
+    "numberMatched": true
+  },
+  {
+    "title": "2．用户缓冲区与内核缓冲区的定义及作用分别是什么？",
+    "bookmarkPage": 371,
+    "page": 371,
+    "score": 1.32,
+    "text": "2 ． 用户缓冲区与内核缓冲区的定义及作用分别是什么 ？",
+    "numberMatched": true
+  },
+  {
+    "title": "1．最佳（OPT）算法",
+    "bookmarkPage": 229,
+    "page": 229,
+    "score": 1.32,
+    "text": "1. 最佳 (OPT) 算法",
+    "numberMatched": true
+  },
+  {
+    "title": "2．先进先出（FIFO）算法",
+    "bookmarkPage": 230,
+    "page": 230,
+    "score": 1.32,
+    "text": "2 · 先进先出 (FIFO) 算法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．最近最久未使用（LRU）算法",
+    "bookmarkPage": 230,
+    "page": 230,
+    "score": 1.32,
+    "text": "3，最近最久未使用（LRU）算法",
+    "numberMatched": true
+  },
+  {
+    "title": "4．时钟（CLOCK）算法",
+    "bookmarkPage": 231,
+    "page": 231,
+    "score": 1.32,
+    "text": "4 · 时钟 (CLOCK) 算法",
+    "numberMatched": true
+  }
+]

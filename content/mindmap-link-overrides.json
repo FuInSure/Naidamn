@@ -1,0 +1,934 @@
+{
+  "ds-map-60a571ef51": {
+    "text": "共享栈、循环队列、双端队列",
+    "targets": [
+      "ds-book-76e3e98469",
+      "ds-book-36f5e2b361",
+      "ds-book-5e011f3ac9"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        78,
+        89,
+        92
+      ],
+      "reason": "三个并列名词均应有各自范围，基本概念范围不含其详细内容。"
+    }
+  },
+  "ds-map-ce7e85ae5d": {
+    "text": "二叉树的存储结构",
+    "targets": [
+      "ds-book-71c5381a8a"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        143,
+        144
+      ],
+      "reason": "存储结构位于定义及性质之后，不能继承二叉树定义范围。"
+    }
+  },
+  "ds-map-ece1b9c79f": {
+    "text": "顺序存储",
+    "targets": [
+      "ds-book-9c35b7ff83"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        143,
+        144
+      ],
+      "reason": "本节点处于二叉树存储结构下，限定为二叉树的顺序存储。"
+    }
+  },
+  "ds-map-af54285597": {
+    "text": "链式存储",
+    "targets": [
+      "ds-book-6048c6eff2"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        144,
+        145
+      ],
+      "reason": "本节点处于二叉树存储结构下，限定为二叉树的链式存储。"
+    }
+  },
+  "ds-map-5bd28269fd": {
+    "text": "线索二叉树",
+    "targets": [
+      "ds-book-46067d5bbf"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "reason": "线索二叉树独立在5.3.2，遍历小节不能覆盖线索内容。"
+    }
+  },
+  "ds-map-504ff7f8dd": {
+    "text": "线索二叉树含义以及作用",
+    "targets": [
+      "ds-book-46067d5bbf"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "reason": "线索二叉树独立在5.3.2，遍历小节不能覆盖线索内容。"
+    }
+  },
+  "ds-map-42bb502cd4": {
+    "text": "先序、中序、后序线索二叉树",
+    "targets": [
+      "ds-book-46067d5bbf"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "reason": "线索二叉树独立在5.3.2，遍历小节不能覆盖线索内容。"
+    }
+  },
+  "ds-map-5b3c99280d": {
+    "text": "图的基本概念：顶点、边、无向图、有向图、\n度、出度、入度、完全图、连通图、强连通图等",
+    "targets": [
+      "ds-book-5c1d5fd761"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        207,
+        208
+      ],
+      "reason": "并列列出度、连通及强连通等概念，不能只关联有向图和无向图。"
+    }
+  },
+  "ds-map-271b1e2a66": {
+    "text": "二叉排序树",
+    "targets": [
+      "ds-book-0308335b5c"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        291,
+        292,
+        293
+      ],
+      "reason": "BST父分支应包含操作，不能只打开定义。"
+    }
+  },
+  "ds-map-ef3315c0e0": {
+    "text": "查找、插入、创建",
+    "targets": [
+      "ds-book-48c27279bf",
+      "ds-book-f6b571071f",
+      "ds-book-0eb8da58ab"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        291,
+        292
+      ],
+      "reason": "查找、插入、创建三个并列操作分别关联。"
+    }
+  },
+  "ds-map-9d8a9e3bca": {
+    "text": "删除的三种情况",
+    "targets": [
+      "ds-book-e280283ab1"
+    ],
+    "evidence": {
+      "book": "ds",
+      "pdfPages": [
+        292,
+        293
+      ],
+      "reason": "删除分支需打开删除三种情况所在范围。"
+    }
+  },
+  "co-map-f89af0d407": {
+    "text": "补码加法",
+    "targets": [
+      "定点数的加减运算"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        48,
+        49,
+        50
+      ],
+      "reason": "补码加减与溢出判别在运算小节，定点编码小节不涵盖这些操作。"
+    }
+  },
+  "co-map-6a9b3a8418": {
+    "text": "补码减法",
+    "targets": [
+      "定点数的加减运算"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        48,
+        49,
+        50
+      ],
+      "reason": "补码加减与溢出判别在运算小节，定点编码小节不涵盖这些操作。"
+    }
+  },
+  "os-map-d0dca976cc": {
+    "text": "线程",
+    "targets": [
+      "线程的基本概念",
+      "线程控制块"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        57,
+        58,
+        59
+      ],
+      "reason": "线程父分支同时包括概念和控制块，不能只定位控制块。"
+    }
+  },
+  "os-map-acf9752ce1": {
+    "text": "独立调度的基本单位，可访问其隶属进程的资源",
+    "targets": [
+      "线程的基本概念"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        57,
+        58
+      ],
+      "reason": "独立调度单位与资源共享是线程概念，并非控制块定义。"
+    }
+  },
+  "os-map-94938cbf1e": {
+    "text": "设备独立性软件",
+    "targets": [
+      "os-book-2afaa97be3"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        332,
+        333,
+        336,
+        339,
+        340
+      ],
+      "reason": "5.2设备独立性软件整节，与5.1软件层次下的同名短介绍区分。"
+    }
+  },
+  "os-map-3ba6c9d9e1": {
+    "text": "设备分配与回收",
+    "targets": [
+      "os-book-8c75bdf930"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        336,
+        337,
+        338
+      ],
+      "reason": "设备分配回收应定位5.2具体小节。"
+    }
+  },
+  "os-map-3d79e54fe4": {
+    "text": "设备驱动程序接口",
+    "targets": [
+      "os-book-876f7ce917"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        339,
+        340
+      ],
+      "reason": "设备驱动接口应定位5.2具体小节。"
+    }
+  },
+  "os-map-a53e5ff576": {
+    "text": "IO操作举例：通过scanf函数读取键盘字符的流程\n书上328页，这个例子很重要，多读一下流程",
+    "targets": [
+      "os-book-251f8689fd"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        340,
+        341
+      ],
+      "reason": "scanf应用程序接口调用流程在5.2的I/O操作举例，与5.1同名介绍区分。"
+    }
+  },
+  "os-map-563bcc531e": {
+    "text": "程序的链接与装入",
+    "targets": [
+      "程序的链接与装入",
+      "程序的链接",
+      "程序的装入"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        189,
+        190,
+        191
+      ],
+      "reason": "流程概述与三种链接/装入方式分属三个相邻范围，须一并提供。"
+    }
+  },
+  "os-map-18b574bcb3": {
+    "text": "装入方式\n结合书上179页\n图3.2理解",
+    "targets": [
+      "程序的装入"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        190,
+        191
+      ],
+      "reason": "三种装入方式的详情不在编译链接装入总流程中。"
+    }
+  },
+  "os-map-cb1d565a3d": {
+    "text": "链接方式",
+    "targets": [
+      "程序的链接"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        190
+      ],
+      "reason": "三种链接方式的详情在程序的链接。"
+    }
+  },
+  "net-map-e77023312c": {
+    "text": "CSMA/CD协议",
+    "targets": [
+      "net-book-c74580f0c9"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        101,
+        102,
+        103
+      ],
+      "reason": "当前版CSMA/CD细节位于以太网小节，随机访问范围只有概述并指向3.6.2。"
+    }
+  },
+  "net-map-07ae4cd53a": {
+    "text": "CSMA/CA协议",
+    "targets": [
+      "net-book-6151761ab1"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "reason": "当前版CSMA/CA细节位于无线局域网小节，包含隐蔽站、IFS、信道预约。"
+    }
+  },
+  "net-map-989a78eee4": {
+    "text": "总结：CSMA/CA 在发送数据帧之前先广播告知其他站点，让其他站点在某段时间内不要发送数据帧，以免发生冲突。\nCSMA/CD 在发送数据帧之前监听，边发送边监听，一旦发生冲突，就立即停止发送。",
+    "targets": [
+      "net-book-6151761ab1",
+      "net-book-c74580f0c9"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        101,
+        106,
+        107
+      ],
+      "reason": "两协议对照总结同时提供两个实际协议范围。"
+    }
+  },
+  "net-map-8fe79d6f45": {
+    "text": "信道利用率：k * t1/（t1 + 2τ + t2）\n分母的时间也叫做发送周期\n常规高频计算题，务必掌握\n选择题或者大题小问",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "co-map-e1dd7d175b": {
+    "text": "定点整数\n主要考察，\n需要熟练掌握",
+    "targets": [
+      "定点数的编码表示",
+      "整数的表示",
+      "定点数的移位运算",
+      "C 语言中的整数类型及类型转换"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        34,
+        35,
+        37,
+        38,
+        47
+      ],
+      "reason": "整数分支包含编码、扩展和移位，不能只有整数表示单页；父范围还会汇集下级加减等操作。"
+    }
+  },
+  "co-map-5306d9ec94": {
+    "text": "机器数和真值的含义",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        34
+      ],
+      "reason": "机器数与真值位于编码概述。"
+    }
+  },
+  "co-map-607aa1c457": {
+    "text": "有符号数",
+    "targets": [
+      "定点数的编码表示",
+      "整数的表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        37
+      ],
+      "reason": "有符号数分支同时涉及编码与整数表示。"
+    }
+  },
+  "co-map-6d6b914e91": {
+    "text": "原码",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        36,
+        37
+      ],
+      "reason": "原反补移码及表示范围在定点编码。"
+    }
+  },
+  "co-map-3dad7c7829": {
+    "text": "反码",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        36,
+        37
+      ],
+      "reason": "原反补移码及表示范围在定点编码。"
+    }
+  },
+  "co-map-95cdbdc3e6": {
+    "text": "补码",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        36,
+        37
+      ],
+      "reason": "原反补移码及表示范围在定点编码。"
+    }
+  },
+  "co-map-40a373684d": {
+    "text": "移码=真值+偏置值",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        36,
+        37
+      ],
+      "reason": "原反补移码及表示范围在定点编码。"
+    }
+  },
+  "co-map-fb2bbdbbe3": {
+    "text": "上述各种表示范围",
+    "targets": [
+      "定点数的编码表示"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        35,
+        36,
+        37
+      ],
+      "reason": "原反补移码及表示范围在定点编码。"
+    }
+  },
+  "co-map-caa0014b6b": {
+    "text": "逻辑移位的移位规则",
+    "targets": [
+      "定点数的移位运算"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        47
+      ],
+      "reason": "逻辑与算术移位位于定点运算而非整数表示。"
+    }
+  },
+  "co-map-9bb70dec00": {
+    "text": "算术移位的移位规则",
+    "targets": [
+      "定点数的移位运算"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        47
+      ],
+      "reason": "逻辑与算术移位位于定点运算而非整数表示。"
+    }
+  },
+  "co-map-3a2d6e783f": {
+    "text": "扩展方式：零扩展",
+    "targets": [
+      "C 语言中的整数类型及类型转换"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        38
+      ],
+      "reason": "零扩展、符号扩展及混合类型运算位于C整数类型转换。"
+    }
+  },
+  "co-map-5fc40ef827": {
+    "text": "扩展方式：符号扩展",
+    "targets": [
+      "C 语言中的整数类型及类型转换"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        38
+      ],
+      "reason": "零扩展、符号扩展及混合类型运算位于C整数类型转换。"
+    }
+  },
+  "co-map-a4435b31fb": {
+    "text": "无符号数和有符号数进行运算(先将两者的位数按照自身的规则进行扩\n展至位数相同)，计算机会把结果作为无符号数去解释",
+    "targets": [
+      "C 语言中的整数类型及类型转换"
+    ],
+    "evidence": {
+      "book": "co",
+      "pdfPages": [
+        38
+      ],
+      "reason": "零扩展、符号扩展及混合类型运算位于C整数类型转换。"
+    }
+  },
+  "net-map-76a1ceb230": {
+    "text": "计算机网络的概念、组成与功能\n书上文字简单读下就行",
+    "targets": [
+      "net-book-cd133c4cf9",
+      "net-book-0b942f4f28",
+      "net-book-f1cb41e22e"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        13,
+        14
+      ],
+      "reason": "概念、组成、功能三个并列内容分别对应，不能只选概念。"
+    }
+  },
+  "net-map-e134b3b9e3": {
+    "text": "信道利用率：用来指出某个信道有百分之多少的时间是有数据通过的。\n具体公式以及相关真题，见3.4小节最后面一部分的内容。",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "第一章跨章节引用的信道利用率公式同样定位到利用率分析。"
+    }
+  },
+  "net-map-902a7b5b6c": {
+    "text": "好消息传的快，坏消息传的慢\n一旦发现更近的路由，立马进行更新",
+    "targets": [
+      "net-book-b9eea7cd12"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        202,
+        203
+      ],
+      "reason": "好消息快坏消息慢在RIP优缺点，而不是特点的其他部分。"
+    }
+  },
+  "net-map-6c686937dd": {
+    "text": "根据网络拓扑图，写出某个路由器的路由表，\n如果要求表项尽可能少（需要对下一跳相同的\n网络进行路由聚合）",
+    "targets": [
+      "net-book-d71914e064",
+      "net-book-a688321ed5"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        155,
+        158,
+        159
+      ],
+      "reason": "路由表填写分支同时涉及聚合和网络层逐跳转发/下一跳字段。"
+    }
+  },
+  "net-map-2f5905ec24": {
+    "text": "k：发送窗口大小",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-5070b4f32d": {
+    "text": "停止等待协议：发送窗口=1",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-01336abfc6": {
+    "text": "后退N帧协议：发送窗口 <=  2^n    -   1",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-6c19602f09": {
+    "text": "选择重传协议：发送窗口>1",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-40f5654e36": {
+    "text": "t1：发送帧的传输时间",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-64889b6e86": {
+    "text": "帧长除以传输速率",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-71db2207a9": {
+    "text": "t2：确认帧的传输时间",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-21d7b0d62b": {
+    "text": "忽略确认帧的开销，t2 = 0",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-4670b676c6": {
+    "text": "确认帧和发送帧等长，t2 = t1",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-aa21da1694": {
+    "text": "τ：单向传播时间",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-90b1fa665f": {
+    "text": "部分题目给出信道利用率，然后让求帧长",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "net-map-6d2f90af30": {
+    "text": "信道平均（实际）数据传输速率 = 信道利用率 * 信道带宽（最大数据传输速率）\nv：带宽                                        =  v * k * t1/（t1 + 2τ + t2）\nL：帧长                                        =  kL/（t1 + 2τ + t2）\n= 发送周期内发送的数据量/发送周期",
+    "targets": [
+      "net-book-77c358da42"
+    ],
+    "evidence": {
+      "book": "net",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "reason": "此节点位于信道利用率计算分支；协议名用于说明发送窗口参数，保留利用率公式范围，优先于其他同名协议规则。"
+    }
+  },
+  "os-map-43a009c52c": {
+    "text": "书上216页，图3.21，请求分页地址变换流程，理解为主",
+    "targets": [
+      "os-book-866dbfe99e"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        226,
+        227
+      ],
+      "reason": "请求分页地址变换机构位于缺页中断之后；与基本分段中的同名地址变换机构区分。"
+    }
+  },
+  "os-map-34c1bb3981": {
+    "text": "线程的状态与转换过程和上述基本相同",
+    "targets": [
+      "os-book-261555f107"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        59
+      ],
+      "reason": "线程状态转换对应线程生命周期，而非只关联进程状态。"
+    }
+  },
+  "os-map-66eedbb021": {
+    "text": "进程控制：进程的创建、进程的终止、进程的阻塞和唤醒\n线程的组织与控制：线程控制块、线程的创建、线程的终止\n书上相关内容读一读即可，了解即可",
+    "targets": [
+      "进程控制",
+      "线程的状态与生命周期",
+      "线程控制块"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        48,
+        49,
+        50,
+        59
+      ],
+      "reason": "并列提到进程控制与线程组织控制，应同时覆盖线程创建终止及控制块。"
+    }
+  },
+  "os-map-d84959e4fa": {
+    "text": "死锁的四个必要条件",
+    "targets": [
+      "os-book-5edaaa2294"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        163
+      ],
+      "reason": "死锁必要条件的定义应与预防死锁中破坏条件的措施区分。"
+    }
+  },
+  "os-map-a57ddb5fbc": {
+    "text": "互斥",
+    "targets": [
+      "os-book-5edaaa2294"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        163
+      ],
+      "reason": "死锁必要条件的定义应与预防死锁中破坏条件的措施区分。"
+    }
+  },
+  "os-map-5ee06c6b42": {
+    "text": "不可剥夺",
+    "targets": [
+      "os-book-5edaaa2294"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        163
+      ],
+      "reason": "死锁必要条件的定义应与预防死锁中破坏条件的措施区分。"
+    }
+  },
+  "os-map-bdffe1d087": {
+    "text": "请求和保持",
+    "targets": [
+      "os-book-5edaaa2294"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        163
+      ],
+      "reason": "死锁必要条件的定义应与预防死锁中破坏条件的措施区分。"
+    }
+  },
+  "os-map-58a7336d8b": {
+    "text": "循环等待",
+    "targets": [
+      "os-book-5edaaa2294"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        163
+      ],
+      "reason": "死锁必要条件的定义应与预防死锁中破坏条件的措施区分。"
+    }
+  },
+  "os-map-2f9e699044": {
+    "text": "死锁的基本概念",
+    "targets": [
+      "死锁的概念"
+    ],
+    "evidence": {
+      "book": "os",
+      "pdfPages": [
+        162,
+        163,
+        164
+      ],
+      "reason": "死锁概念父分支同时包括定义、原因与四个必要条件。"
+    }
+  }
+}

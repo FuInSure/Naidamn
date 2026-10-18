@@ -1,0 +1,1094 @@
+{
+  "patterns": [
+    {
+      "subject": "co",
+      "pattern": "^浮点数的表示和运算$",
+      "targets": [
+        "@2.3"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^浮点数的IEEE",
+      "targets": [
+        "IEEE 754 标准的浮点数"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^类型转换所带来的后果",
+      "targets": [
+        "C 语言中的浮点数类型"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^RAM$",
+      "targets": [
+        "半导体随机存取存储器"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^ROM$",
+      "targets": [
+        "非易失性存储器"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^Cache映射方式|^Cache的访问流程|^比较器的位数",
+      "targets": [
+        "Cache 和主存的映射方式"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^Cache总容量",
+      "targets": [
+        "Cache 容量的计算举例"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^Cache基本概念|Cache命中率、缺失率",
+      "targets": [
+        "Cache 的基本工作原理"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^Cache写策略",
+      "targets": [
+        "Cache 的一致性问题"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^快表TLB|^请求分页页表|^分页、快表",
+      "targets": [
+        "页式虚拟存储器"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^定点整数",
+      "targets": [
+        "整数的表示"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^类型转换$",
+      "targets": [
+        "C 语言中的整数类型及类型转换"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^标志位的计算",
+      "targets": [
+        "定点数的加减运算"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^寄存器按是否可见分类",
+      "targets": [
+        "CPU 中的寄存器"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^微程序控制器\\n|^微程序控制器与硬布线",
+      "targets": [
+        "微程序控制器"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^流水线的五个阶段",
+      "targets": [
+        "MIPS 指令集的流水段分析"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^流水线的性能指标",
+      "targets": [
+        "指令流水线的基本概念"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^IO接口的功能",
+      "targets": [
+        "I/O 接口的功能"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^IO接口的基本结构",
+      "targets": [
+        "I/O 接口的基本结构"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^IO端口",
+      "targets": [
+        "I/O 端口及其编址"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^程序查询$",
+      "targets": [
+        "程序查询方式"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^中断\\n计组",
+      "targets": [
+        "程序中断方式"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^DMA$",
+      "targets": [
+        "DMA 方式"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^进程与线程的基本概念",
+      "targets": [
+        "进程的概念和特征",
+        "线程和多线程模型"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^进程间通信$",
+      "targets": [
+        "进程的通信"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^线程的实现级方式$",
+      "targets": [
+        "线程和多线程模型"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^处理器运行模式$",
+      "targets": [
+        "处理机的双重工作模式"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^内核的四方面",
+      "targets": [
+        "操作系统内核"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^中断和异常的定义\\n",
+      "targets": [
+        "中断和异常的概念"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^调度的实现$",
+      "targets": [
+        "进程调度",
+        "进程切换"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^CPU调度算法",
+      "targets": [
+        "CPU调度算法"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^同步和互斥的基本概念$",
+      "targets": [
+        "同步与互斥的基本概念"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^互斥的基本实现方法",
+      "targets": [
+        "实现临界区互斥的基本方法"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^条件变量$",
+      "targets": [
+        "管程"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^经典同步问题\\n",
+      "targets": [
+        "经典同步问题"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^银行家算法",
+      "targets": [
+        "利用银行家算法避免死锁"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^死锁的检测和解除$",
+      "targets": [
+        "死锁检测与解除"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^内存管理的基本概念$",
+      "targets": [
+        "内存管理的基本原理和要求"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^进程的内存映像$",
+      "targets": [
+        "进程的内存映像"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^非连续分配管理方式",
+      "targets": [
+        "基本分页存储管理",
+        "基本分段存储管理",
+        "段页式存储管理"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^页式管理\\n",
+      "targets": [
+        "基本分页存储管理"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^段式管理$",
+      "targets": [
+        "基本分段存储管理"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^段页式管理\\n",
+      "targets": [
+        "段页式存储管理"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^请求分页管理$",
+      "targets": [
+        "请求分页管理方式"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^页置换算法",
+      "targets": [
+        "页面置换算法"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^文件控制块|^索引结点$",
+      "targets": [
+        "文件控制块和索引节点"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^文件的操作：",
+      "targets": [
+        "文件的操作"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^文件的物理结构",
+      "targets": [
+        "文件的物理结构"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^文件保护$",
+      "targets": [
+        "文件保护"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^缓冲区管理$",
+      "targets": [
+        "高速缓存与缓冲区"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^假脱机技术",
+      "targets": [
+        "SPOOLing技术（假脱机技术）"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^IO设备$|^IO设备分类$",
+      "targets": [
+        "I/O设备"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^IO接口\\n|^IO端口$",
+      "targets": [
+        "I/O设备"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^输入/输出应用程序接口$",
+      "targets": [
+        "应用程序I/O接口"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^外存空闲空间管理方法",
+      "targets": [
+        "文件存储空间管理"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^计算机网络的三种分类方式",
+      "targets": [
+        "计算机网络协议、服务、接口的概念"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^循环冗余码$|^奇偶校验码$",
+      "targets": [
+        "检错编码"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^海明码$",
+      "targets": [
+        "纠错编码"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^UDP校验$",
+      "targets": [
+        "UDP检验"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^流量控制方法$|^滑动窗口协议的窗口大小",
+      "targets": [
+        "流量控制与滑动窗口机制"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^停止等待协议|^后退N帧协议|^选择重传协议",
+      "targets": [
+        "可靠传输机制"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^信道利用率：",
+      "targets": [
+        "流量控制与滑动窗口机制"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^信道划分$",
+      "targets": [
+        "信道划分介质访问控制"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^随机访问$",
+      "targets": [
+        "随机访问介质访问控制"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^轮询访问$",
+      "targets": [
+        "轮询访问：令牌传递协议"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^以太网与IEEE802.3$",
+      "targets": [
+        "以太网与IEEE 802. 3"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^以太网交换机的两者交换模式$",
+      "targets": [
+        "以太网交换机"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^IPv4分组的首部格式|^IP数据报分片$",
+      "targets": [
+        "IPv4分组"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^IPv4地址格式$|^子网划分$|^默认网关$|^无分类编址CIDR$|^路由聚合$|^最长前缀匹配原则$|^路由表中特殊表项$",
+      "targets": [
+        "IPv4地址",
+        "网络层转发分组的过程"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^地址解析协议ARP$",
+      "targets": [
+        "地址解析协议（ARP）"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^动态主机配置协议DHCP$",
+      "targets": [
+        "动态主机配置协议DHCP"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^网际控制报文协议ICMP$",
+      "targets": [
+        "网际控制报文协议ICMP"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^RIP协议$",
+      "targets": [
+        "路由信息协议"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^OSPF协议$",
+      "targets": [
+        "开放最短路径优先协议"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^BGP协议$",
+      "targets": [
+        "边界网关协议"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^UDP的主要特点|^UDP首部格式|^UDP的应用场景",
+      "targets": [
+        "UDP数据报"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^TCP的主要特点$",
+      "targets": [
+        "TCP的特点"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^TCP首部格式",
+      "targets": [
+        "TCP报文段"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^三次握手|^四次挥手",
+      "targets": [
+        "TCP连接管理"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^TCP重传机制$",
+      "targets": [
+        "TCP可靠传输"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^多用途因特网邮件扩展MIME$",
+      "targets": [
+        "电子邮件格式与MIME"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^HTTP协议$",
+      "targets": [
+        "超文本传输协议"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "常见的逻辑结构以及对应的物理结构",
+      "targets": [
+        "@1.1"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "时空复杂度的计算与分析",
+      "targets": [
+        "算法效率的度量"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^顺序表（",
+      "targets": [
+        "@2.2"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^链表$",
+      "targets": [
+        "@2.3"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^单链表、双链表",
+      "targets": [
+        "单链表的定义",
+        "单链表上基本操作的实现",
+        "双链表",
+        "循环链表",
+        "静态链表"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "链表常见操作代码",
+      "targets": [
+        "单链表上基本操作的实现"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "顺序表和链表的对比",
+      "targets": [
+        "顺序表和链表的比较"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "栈和队列的基本概念",
+      "targets": [
+        "栈的基本概念",
+        "队列的基本概念"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "普通的栈和队列",
+      "targets": [
+        "栈的基本概念",
+        "队列的基本概念"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "栈和队列的代码实现",
+      "targets": [
+        "栈的顺序存储结构",
+        "栈的链式存储结构",
+        "队列的顺序存储结构",
+        "队列的链式存储结构"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^栈：括号匹配",
+      "targets": [
+        "栈在括号匹配中的应用",
+        "栈在表达式求值中的应用",
+        "栈在递归中的应用"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^队列：层次遍历",
+      "targets": [
+        "队列在层次遍历中的应用",
+        "队列在计算机系统中的应用"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^数组$",
+      "targets": [
+        "数组的定义",
+        "数组的存储结构"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^一维数组$|^二维数组$|根据数组首地址",
+      "targets": [
+        "数组的存储结构"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^压缩存储$",
+      "targets": [
+        "特殊矩阵的压缩存储",
+        "稀疏矩阵"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^主串、子串",
+      "targets": [
+        "串的定义",
+        "串的模式匹配"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "next数组和nextval",
+      "targets": [
+        "串的模式匹配算法——KMP算法",
+        "KMP算法的进一步优化"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^二叉树$|^常见的二叉树$",
+      "targets": [
+        "二叉树的定义及其主要特性"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^完全二叉树$|^常用公式$",
+      "targets": [
+        "二叉树的定义及其主要特性"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "二叉排序树、平衡二叉树、红黑树",
+      "targets": [
+        "二叉排序树（BST）",
+        "平衡二叉树",
+        "红黑树"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^堆：8.4",
+      "targets": [
+        "堆排序"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^败者树：8.7",
+      "targets": [
+        "多路平衡归并与败者树"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "先中后序遍历、层次遍历|先中后序、层次遍历代码",
+      "targets": [
+        "二叉树的遍历"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "根据遍历序列还原",
+      "targets": [
+        "二叉树的遍历"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^哈夫曼树$|树的带权路径长度",
+      "targets": [
+        "哈夫曼树和哈夫曼编码"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "多叉哈夫曼树与最佳归并树",
+      "targets": [
+        "最佳归并树"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^前缀编码、定长编码",
+      "targets": [
+        "哈夫曼编码"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "WPL在哈夫曼树",
+      "targets": [
+        "哈夫曼树和哈夫曼编码",
+        "最佳归并树"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^图的定义$",
+      "targets": [
+        "图的定义"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^BFS求无权图最短路径$",
+      "targets": [
+        "广度优先搜索"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "普利姆算法|克鲁斯卡尔算法",
+      "targets": [
+        "最小生成树"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "迪杰斯特拉算法|弗洛伊德算法",
+      "targets": [
+        "最短路径"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^查找基本概念$",
+      "targets": [
+        "查找的基本概念"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^查找方式$",
+      "targets": [
+        "@7.2"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^散列表$",
+      "targets": [
+        "@7.5"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^插入类排序$",
+      "targets": [
+        "@8.2"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^交换类排序$",
+      "targets": [
+        "@8.3"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "^选择类排序$",
+      "targets": [
+        "@8.4"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "各种内部排序算法的比较",
+      "targets": [
+        "内部排序算法的比较"
+      ]
+    },
+    {
+      "subject": "ds",
+      "pattern": "以上排序的代码实现",
+      "targets": [
+        "直接插入排序",
+        "折半插入排序",
+        "希尔排序",
+        "冒泡排序",
+        "快速排序",
+        "简单选择排序",
+        "堆排序",
+        "归并排序"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^计算机系统\\n层次结构",
+      "targets": [
+        "@1.2"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^计算机的性能指标",
+      "targets": [
+        "@1.3"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^运算方法和运算电路\\n加减",
+      "targets": [
+        "基本运算部件",
+        "定点数的移位运算",
+        "定点数的加减运算"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^运算方法和运算电路\\n乘除|^补码乘除",
+      "targets": [
+        "定点数的乘除运算"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^大小端方式|^结构体的边界对齐",
+      "targets": [
+        "数据的宽度和存储"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^3.5高速缓冲存储器",
+      "targets": [
+        "@3.5"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^虚拟存储器\\n",
+      "targets": [
+        "@3.6"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^指令的寻址方式$",
+      "targets": [
+        "@4.2"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^程序的机器级代码表示",
+      "targets": [
+        "@4.3"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^控制器的功能\\n和工作原理",
+      "targets": [
+        "@5.4"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^5.5异常和中断机制",
+      "targets": [
+        "@5.5"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^7.1显存刷新带宽",
+      "targets": [
+        "外部设备"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^IO接口\\(IO控制器\\)",
+      "targets": [
+        "@7.2"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "^7.3\\nIO方式",
+      "targets": [
+        "@7.3"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "MAR和MDR用途",
+      "targets": [
+        "主存储器的组成和基本操作"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "三个级别的语言",
+      "targets": [
+        "计算机系统的层次结构"
+      ]
+    },
+    {
+      "subject": "co",
+      "pattern": "冯诺依曼计算机的特点",
+      "targets": [
+        "计算机硬件"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^进程与线程$",
+      "targets": [
+        "@2.1"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^目录$",
+      "targets": [
+        "@4.2"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^IO管理概述$",
+      "targets": [
+        "@5.1"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^操作系统发展历程",
+      "targets": [
+        "@1.2"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^IO控制方式$",
+      "targets": [
+        "I/O控制方式"
+      ]
+    },
+    {
+      "subject": "os",
+      "pattern": "^IO软件层次结构$",
+      "targets": [
+        "I/O软件层次结构"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^OSI参考模型$|^TCP/IP模型$|TCP/IP模型和OSI参考模型的比较",
+      "targets": [
+        "OSI参考模型和TCP/IP模型"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^关于分层的理解$",
+      "targets": [
+        "@1.2"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^IP组播$",
+      "targets": [
+        "@4.5"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^IPv4\\n",
+      "targets": [
+        "@4.2"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^TCP\\n",
+      "targets": [
+        "@5.3"
+      ]
+    },
+    {
+      "subject": "net",
+      "pattern": "^差错控制\\n",
+      "targets": [
+        "@3.3"
+      ]
+    }
+  ]
+}

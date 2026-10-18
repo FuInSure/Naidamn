@@ -1,0 +1,3098 @@
+[
+  {
+    "title": "1.1  计算机网络概述",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1 计算机网络概述",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.1  计算机网络的概念",
+    "bookmarkPage": 13,
+    "page": 13,
+    "score": 1.32,
+    "text": "1. 1. 1 计算机网络的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.2  计算机网络的组成",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 1. 2 计算机网络的组成",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.3  计算机网络的功能",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 1. 3 计算机网络的功能",
+    "numberMatched": true
+  },
+  {
+    "title": "1．数据通信",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "1. 数据通信",
+    "numberMatched": true
+  },
+  {
+    "title": "2．资源共享",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.07,
+    "text": "2 ． 資源共享",
+    "numberMatched": true
+  },
+  {
+    "title": "3．分布式处理",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "3 ． 分布式处理",
+    "numberMatched": true
+  },
+  {
+    "title": "4．提高可靠性",
+    "bookmarkPage": 14,
+    "page": 14,
+    "score": 1.32,
+    "text": "4，提高可靠性",
+    "numberMatched": true
+  },
+  {
+    "title": "5．负载均衡",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "5 ． 负载均衡",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.4  电路交换、报文交换与分组交换",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "1. 1. 4 电路交换、报文交换与分组交换",
+    "numberMatched": true
+  },
+  {
+    "title": "1．电路交换",
+    "bookmarkPage": 15,
+    "page": 17,
+    "score": 0.992,
+    "text": "电路交换",
+    "numberMatched": false
+  },
+  {
+    "title": "2．报文交换",
+    "bookmarkPage": 15,
+    "page": 15,
+    "score": 1.32,
+    "text": "2，报文交换",
+    "numberMatched": true
+  },
+  {
+    "title": "3．分组交换",
+    "bookmarkPage": 16,
+    "page": 16,
+    "score": 1.32,
+    "text": "3 · 分组交换",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.5  计算机网络的分类",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "1. 1. 5 计算机网络的分类",
+    "numberMatched": true
+  },
+  {
+    "title": "1．按分布范围分类",
+    "bookmarkPage": 17,
+    "page": 17,
+    "score": 1.32,
+    "text": "1. 按分布范围分类",
+    "numberMatched": true
+  },
+  {
+    "title": "2．按传输技术分类",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.32,
+    "text": "2 · 按传输技术分类",
+    "numberMatched": true
+  },
+  {
+    "title": "3．按拓扑结构分类",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.32,
+    "text": "3 ． 按拓扑结构分类",
+    "numberMatched": true
+  },
+  {
+    "title": "4．按使用者分类",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.32,
+    "text": "4 ． 按使用者分类",
+    "numberMatched": true
+  },
+  {
+    "title": "5．按传输介质分类",
+    "bookmarkPage": 18,
+    "page": 18,
+    "score": 1.177,
+    "text": "5 · 按传输介躓分类",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.6  计算机网络的性能指标",
+    "bookmarkPage": 19,
+    "page": 19,
+    "score": 1.32,
+    "text": "1. 1. 6 计算机网络的性能指标",
+    "numberMatched": true
+  },
+  {
+    "title": "1.1.7  本节习题精选",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 1.32,
+    "text": "1. 1. 7 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 21,
+    "page": 21,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 23,
+    "page": 23,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.1.8  答案与解析",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 1.32,
+    "text": "1. 1. 8 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 24,
+    "page": 24,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 26,
+    "page": 26,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2  计算机网络体系结构与参考模型",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "1. 2 计算机网络体系结构与参考模型",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.1  计算机网络分层结构",
+    "bookmarkPage": 27,
+    "page": 27,
+    "score": 1.32,
+    "text": "1. 2，1 计算机网络分层结构",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.2  计算机网络协议、服务、接口的概念",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 2，2 计算机网络协议、服务、接口的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．协议",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "1. 协议",
+    "numberMatched": true
+  },
+  {
+    "title": "2．接口",
+    "bookmarkPage": 28,
+    "page": 28,
+    "score": 1.32,
+    "text": "2 ． 接口",
+    "numberMatched": true
+  },
+  {
+    "title": "3．服务",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "3 · 服务",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.3  OSI参考模型和TCP/IP模型",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "1. 2 · 3 OSI 参考模型和 TCP/IP 模型",
+    "numberMatched": true
+  },
+  {
+    "title": "1．OSI参考模型",
+    "bookmarkPage": 29,
+    "page": 29,
+    "score": 1.32,
+    "text": "1. OSI 参考模型",
+    "numberMatched": true
+  },
+  {
+    "title": "2．TCP/IP模型",
+    "bookmarkPage": 32,
+    "page": 32,
+    "score": 1.32,
+    "text": "2 · TCP/IP 模型",
+    "numberMatched": true
+  },
+  {
+    "title": "3．TCP/IP模型与OSI参考模型的比较",
+    "bookmarkPage": 33,
+    "page": 33,
+    "score": 1.32,
+    "text": "3 ． TCP/IP 模型与 OSI 参考模型的比较",
+    "numberMatched": true
+  },
+  {
+    "title": "1.2.4  本节习题精选",
+    "bookmarkPage": 34,
+    "page": 34,
+    "score": 1.32,
+    "text": "1. 2 · 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 34,
+    "page": 34,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.2.5  答案与解析",
+    "bookmarkPage": 37,
+    "page": 37,
+    "score": 1.32,
+    "text": "1. 2. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 37,
+    "page": 37,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "1.3  本章小结及疑难点",
+    "bookmarkPage": 40,
+    "page": 40,
+    "score": 1.0,
+    "text": "本章小结及疑难点",
+    "numberMatched": false
+  },
+  {
+    "title": "2.1  通信基础",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "2 · 1 通信基础",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.1  基本概念",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "2. 1. 1 基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "1．数据、信号与码元",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "1. 数据、信号与码元",
+    "numberMatched": true
+  },
+  {
+    "title": "2．信源、信道与信宿",
+    "bookmarkPage": 42,
+    "page": 42,
+    "score": 1.32,
+    "text": "2 ． 信源、信道与信宿",
+    "numberMatched": true
+  },
+  {
+    "title": "3．速率、波特与带宽",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "3 ． 速率、波特与带宽",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.2  信道的极限容量",
+    "bookmarkPage": 43,
+    "page": 43,
+    "score": 1.32,
+    "text": "2 · 1. 2 信道的极限容量",
+    "numberMatched": true
+  },
+  {
+    "title": "1．奈奎斯特定理（奈氏准则）",
+    "bookmarkPage": 44,
+    "page": 44,
+    "score": 1.32,
+    "text": "1. 奈奎斯特定理（奈氏准则）",
+    "numberMatched": true
+  },
+  {
+    "title": "2．香农定理",
+    "bookmarkPage": 44,
+    "page": 44,
+    "score": 1.32,
+    "text": "2 ． 香农定理",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.3  编码与调制",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.32,
+    "text": "2 · 1. 3 编码与调制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．数字数据编码为数字信号",
+    "bookmarkPage": 45,
+    "page": 45,
+    "score": 1.32,
+    "text": "1. 数字数据编码为数字信号",
+    "numberMatched": true
+  },
+  {
+    "title": "2．模拟数据编码为数字信号",
+    "bookmarkPage": 46,
+    "page": 46,
+    "score": 1.32,
+    "text": "2，模拟数据编码为数字信号",
+    "numberMatched": true
+  },
+  {
+    "title": "3．数字数据调制为模拟信号",
+    "bookmarkPage": 46,
+    "page": 46,
+    "score": 1.32,
+    "text": "3 ． 数字数据调制为模拟信号",
+    "numberMatched": true
+  },
+  {
+    "title": "4．模拟数据直接传输为模拟信号",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "4 ． 模拟数据直接传输为模拟信号",
+    "numberMatched": true
+  },
+  {
+    "title": "2.1.4  本节习题精选",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 1.32,
+    "text": "2，1. 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 47,
+    "page": 47,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.1.5  答案与解析",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 1.32,
+    "text": "2，1. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 50,
+    "page": 50,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 53,
+    "page": 53,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2  传输介质",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "2 · 2 传输介质",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.1  双绞线、同轴电缆、光纤与无线传输介质",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "221 双绞线、同轴电缆、光纤与无线传输介质",
+    "numberMatched": true
+  },
+  {
+    "title": "1．双绞线",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "1. 双绞线",
+    "numberMatched": true
+  },
+  {
+    "title": "2．同轴电缆",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "2 · 同轴电缆",
+    "numberMatched": true
+  },
+  {
+    "title": "3．光纤",
+    "bookmarkPage": 54,
+    "page": 54,
+    "score": 1.32,
+    "text": "3 · 光纤",
+    "numberMatched": true
+  },
+  {
+    "title": "4．无线传输介质",
+    "bookmarkPage": 55,
+    "page": 55,
+    "score": 1.32,
+    "text": "4 ． 无线传输介质",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.2  物理层接口的特性",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.32,
+    "text": "2，2 · 2 物理层接口的特性",
+    "numberMatched": true
+  },
+  {
+    "title": "2.2.3  本节习题精选",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.32,
+    "text": "2，2，3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 56,
+    "page": 56,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.2.4  答案与解析",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.32,
+    "text": "2，2，4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 57,
+    "page": 57,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3  物理层设备",
+    "bookmarkPage": 58,
+    "page": 58,
+    "score": 1.32,
+    "text": "2 · 3 物理层设备",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.1  中继器",
+    "bookmarkPage": 58,
+    "page": 58,
+    "score": 1.32,
+    "text": "2. 3. 1 中继器",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.2  集线器",
+    "bookmarkPage": 58,
+    "page": 58,
+    "score": 1.32,
+    "text": "2，3，2 集线器",
+    "numberMatched": true
+  },
+  {
+    "title": "2.3.3  本节习题精选",
+    "bookmarkPage": 59,
+    "page": 59,
+    "score": 1.32,
+    "text": "2，3，3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 59,
+    "page": 59,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.3.4  答案与解析",
+    "bookmarkPage": 60,
+    "page": 60,
+    "score": 1.32,
+    "text": "2. 3. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 60,
+    "page": 60,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "2.4  本章小结及疑难点",
+    "bookmarkPage": 60,
+    "page": 60,
+    "score": 1.32,
+    "text": "2 · 4 本章小结及疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1  数据链路层的功能",
+    "bookmarkPage": 62,
+    "page": 62,
+    "score": 1.32,
+    "text": "3 · 1 数据链路层的功能",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.1  数据链路层所处的地位",
+    "bookmarkPage": 63,
+    "page": 63,
+    "score": 1.32,
+    "text": "3. 1. 1 数据链路层所处的地位",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.2  链路管理",
+    "bookmarkPage": 63,
+    "page": 63,
+    "score": 1.32,
+    "text": "3. 1. 2 链路管理",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.3  封装成帧与透明传输",
+    "bookmarkPage": 64,
+    "page": 64,
+    "score": 1.32,
+    "text": "3. 1. 3 封装成帧与透明传输",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.4  流量控制",
+    "bookmarkPage": 64,
+    "page": 64,
+    "score": 1.32,
+    "text": "3，1. 4 流量控制",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.5  差错检测与可靠传输",
+    "bookmarkPage": 64,
+    "page": 64,
+    "score": 1.32,
+    "text": "3，1. 5 差错检测与可靠传输",
+    "numberMatched": true
+  },
+  {
+    "title": "3.1.6  本节习题精选",
+    "bookmarkPage": 64,
+    "page": 64,
+    "score": 1.32,
+    "text": "3，1. 6 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 64,
+    "page": 64,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.1.7  答案与解析",
+    "bookmarkPage": 65,
+    "page": 65,
+    "score": 1.32,
+    "text": "3，1. 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 65,
+    "page": 65,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2  组帧",
+    "bookmarkPage": 66,
+    "page": 66,
+    "score": 1.32,
+    "text": "3 · 2 组帧",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.1  字符计数法",
+    "bookmarkPage": 66,
+    "page": 66,
+    "score": 1.32,
+    "text": "3. 2. 1 字符计数法",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.2  字节填充法",
+    "bookmarkPage": 66,
+    "page": 66,
+    "score": 1.32,
+    "text": "3，2 · 2 字节填充法",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.3  零比特填充法",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 1.32,
+    "text": "3. 2. 3 零比特填充法",
+    "numberMatched": true
+  },
+  {
+    "title": "3.2.5  本节习题精选",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 1.32,
+    "text": "3. 2 · 5 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.2.6  答案与解析",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 1.32,
+    "text": "3. 2. 6 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 67,
+    "page": 67,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 68,
+    "page": 68,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.3  差错控制",
+    "bookmarkPage": 68,
+    "page": 68,
+    "score": 1.32,
+    "text": "3 · 3 差错控制",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.1  检错编码",
+    "bookmarkPage": 69,
+    "page": 69,
+    "score": 1.32,
+    "text": "3. 3. 1 检错编码",
+    "numberMatched": true
+  },
+  {
+    "title": "1．奇偶检验码",
+    "bookmarkPage": 69,
+    "page": 69,
+    "score": 1.32,
+    "text": "1. 奇偶检验码",
+    "numberMatched": true
+  },
+  {
+    "title": "2．循环冗余码",
+    "bookmarkPage": 69,
+    "page": 69,
+    "score": 1.32,
+    "text": "2 ． 循环冗余码",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.2  纠错编码",
+    "bookmarkPage": 70,
+    "page": 70,
+    "score": 1.32,
+    "text": "3，3，2 纠错编码",
+    "numberMatched": true
+  },
+  {
+    "title": "3.3.3  本节习题精选",
+    "bookmarkPage": 71,
+    "page": 71,
+    "score": 1.32,
+    "text": "3 · 3，3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 71,
+    "page": 71,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 72,
+    "page": 72,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.3.4  答案与解析",
+    "bookmarkPage": 72,
+    "page": 72,
+    "score": 1.32,
+    "text": "3. 3，4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 72,
+    "page": 72,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 73,
+    "page": 73,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.4  流量控制与可靠传输机制",
+    "bookmarkPage": 73,
+    "page": 73,
+    "score": 1.32,
+    "text": "3 · 4 流量控制与可靠传输机制",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.1  流量控制与滑动窗口机制",
+    "bookmarkPage": 73,
+    "page": 73,
+    "score": 1.32,
+    "text": "341 流量控制与滑动窗口机制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．停止-等待流量控制基本原理",
+    "bookmarkPage": 74,
+    "page": 74,
+    "score": 1.28,
+    "text": "1. 停止一等待流量控制基本原理",
+    "numberMatched": true
+  },
+  {
+    "title": "2．滑动窗口流量控制基本原理",
+    "bookmarkPage": 74,
+    "page": 74,
+    "score": 1.32,
+    "text": "2 ． 滑动窗口流量控制基本原理",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.2  可靠传输机制",
+    "bookmarkPage": 75,
+    "page": 75,
+    "score": 1.32,
+    "text": "342 可靠传输机制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．单帧滑动窗口与停止-等待协议（S-W）",
+    "bookmarkPage": 76,
+    "page": 76,
+    "score": 1.223,
+    "text": "1. 单幀滑动窗口与停止一等待协议 (S-W)",
+    "numberMatched": true
+  },
+  {
+    "title": "2．多帧滑动窗口与后退N帧协议（GBN）",
+    "bookmarkPage": 76,
+    "page": 76,
+    "score": 1.258,
+    "text": "2 ． 多幀滑动窗口与后退 N 帧协议（GBN）",
+    "numberMatched": true
+  },
+  {
+    "title": "3．多帧滑动窗口与选择重传协议（SR）",
+    "bookmarkPage": 77,
+    "page": 77,
+    "score": 1.32,
+    "text": "3 ． 多帧滑动窗口与选择重传协议 (SR)",
+    "numberMatched": true
+  },
+  {
+    "title": "4．信道利用率的分析",
+    "bookmarkPage": 78,
+    "page": 78,
+    "score": 1.32,
+    "text": "4 ． 信道利用率的分析",
+    "numberMatched": true
+  },
+  {
+    "title": "3.4.3  本节习题精选",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 1.32,
+    "text": "3，4，3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 79,
+    "page": 79,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 82,
+    "page": 82,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.4.4  答案与解析",
+    "bookmarkPage": 84,
+    "page": 84,
+    "score": 1.32,
+    "text": "3，4，4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 84,
+    "page": 84,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 87,
+    "page": 87,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.5  介质访问控制",
+    "bookmarkPage": 89,
+    "page": 89,
+    "score": 1.32,
+    "text": "3，5 介质访问控制",
+    "numberMatched": true
+  },
+  {
+    "title": "3.5.1  信道划分介质访问控制",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 1.32,
+    "text": "3. 5. 1 信道划分介质访问控制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．时分复用（TDM）",
+    "bookmarkPage": 90,
+    "page": 90,
+    "score": 1.32,
+    "text": "1. 时分复用 (TDM)",
+    "numberMatched": true
+  },
+  {
+    "title": "2．频分复用（FDM）",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 1.32,
+    "text": "2 ． 频分复用 (FDM)",
+    "numberMatched": true
+  },
+  {
+    "title": "3．波分复用（WDM）",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 1.32,
+    "text": "3 ． 波分复用 (WDM)",
+    "numberMatched": true
+  },
+  {
+    "title": "4．码分复用（CDM）",
+    "bookmarkPage": 91,
+    "page": 91,
+    "score": 1.32,
+    "text": "4 ． 码分复用（CDM）",
+    "numberMatched": true
+  },
+  {
+    "title": "3.5.2  随机访问介质访问控制",
+    "bookmarkPage": 92,
+    "page": 92,
+    "score": 1.32,
+    "text": "3，5，2 随机访问介质访问控制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．ALOHA协议",
+    "bookmarkPage": 93,
+    "page": 93,
+    "score": 1.32,
+    "text": "1. ALOHA 协议",
+    "numberMatched": true
+  },
+  {
+    "title": "2．CSMA协议",
+    "bookmarkPage": 94,
+    "page": 94,
+    "score": 1.32,
+    "text": "2 · CSMA 协议",
+    "numberMatched": true
+  },
+  {
+    "title": "3.5.3  轮询访问：令牌传递协议",
+    "bookmarkPage": 94,
+    "page": 94,
+    "score": 1.32,
+    "text": "3，5 · 3 轮询访问：令牌传递协议",
+    "numberMatched": true
+  },
+  {
+    "title": "3.5.4  本节习题精选",
+    "bookmarkPage": 95,
+    "page": 95,
+    "score": 1.32,
+    "text": "3. 5 · 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 95,
+    "page": 95,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.5.5  答案与解析",
+    "bookmarkPage": 97,
+    "page": 97,
+    "score": 1.32,
+    "text": "3 · 5 · 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 97,
+    "page": 97,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.6  局域网",
+    "bookmarkPage": 99,
+    "page": 99,
+    "score": 1.32,
+    "text": "3 · 6 局域网",
+    "numberMatched": true
+  },
+  {
+    "title": "3.6.1  局域网的基本概念和体系结构",
+    "bookmarkPage": 99,
+    "page": 99,
+    "score": 1.32,
+    "text": "3，6. 1 局域网的基本概念和体系结构",
+    "numberMatched": true
+  },
+  {
+    "title": "3.6.2  以太网与IEEE 802.3",
+    "bookmarkPage": 100,
+    "page": 100,
+    "score": 1.32,
+    "text": "3. 6. 2 以太网与 IEEE 802，3",
+    "numberMatched": true
+  },
+  {
+    "title": "1．以太网的传输介质与网卡",
+    "bookmarkPage": 100,
+    "page": 100,
+    "score": 1.229,
+    "text": "1. 以太网的传输介质与网卞",
+    "numberMatched": true
+  },
+  {
+    "title": "2．以太网MAC地址",
+    "bookmarkPage": 101,
+    "page": 101,
+    "score": 1.32,
+    "text": "2 ． 以太网 MAC 地址",
+    "numberMatched": true
+  },
+  {
+    "title": "3．CSMA/CD协议",
+    "bookmarkPage": 101,
+    "page": 101,
+    "score": 1.32,
+    "text": "3 · CSMA/CD 协议",
+    "numberMatched": true
+  },
+  {
+    "title": "4．以太网的MAC帧",
+    "bookmarkPage": 103,
+    "page": 103,
+    "score": 1.32,
+    "text": "4 ． 以太网的 MAC 帧",
+    "numberMatched": true
+  },
+  {
+    "title": "5．高速以太网",
+    "bookmarkPage": 104,
+    "page": 104,
+    "score": 1.32,
+    "text": "5 · 高速以太网",
+    "numberMatched": true
+  },
+  {
+    "title": "3.6.3  IEEE 802.11无线局域网",
+    "bookmarkPage": 105,
+    "page": 105,
+    "score": 1.32,
+    "text": "3. 6. 3 IEEE 802，11 无线局域网",
+    "numberMatched": true
+  },
+  {
+    "title": "1．无线局域网的组成",
+    "bookmarkPage": 105,
+    "page": 105,
+    "score": 1.32,
+    "text": "1. 无线局域网的组成",
+    "numberMatched": true
+  },
+  {
+    "title": "2．CSMA/CA协议",
+    "bookmarkPage": 106,
+    "page": 106,
+    "score": 1.253,
+    "text": "2，CSMA ℃ A 协议",
+    "numberMatched": true
+  },
+  {
+    "title": "3．802.11局域网的MAC帧",
+    "bookmarkPage": 109,
+    "page": 109,
+    "score": 1.32,
+    "text": "3. 802，11 局域网的 MAC 帧",
+    "numberMatched": true
+  },
+  {
+    "title": "3.6.4  VLAN基本概念与基本原理",
+    "bookmarkPage": 111,
+    "page": 111,
+    "score": 0.929,
+    "text": "3 五 4 VLAN 基本概念与基本原理",
+    "numberMatched": false
+  },
+  {
+    "title": "3.6.5  本节习题精选",
+    "bookmarkPage": 112,
+    "page": 127,
+    "score": 0.94,
+    "text": "3，7，3 本节习题精选",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 112,
+    "page": 127,
+    "score": 0.849,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 117,
+    "page": 117,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.6.6  答案与解析",
+    "bookmarkPage": 118,
+    "page": 128,
+    "score": 0.96,
+    "text": "3 · 7 · 4 答案与解析",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 118,
+    "page": 118,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 123,
+    "page": 123,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.7  广域网",
+    "bookmarkPage": 125,
+    "page": 125,
+    "score": 1.32,
+    "text": "3. 7 广域网",
+    "numberMatched": true
+  },
+  {
+    "title": "3.7.1  广域网的基本概念",
+    "bookmarkPage": 125,
+    "page": 125,
+    "score": 1.32,
+    "text": "3，7，1 广域网的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "3.7.2  点对点协议",
+    "bookmarkPage": 126,
+    "page": 126,
+    "score": 1.32,
+    "text": "3，7 · 2 点对点协议",
+    "numberMatched": true
+  },
+  {
+    "title": "3.7.3  本节习题精选",
+    "bookmarkPage": 127,
+    "page": 127,
+    "score": 1.32,
+    "text": "3，7，3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 127,
+    "page": 127,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.7.4  答案与解析",
+    "bookmarkPage": 128,
+    "page": 128,
+    "score": 1.32,
+    "text": "3 · 7 · 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 128,
+    "page": 128,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.8  数据链路层设备",
+    "bookmarkPage": 129,
+    "page": 129,
+    "score": 1.32,
+    "text": "3 · 8 数据链路层设备",
+    "numberMatched": true
+  },
+  {
+    "title": "*3.8.1  网桥的基本概念",
+    "bookmarkPage": 129,
+    "page": 129,
+    "score": 0.933,
+    "text": "* 3 · & 1 网桥的基本概念",
+    "numberMatched": false
+  },
+  {
+    "title": "3.8.2  以太网交换机",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 1.32,
+    "text": "3 · 8 · 2 以太网交换机",
+    "numberMatched": true
+  },
+  {
+    "title": "1．交换机的原理和特点",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 1.32,
+    "text": "1. 交换机的原理和特点",
+    "numberMatched": true
+  },
+  {
+    "title": "2．交换机的自学习功能",
+    "bookmarkPage": 130,
+    "page": 130,
+    "score": 1.32,
+    "text": "2，交换机的自学习功能",
+    "numberMatched": true
+  },
+  {
+    "title": "3.8.3  共享式以太网",
+    "bookmarkPage": 132,
+    "page": 132,
+    "score": 1.0,
+    "text": "共享式以太网",
+    "numberMatched": false
+  },
+  {
+    "title": "3.8.4  本节习题精选",
+    "bookmarkPage": 132,
+    "page": 132,
+    "score": 1.32,
+    "text": "3，8 · 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 132,
+    "page": 132,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.8.5  答案与解析",
+    "bookmarkPage": 135,
+    "page": 135,
+    "score": 1.32,
+    "text": "3. 8. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 135,
+    "page": 135,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "3.9  本章小结及疑难点",
+    "bookmarkPage": 138,
+    "page": 138,
+    "score": 1.32,
+    "text": "3 · 9 本章小结及疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1  网络层的功能",
+    "bookmarkPage": 139,
+    "page": 139,
+    "score": 1.32,
+    "text": "4 · 1 网络层的功能",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.1  异构网络互连",
+    "bookmarkPage": 140,
+    "page": 140,
+    "score": 1.32,
+    "text": "4. 1. 1 异构网络互连",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.2  路由与转发",
+    "bookmarkPage": 140,
+    "page": 140,
+    "score": 1.32,
+    "text": "4. 1. 2 路由与转发",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.3  网络层提供的两种服务",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 1.32,
+    "text": "4. 1. 3 网络层提供的两种服务",
+    "numberMatched": true
+  },
+  {
+    "title": "1．虚电路",
+    "bookmarkPage": 141,
+    "page": 141,
+    "score": 1.32,
+    "text": "1. 虚电路",
+    "numberMatched": true
+  },
+  {
+    "title": "2．数据报",
+    "bookmarkPage": 142,
+    "page": 142,
+    "score": 1.32,
+    "text": "2 ． 数据报",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.4  SDN的基本概念",
+    "bookmarkPage": 143,
+    "page": 143,
+    "score": 1.32,
+    "text": "4，1. 4 SDN 的基本概念",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.5  拥塞控制",
+    "bookmarkPage": 144,
+    "page": 144,
+    "score": 1.32,
+    "text": "4. 1. 5 拥塞控制",
+    "numberMatched": true
+  },
+  {
+    "title": "4.1.6  本节习题精选",
+    "bookmarkPage": 144,
+    "page": 144,
+    "score": 1.32,
+    "text": "4. 1. 6 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 144,
+    "page": 144,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.1.7  答案与解析",
+    "bookmarkPage": 147,
+    "page": 147,
+    "score": 1.32,
+    "text": "4. 1. 7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 147,
+    "page": 147,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.2  IPv4",
+    "bookmarkPage": 149,
+    "page": 149,
+    "score": 1.32,
+    "text": "4 · 2 IPv4",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.1  IPv4分组",
+    "bookmarkPage": 149,
+    "page": 149,
+    "score": 1.32,
+    "text": "4. 2. 1 IPv4 分组",
+    "numberMatched": true
+  },
+  {
+    "title": "1．IPv4分组的格式",
+    "bookmarkPage": 149,
+    "page": 149,
+    "score": 1.32,
+    "text": "1 ． IPv4 分组的格式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．IP数据报分片",
+    "bookmarkPage": 150,
+    "page": 150,
+    "score": 1.32,
+    "text": "2 · IP 数据报分片",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.2  IPv4地址",
+    "bookmarkPage": 151,
+    "page": 151,
+    "score": 1.32,
+    "text": "4. 2 · 2 IPv4 地址",
+    "numberMatched": true
+  },
+  {
+    "title": "1．IPv4地址",
+    "bookmarkPage": 151,
+    "page": 151,
+    "score": 1.0,
+    "text": "4. 2 · 2 IPv4 地址",
+    "numberMatched": false
+  },
+  {
+    "title": "2．分类的IP地址",
+    "bookmarkPage": 151,
+    "page": 151,
+    "score": 1.32,
+    "text": "2 ． 分类的 IP 地址",
+    "numberMatched": true
+  },
+  {
+    "title": "3．划分子网",
+    "bookmarkPage": 153,
+    "page": 153,
+    "score": 1.32,
+    "text": "3 ． 划分子网",
+    "numberMatched": true
+  },
+  {
+    "title": "4．无分类编址CIDR",
+    "bookmarkPage": 154,
+    "page": 154,
+    "score": 1.32,
+    "text": "4，无分类编址 CIDR",
+    "numberMatched": true
+  },
+  {
+    "title": "5．路由聚合",
+    "bookmarkPage": 155,
+    "page": 155,
+    "score": 1.32,
+    "text": "5 ． 路由聚合",
+    "numberMatched": true
+  },
+  {
+    "title": "6．子网划分的应用举例",
+    "bookmarkPage": 155,
+    "page": 155,
+    "score": 1.32,
+    "text": "6，子网划分的应用举例",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.3  网络地址转换NAT",
+    "bookmarkPage": 156,
+    "page": 156,
+    "score": 1.32,
+    "text": "423 网络地址转换 NAT",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.4  网络层转发分组的过程",
+    "bookmarkPage": 158,
+    "page": 158,
+    "score": 1.32,
+    "text": "424 网络层转发分组的过程",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.5  地址解析协议（ARP）",
+    "bookmarkPage": 159,
+    "page": 159,
+    "score": 1.32,
+    "text": "4，2，5 地址解析协议（ARP）",
+    "numberMatched": true
+  },
+  {
+    "title": "1．IP地址与硬件地址",
+    "bookmarkPage": 159,
+    "page": 159,
+    "score": 0.947,
+    "text": "I. IP 地址与硬件地址",
+    "numberMatched": false
+  },
+  {
+    "title": "2．地址解析协议",
+    "bookmarkPage": 159,
+    "page": 159,
+    "score": 1.32,
+    "text": "2 ． 地址解析协议",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.6  动态主机配置协议DHCP",
+    "bookmarkPage": 161,
+    "page": 161,
+    "score": 1.32,
+    "text": "4. 2. 6 动态主机配置协议 DHCP",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.7  网际控制报文协议ICMP",
+    "bookmarkPage": 162,
+    "page": 162,
+    "score": 1.32,
+    "text": "4. 2. 7 网际控制报文协议 ICMP",
+    "numberMatched": true
+  },
+  {
+    "title": "4.2.8  本节习题精选",
+    "bookmarkPage": 163,
+    "page": 163,
+    "score": 1.32,
+    "text": "4，2，8 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 163,
+    "page": 163,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 171,
+    "page": 171,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 177,
+    "page": 177,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 186,
+    "page": 186,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.3  IPv6",
+    "bookmarkPage": 193,
+    "page": 193,
+    "score": 1.32,
+    "text": "4 · 3 IPv6",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.1  IPv6的特点",
+    "bookmarkPage": 193,
+    "page": 193,
+    "score": 1.32,
+    "text": "4. 3. 1 IPv6 的特点",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.2  IPv6数据报的基本首部",
+    "bookmarkPage": 194,
+    "page": 194,
+    "score": 1.138,
+    "text": "4. 3. 2 1 6 数据报的基本首部",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.3  IPv6地址",
+    "bookmarkPage": 195,
+    "page": 195,
+    "score": 1.32,
+    "text": "4 · 3 · 3 IPv6 地址",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.4  从IPv4向IPv6过渡",
+    "bookmarkPage": 196,
+    "page": 196,
+    "score": 1.153,
+    "text": "4. 3 · 4 从 1Pv4 向 1Pv6 过渡",
+    "numberMatched": true
+  },
+  {
+    "title": "4.3.5  本节习题精选",
+    "bookmarkPage": 196,
+    "page": 196,
+    "score": 1.32,
+    "text": "4，3，5 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 196,
+    "page": 196,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.3.6  答案与解析",
+    "bookmarkPage": 197,
+    "page": 197,
+    "score": 1.305,
+    "text": "4，3. 6答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 197,
+    "page": 197,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.4  路由算法与路由协议",
+    "bookmarkPage": 198,
+    "page": 198,
+    "score": 1.32,
+    "text": "4 · 4 路由算法与路由协议",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.1  路由算法",
+    "bookmarkPage": 198,
+    "page": 198,
+    "score": 1.32,
+    "text": "4 · 4. 1 路由算法",
+    "numberMatched": true
+  },
+  {
+    "title": "1．静态路由与动态路由",
+    "bookmarkPage": 198,
+    "page": 198,
+    "score": 1.32,
+    "text": "1. 静态路由与动态路由",
+    "numberMatched": true
+  },
+  {
+    "title": "2．距离-向量算法",
+    "bookmarkPage": 198,
+    "page": 198,
+    "score": 1.243,
+    "text": "2，距离一向量算法",
+    "numberMatched": true
+  },
+  {
+    "title": "3．链路状态算法",
+    "bookmarkPage": 199,
+    "page": 199,
+    "score": 1.32,
+    "text": "3，链路状态算法",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.2  分层次的路由选择协议",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.32,
+    "text": "4. 4. 2 分层次的路由选择协议",
+    "numberMatched": true
+  },
+  {
+    "title": "1．内部网关协议（Interior Gateway Protocol，IGP）",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.226,
+    "text": "1. 内部网关协议（lnterior Gateway Pr0tocoI，IGP)",
+    "numberMatched": true
+  },
+  {
+    "title": "2．外部网关协议（External Gateway Protocol，EGP）",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.258,
+    "text": "2，外部网关协议（External Gateway Pr0tocoI，EGP)",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.3  路由信息协议",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.32,
+    "text": "443 路由信息协议",
+    "numberMatched": true
+  },
+  {
+    "title": "1．RIP的规定",
+    "bookmarkPage": 200,
+    "page": 200,
+    "score": 1.305,
+    "text": "1RIP 的规定",
+    "numberMatched": true
+  },
+  {
+    "title": "2．RIP的特点",
+    "bookmarkPage": 201,
+    "page": 201,
+    "score": 1.32,
+    "text": "2 ． RIP 的特点",
+    "numberMatched": true
+  },
+  {
+    "title": "3．RIP的基本工作原理",
+    "bookmarkPage": 201,
+    "page": 201,
+    "score": 1.32,
+    "text": "3 ． RIP 的基本工作原理",
+    "numberMatched": true
+  },
+  {
+    "title": "4．RIP的优缺点",
+    "bookmarkPage": 202,
+    "page": 202,
+    "score": 1.32,
+    "text": "4 ． RIP 的优缺点",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.4  开放最短路径优先协议",
+    "bookmarkPage": 203,
+    "page": 203,
+    "score": 1.32,
+    "text": "444 开放最短路径优先协议",
+    "numberMatched": true
+  },
+  {
+    "title": "1．开放最短路径优先（OSPF）的基本特点",
+    "bookmarkPage": 203,
+    "page": 203,
+    "score": 1.32,
+    "text": "1. 开放最短路径优先（OSPF）的基本特点",
+    "numberMatched": true
+  },
+  {
+    "title": "2．OSPF的五种分组类型",
+    "bookmarkPage": 204,
+    "page": 204,
+    "score": 1.229,
+    "text": "2，OSPF 的五种分纽类型",
+    "numberMatched": true
+  },
+  {
+    "title": "3．OSPF的基本工作原理",
+    "bookmarkPage": 204,
+    "page": 204,
+    "score": 1.32,
+    "text": "3 · OSPF 的基本工作原理",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.5  边界网关协议",
+    "bookmarkPage": 205,
+    "page": 205,
+    "score": 1.32,
+    "text": "4，4，5 边界网关协议",
+    "numberMatched": true
+  },
+  {
+    "title": "1．BGP的基本特点",
+    "bookmarkPage": 205,
+    "page": 205,
+    "score": 1.32,
+    "text": "1 ． BGP 的基本特点",
+    "numberMatched": true
+  },
+  {
+    "title": "2．BGP路由",
+    "bookmarkPage": 205,
+    "page": 205,
+    "score": 1.32,
+    "text": "2 ． BGP 路由",
+    "numberMatched": true
+  },
+  {
+    "title": "3．BGP路由选择",
+    "bookmarkPage": 206,
+    "page": 206,
+    "score": 1.32,
+    "text": "3 ． BGP 路由选择",
+    "numberMatched": true
+  },
+  {
+    "title": "4．BGP的四种报文",
+    "bookmarkPage": 208,
+    "page": 208,
+    "score": 1.32,
+    "text": "4，BGP 的四种报文",
+    "numberMatched": true
+  },
+  {
+    "title": "4.4.6  本节习题精选",
+    "bookmarkPage": 208,
+    "page": 208,
+    "score": 1.32,
+    "text": "446 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 208,
+    "page": 208,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 212,
+    "page": 212,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.4.7  答案与解析",
+    "bookmarkPage": 215,
+    "page": 215,
+    "score": 1.32,
+    "text": "4，4，7 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 215,
+    "page": 215,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 218,
+    "page": 218,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.5  IP多播",
+    "bookmarkPage": 220,
+    "page": 220,
+    "score": 1.32,
+    "text": "4 · 5 IP 多播",
+    "numberMatched": true
+  },
+  {
+    "title": "4.5.1  多播的概念",
+    "bookmarkPage": 220,
+    "page": 220,
+    "score": 1.32,
+    "text": "4. 5. 1 多播的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "4.5.2  IP多播地址",
+    "bookmarkPage": 221,
+    "page": 221,
+    "score": 1.32,
+    "text": "4. 5. 2 IP 多播地址",
+    "numberMatched": true
+  },
+  {
+    "title": "4.5.3  在局域网上进行硬件多播",
+    "bookmarkPage": 221,
+    "page": 221,
+    "score": 1.32,
+    "text": "4，5. 3 在局域网上进行硬件多播",
+    "numberMatched": true
+  },
+  {
+    "title": "4.5.4  IGMP与多播路由协议",
+    "bookmarkPage": 222,
+    "page": 222,
+    "score": 1.32,
+    "text": "4，5，4 IGMP 与多播路由协议",
+    "numberMatched": true
+  },
+  {
+    "title": "4.5.5  本节习题精选",
+    "bookmarkPage": 222,
+    "page": 222,
+    "score": 1.32,
+    "text": "4，5 · 5 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 222,
+    "page": 222,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 223,
+    "page": 223,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.5.6  答案与解析",
+    "bookmarkPage": 223,
+    "page": 223,
+    "score": 1.32,
+    "text": "4. 5. 6 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 223,
+    "page": 223,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 223,
+    "page": 223,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.6  移动IP",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "4 · 6 移动 IP",
+    "numberMatched": true
+  },
+  {
+    "title": "4.6.1  移动IP的概念",
+    "bookmarkPage": 224,
+    "page": 224,
+    "score": 1.32,
+    "text": "4. 6. 1 移动 IP 的概念",
+    "numberMatched": true
+  },
+  {
+    "title": "4.6.3  本节习题精选",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.32,
+    "text": "4. 6. 3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.6.4  答案与解析",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.305,
+    "text": "4. 6，4答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 225,
+    "page": 225,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.7  网络层设备",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "4 · 7 网络层设备",
+    "numberMatched": true
+  },
+  {
+    "title": "4.7.1  冲突域和广播域",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "4，7，1 冲突域和广播域",
+    "numberMatched": true
+  },
+  {
+    "title": "1．冲突域",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "1. 冲突域",
+    "numberMatched": true
+  },
+  {
+    "title": "2．广播域",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "2 · 广播域",
+    "numberMatched": true
+  },
+  {
+    "title": "4.7.2  路由器的组成和功能",
+    "bookmarkPage": 226,
+    "page": 226,
+    "score": 1.32,
+    "text": "4，7 · 2 路由器的组成和功能",
+    "numberMatched": true
+  },
+  {
+    "title": "4.7.3  路由表与分组转发",
+    "bookmarkPage": 227,
+    "page": 227,
+    "score": 1.32,
+    "text": "4，7. 3 路由表与分组转发",
+    "numberMatched": true
+  },
+  {
+    "title": "4.7.4  本节习题精选",
+    "bookmarkPage": 228,
+    "page": 228,
+    "score": 1.32,
+    "text": "4 · 7 · 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 228,
+    "page": 228,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 230,
+    "page": 230,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.7.5  答案与解析",
+    "bookmarkPage": 231,
+    "page": 231,
+    "score": 1.32,
+    "text": "4 · 7. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 231,
+    "page": 231,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 233,
+    "page": 233,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "4.8  本章小结及疑难点",
+    "bookmarkPage": 235,
+    "page": 235,
+    "score": 1.305,
+    "text": "4 · 8本章小结及疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1  传输层提供的服务",
+    "bookmarkPage": 236,
+    "page": 236,
+    "score": 1.32,
+    "text": "5 · 1 传输层提供的服务",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.1  传输层的功能",
+    "bookmarkPage": 236,
+    "page": 236,
+    "score": 1.32,
+    "text": "5，1. 1 传输层的功能",
+    "numberMatched": true
+  },
+  {
+    "title": "1．应用进程之间的逻辑通信",
+    "bookmarkPage": 236,
+    "page": 236,
+    "score": 1.32,
+    "text": "1. 应用进程之间的逻辑通信",
+    "numberMatched": true
+  },
+  {
+    "title": "2．复用和分用",
+    "bookmarkPage": 237,
+    "page": 237,
+    "score": 1.32,
+    "text": "2 ． 复用和分用",
+    "numberMatched": true
+  },
+  {
+    "title": "3．差错检测",
+    "bookmarkPage": 237,
+    "page": 237,
+    "score": 1.32,
+    "text": "3 ． 差错检测",
+    "numberMatched": true
+  },
+  {
+    "title": "4．提供面向连接和无连接的传输服务",
+    "bookmarkPage": 237,
+    "page": 237,
+    "score": 1.32,
+    "text": "4 ． 提供面向连接和无连接的传输服务",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.2  传输层的寻址与端口",
+    "bookmarkPage": 237,
+    "page": 237,
+    "score": 1.32,
+    "text": "5 · 1. 2 传输层的寻址与端口",
+    "numberMatched": true
+  },
+  {
+    "title": "1．端口的作用",
+    "bookmarkPage": 237,
+    "page": 237,
+    "score": 1.32,
+    "text": "1. 端口的作用",
+    "numberMatched": true
+  },
+  {
+    "title": "2．端口号",
+    "bookmarkPage": 238,
+    "page": 238,
+    "score": 1.32,
+    "text": "2 ． 端口号",
+    "numberMatched": true
+  },
+  {
+    "title": "3．套接字",
+    "bookmarkPage": 238,
+    "page": 238,
+    "score": 1.32,
+    "text": "3 · 套接字",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.3  无连接服务与面向连接服务",
+    "bookmarkPage": 238,
+    "page": 238,
+    "score": 1.32,
+    "text": "5，1. 3 无连接服务与面向连接服务",
+    "numberMatched": true
+  },
+  {
+    "title": "5.1.4  本节习题精选",
+    "bookmarkPage": 239,
+    "page": 239,
+    "score": 1.32,
+    "text": "5 · 1. 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 239,
+    "page": 239,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.1.5  答案与解析",
+    "bookmarkPage": 240,
+    "page": 240,
+    "score": 1.32,
+    "text": "5. 1. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 240,
+    "page": 240,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2  UDP",
+    "bookmarkPage": 241,
+    "page": 241,
+    "score": 1.32,
+    "text": "5 · 2 UDP",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.1  UDP数据报",
+    "bookmarkPage": 241,
+    "page": 241,
+    "score": 1.32,
+    "text": "5. 2. 1 UDP 数据报",
+    "numberMatched": true
+  },
+  {
+    "title": "1．UDP概述",
+    "bookmarkPage": 241,
+    "page": 241,
+    "score": 1.32,
+    "text": "1. UDP 概述",
+    "numberMatched": true
+  },
+  {
+    "title": "2．UDP的首部格式",
+    "bookmarkPage": 241,
+    "page": 241,
+    "score": 1.32,
+    "text": "2，UDP 的首部格式",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.2  UDP检验",
+    "bookmarkPage": 242,
+    "page": 242,
+    "score": 1.32,
+    "text": "5，2，2 UD P 检验",
+    "numberMatched": true
+  },
+  {
+    "title": "5.2.3  本节习题精选",
+    "bookmarkPage": 243,
+    "page": 243,
+    "score": 1.32,
+    "text": "5. 2. 3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 243,
+    "page": 243,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 245,
+    "page": 245,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.2.4  答案与解析",
+    "bookmarkPage": 245,
+    "page": 245,
+    "score": 1.32,
+    "text": "5 · 2，4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 245,
+    "page": 245,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 247,
+    "page": 247,
+    "score": 0.909,
+    "text": "、综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3  TCP",
+    "bookmarkPage": 248,
+    "page": 248,
+    "score": 1.32,
+    "text": "5 · 3 TCP",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.1  TCP的特点",
+    "bookmarkPage": 248,
+    "page": 248,
+    "score": 1.32,
+    "text": "5，3 · 1 T CP 的特点",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.2  TCP报文段",
+    "bookmarkPage": 248,
+    "page": 248,
+    "score": 1.32,
+    "text": "5，3 · 2 TCP 报文段",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.3  TCP连接管理",
+    "bookmarkPage": 250,
+    "page": 250,
+    "score": 1.32,
+    "text": "5，3，3 T CP 连接管理",
+    "numberMatched": true
+  },
+  {
+    "title": "1．TCP连接的建立",
+    "bookmarkPage": 250,
+    "page": 250,
+    "score": 1.32,
+    "text": "1. TCP 连接的建立",
+    "numberMatched": true
+  },
+  {
+    "title": "2．TCP连接的释放",
+    "bookmarkPage": 251,
+    "page": 251,
+    "score": 1.32,
+    "text": "2 ． TCP 连接的释放",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.4  TCP可靠传输",
+    "bookmarkPage": 252,
+    "page": 252,
+    "score": 1.32,
+    "text": "53 · 4 TCP 可靠传输",
+    "numberMatched": true
+  },
+  {
+    "title": "1．序号",
+    "bookmarkPage": 252,
+    "page": 252,
+    "score": 1.32,
+    "text": "1. 序号",
+    "numberMatched": true
+  },
+  {
+    "title": "2．确认",
+    "bookmarkPage": 253,
+    "page": 253,
+    "score": 1.32,
+    "text": "2，确认",
+    "numberMatched": true
+  },
+  {
+    "title": "3．重传",
+    "bookmarkPage": 253,
+    "page": 253,
+    "score": 1.32,
+    "text": "3 ． 重传",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.5  TCP流量控制",
+    "bookmarkPage": 254,
+    "page": 254,
+    "score": 1.32,
+    "text": "5，3 · 5 T CP 流量控制",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.6  TCP拥塞控制",
+    "bookmarkPage": 255,
+    "page": 255,
+    "score": 1.32,
+    "text": "5. 3. 6 TCP 拥塞控制",
+    "numberMatched": true
+  },
+  {
+    "title": "1．慢开始和拥塞避免",
+    "bookmarkPage": 255,
+    "page": 255,
+    "score": 1.32,
+    "text": "1. 慢开始和拥塞避免",
+    "numberMatched": true
+  },
+  {
+    "title": "2．快重传和快恢复",
+    "bookmarkPage": 257,
+    "page": 257,
+    "score": 1.32,
+    "text": "2 ． 快重传和快恢复",
+    "numberMatched": true
+  },
+  {
+    "title": "5.3.7  本节习题精选",
+    "bookmarkPage": 258,
+    "page": 258,
+    "score": 1.32,
+    "text": "5，3，7 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 258,
+    "page": 258,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 265,
+    "page": 265,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.3.8  答案与解析",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 1.32,
+    "text": "5. 3. 8 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 268,
+    "page": 268,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 274,
+    "page": 274,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "5.4  本章小结及疑难点",
+    "bookmarkPage": 277,
+    "page": 277,
+    "score": 1.32,
+    "text": "5 · 4 本章小结及疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1  网络应用模型",
+    "bookmarkPage": 279,
+    "page": 279,
+    "score": 1.32,
+    "text": "6 · 1 网络应用模型",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1.1  客户/服务器模型",
+    "bookmarkPage": 279,
+    "page": 279,
+    "score": 1.32,
+    "text": "6. 1. 1 客户 / 服务器模型",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1.2  P2P模型",
+    "bookmarkPage": 280,
+    "page": 280,
+    "score": 1.32,
+    "text": "6，1. 2 P2P 模型",
+    "numberMatched": true
+  },
+  {
+    "title": "6.1.3  本节习题精选",
+    "bookmarkPage": 280,
+    "page": 280,
+    "score": 1.32,
+    "text": "6，1. 3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 280,
+    "page": 280,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.1.4  答案与解析",
+    "bookmarkPage": 281,
+    "page": 281,
+    "score": 1.32,
+    "text": "6，1. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "单项选择题",
+    "bookmarkPage": 281,
+    "page": 281,
+    "score": 1.0,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.2  域名系统",
+    "bookmarkPage": 282,
+    "page": 282,
+    "score": 1.32,
+    "text": "6 · 2 域名系统",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.1  层次域名空间",
+    "bookmarkPage": 282,
+    "page": 282,
+    "score": 1.32,
+    "text": "6，2，1 层次域名空间",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.2  域名服务器",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 1.32,
+    "text": "6. 2. 2 域名服务器",
+    "numberMatched": true
+  },
+  {
+    "title": "1．根域名服务器",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 1.32,
+    "text": "1. 根域名服务器",
+    "numberMatched": true
+  },
+  {
+    "title": "2．顶级域名服务器",
+    "bookmarkPage": 283,
+    "page": 283,
+    "score": 1.32,
+    "text": "2 · 顶级域名服务器",
+    "numberMatched": true
+  },
+  {
+    "title": "3．权限域名服务器（授权域名服务器）",
+    "bookmarkPage": 284,
+    "page": 284,
+    "score": 1.32,
+    "text": "3 ． 权限域名服务器（授权域名服务器）",
+    "numberMatched": true
+  },
+  {
+    "title": "4．本地域名服务器",
+    "bookmarkPage": 284,
+    "page": 284,
+    "score": 1.32,
+    "text": "4 ． 本地域名服务器",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.3  域名解析过程",
+    "bookmarkPage": 284,
+    "page": 284,
+    "score": 1.32,
+    "text": "623 域名解析过程",
+    "numberMatched": true
+  },
+  {
+    "title": "6.2.4  本节习题精选",
+    "bookmarkPage": 285,
+    "page": 285,
+    "score": 1.32,
+    "text": "624 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 285,
+    "page": 285,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 287,
+    "page": 287,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.2.5  答案与解析",
+    "bookmarkPage": 287,
+    "page": 287,
+    "score": 1.32,
+    "text": "6 · 2. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 287,
+    "page": 287,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 289,
+    "page": 289,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.3  文件传输协议",
+    "bookmarkPage": 289,
+    "page": 289,
+    "score": 1.32,
+    "text": "6 · 3 文件传输协议",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.1  FTP的工作原理",
+    "bookmarkPage": 289,
+    "page": 289,
+    "score": 1.32,
+    "text": "6. 3. 1 FTP 的工作原理",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.2  控制连接与数据连接",
+    "bookmarkPage": 289,
+    "page": 289,
+    "score": 1.32,
+    "text": "6，3，2 控制连接与数据连接",
+    "numberMatched": true
+  },
+  {
+    "title": "1．控制连接",
+    "bookmarkPage": 290,
+    "page": 290,
+    "score": 1.32,
+    "text": "1. 控制连接",
+    "numberMatched": true
+  },
+  {
+    "title": "2．数据连接",
+    "bookmarkPage": 290,
+    "page": 290,
+    "score": 1.32,
+    "text": "2 ． 数据连接",
+    "numberMatched": true
+  },
+  {
+    "title": "6.3.3  本节习题精选",
+    "bookmarkPage": 290,
+    "page": 290,
+    "score": 1.32,
+    "text": "6，3 · 3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 290,
+    "page": 290,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 292,
+    "page": 292,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.3.4  答案与解析",
+    "bookmarkPage": 292,
+    "page": 292,
+    "score": 1.32,
+    "text": "6. 3. 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 292,
+    "page": 292,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 294,
+    "page": 294,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.4  电子邮件",
+    "bookmarkPage": 295,
+    "page": 295,
+    "score": 1.32,
+    "text": "6 · 4 电子邮件",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.1  电子邮件系统的组成结构",
+    "bookmarkPage": 295,
+    "page": 295,
+    "score": 1.32,
+    "text": "6. 4，1 电子邮件系统的组成结构",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.2  电子邮件格式与MIME",
+    "bookmarkPage": 296,
+    "page": 296,
+    "score": 1.32,
+    "text": "642 电子邮件格式与 MIME",
+    "numberMatched": true
+  },
+  {
+    "title": "1．电子邮件格式",
+    "bookmarkPage": 296,
+    "page": 296,
+    "score": 1.153,
+    "text": "1. 电子邮件榕式",
+    "numberMatched": true
+  },
+  {
+    "title": "2．多用途互联网邮件扩展（MIME）",
+    "bookmarkPage": 297,
+    "page": 297,
+    "score": 1.32,
+    "text": "2 ． 多用途互联网邮件扩展 (MIME)",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.3  SMTP和POP3",
+    "bookmarkPage": 297,
+    "page": 297,
+    "score": 1.32,
+    "text": "6，4，3 SMTP 和 POP3",
+    "numberMatched": true
+  },
+  {
+    "title": "1．SMTP",
+    "bookmarkPage": 297,
+    "page": 297,
+    "score": 1.07,
+    "text": "1. S、ITP",
+    "numberMatched": true
+  },
+  {
+    "title": "2．POP3和IMAP",
+    "bookmarkPage": 298,
+    "page": 298,
+    "score": 1.32,
+    "text": "2 · POP3 和 IMAP",
+    "numberMatched": true
+  },
+  {
+    "title": "6.4.4  本节习题精选",
+    "bookmarkPage": 298,
+    "page": 298,
+    "score": 1.32,
+    "text": "6，4 · 4 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 298,
+    "page": 298,
+    "score": 0.909,
+    "text": "、单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 299,
+    "page": 299,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.4.5  答案与解析",
+    "bookmarkPage": 300,
+    "page": 300,
+    "score": 1.32,
+    "text": "6 · 4. 5 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 300,
+    "page": 300,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 301,
+    "page": 301,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.5  万维网",
+    "bookmarkPage": 301,
+    "page": 301,
+    "score": 1.32,
+    "text": "6 · 5 万维网",
+    "numberMatched": true
+  },
+  {
+    "title": "6.5.1  万维网的概念与组成结构",
+    "bookmarkPage": 301,
+    "page": 301,
+    "score": 1.32,
+    "text": "6，5，1 万维网的概念与组成结构",
+    "numberMatched": true
+  },
+  {
+    "title": "6.5.2  超文本传输协议",
+    "bookmarkPage": 302,
+    "page": 302,
+    "score": 1.32,
+    "text": "6，5 · 2 超文本传输协议",
+    "numberMatched": true
+  },
+  {
+    "title": "1．HTTP的操作过程",
+    "bookmarkPage": 302,
+    "page": 302,
+    "score": 1.32,
+    "text": "1. HTTP 的操作过程",
+    "numberMatched": true
+  },
+  {
+    "title": "2．HTTP的特点",
+    "bookmarkPage": 303,
+    "page": 303,
+    "score": 1.32,
+    "text": "2 ． HTTP 的特点",
+    "numberMatched": true
+  },
+  {
+    "title": "3．HTTP的报文结构",
+    "bookmarkPage": 304,
+    "page": 304,
+    "score": 1.32,
+    "text": "3 · HTTP 的报文结构",
+    "numberMatched": true
+  },
+  {
+    "title": "4．代理服务器",
+    "bookmarkPage": 305,
+    "page": 305,
+    "score": 1.32,
+    "text": "4，代理服务器",
+    "numberMatched": true
+  },
+  {
+    "title": "5．HTTP请求报文举例",
+    "bookmarkPage": 306,
+    "page": 306,
+    "score": 1.32,
+    "text": "5 · HTTP 请求报文举例",
+    "numberMatched": true
+  },
+  {
+    "title": "6.5.3  本节习题精选",
+    "bookmarkPage": 307,
+    "page": 307,
+    "score": 1.32,
+    "text": "6. 5 · 3 本节习题精选",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 307,
+    "page": 307,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 309,
+    "page": 309,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.5.4  答案与解析",
+    "bookmarkPage": 310,
+    "page": 310,
+    "score": 1.32,
+    "text": "6，5 · 4 答案与解析",
+    "numberMatched": true
+  },
+  {
+    "title": "一、单项选择题",
+    "bookmarkPage": 310,
+    "page": 310,
+    "score": 0.909,
+    "text": "单项选择题",
+    "numberMatched": false
+  },
+  {
+    "title": "二、综合应用题",
+    "bookmarkPage": 313,
+    "page": 313,
+    "score": 0.909,
+    "text": "综合应用题",
+    "numberMatched": false
+  },
+  {
+    "title": "6.6  本章小结及疑难点",
+    "bookmarkPage": 315,
+    "page": 315,
+    "score": 1.32,
+    "text": "6 · 6 本章小结及疑难点",
+    "numberMatched": true
+  },
+  {
+    "title": "1．共享式以太网的基本特点",
+    "bookmarkPage": 132,
+    "page": 132,
+    "score": 1.32,
+    "text": "1. 共享式以太网的基本特点",
+    "numberMatched": true
+  }
+]
